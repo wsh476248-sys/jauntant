@@ -3316,6 +3316,24 @@
       "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/a60d6b68-234b-4a81-8982-8e7035f3a3dc"
     },
     {
+      "question": "XION 区块链的主要设计理念是简化技术复杂性，降低使用门槛？",
+      "options": [
+        "Ethereum 具有高速的交易确认速度",
+        "Ethereum 具有高速的交易确认速度",
+        "Ethereum 支持智能合约，容易实现复杂的挑战逻辑",
+        "Ethereum 支持智能合约，容易实现复杂的挑战逻辑",
+        "Ethereum 具有更高的安全性",
+        "Ethereum 具有更高的安全性",
+        "Ethereum 的区块大小更适合挑战机制的需求",
+        "Ethereum 的区块大小更适合挑战机制的需求"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T14:44:58.332Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/a60d6b68-234b-4a81-8982-8e7035f3a3dc"
+    },
+    {
       "question": "零知识证明的原理是什么？",
       "options": [
         "公开所有交易细节",
@@ -3629,6 +3647,24 @@
         "用户可以使用任何代币支付交易费用",
         "系统会通过去中心化交易所将用户支付的代币转换为 XION 代币",
         "开发者可以为用户赞助交易费用，实现无 Gas 费用体验"
+      ],
+      "timestamp": "2025-09-02T15:36:23.468Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-8194-835a-d4629a38a60c"
+    },
+    {
+      "question": "XION区块链是哪个团队推出的Layer 1区块链项目？",
+      "options": [
+        "用户只能使用XION本地代币支付交易费用",
+        "用户只能使用XION本地代币支付交易费用",
+        "用户可以使用任何代币支付交易费用",
+        "用户可以使用任何代币支付交易费用",
+        "系统会通过去中心化交易所将用户支付的代币转换为 XION 代币",
+        "系统会通过去中心化交易所将用户支付的代币转换为 XION 代币",
+        "开发者可以为用户赞助交易费用，实现无 Gas 费用体验",
+        "开发者可以为用户赞助交易费用，实现无 Gas 费用体验"
+      ],
+      "correctAnswers": [
+        "ConsenSys"
       ],
       "timestamp": "2025-09-02T15:36:23.468Z",
       "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-8194-835a-d4629a38a60c"
@@ -4016,6 +4052,16 @@
         "学习认证的可信度和不可篡改性",
         "跨平台整合学习记录",
         "学生对学习数据的隐私与主权控制"
+      ],
+      "timestamp": "2025-09-02T16:35:12.385Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-8167-81c6-ca8220deeb8a"
+    },
+    {
+      "question": "使用 solana-keygen 创建新账户时，--derivation-path 参数用于？",
+      "options": [
+      ],
+      "correctAnswers": [
+        "指定密钥派生路径"
       ],
       "timestamp": "2025-09-02T16:35:12.385Z",
       "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-8167-81c6-ca8220deeb8a"
@@ -4583,6 +4629,17 @@
       ],
       "timestamp": "2025-08-19T02:38:13.756Z",
       "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/1dadfdb3-9c04-439f-a1c2-afd1d5d602d4?phaseId=14ae7446-5ed5-81b3-91f5-cdda6049a360"
+    },
+    {
+      "question": "Solana 支持对交易进行并行处理，而以太坊只能串行顺序处理。 。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:38:35.510Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/d03f0025-aba2-4f15-8252-4b61dc2cd696"
     },
     {
       "question": "Solana 支持对交易进行并行处理，而以太坊只能串行顺序处理。。",
