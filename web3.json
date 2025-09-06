@@ -4774,7 +4774,84 @@
       "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
     },
     {
-      "question": "Solana 中的共识机制使用了 PoH 历史证明和 PoS 权益证明。。",
+      "question": "Solana 中程序（智能合约）跟以太坊一样，包含了状态 数据。 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "Solana 通过对账户收取 Rent 来避免状态膨胀 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "Solana 中程序的代码和状态是分离的 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "Solana 负责创建新账户是以下哪个程序？ ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "System Program"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "Solana 中一笔指令 Instruction 可以包含多个交易 Transaction 。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": " Solana 中交易手续费用于奖励节点，弥补节点的投入成本，同时也在一定程度上减少了网络中无效的交易 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "以下哪一种确认状态表示交易已得到网路中至少三分之二 Validator 节点的确认，并已得到31+个区块的确认，被视为最终不可更改的状态 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "finalized"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "Solana 中的共识机制使用了 PoH 历史证明和 PoS 权益证明。 。",
       "options": [
         "未找到选项"
       ],
@@ -5010,6 +5087,24 @@
       ],
       "correctAnswers": [
         "同时处理无依赖关系的交易"
+      ],
+      "timestamp": "2025-09-02T16:22:25.535Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/14ae7446-5ed5-81d4-8953-fedad75099c0"
+    },
+    {
+      "question": "Solana 区块链的创始人是 。",
+      "options": [
+        "通过节点同步交易的执行时间",
+        "通过节点同步交易的执行时间",
+        "同时处理无依赖关系的交易",
+        "同时处理无依赖关系的交易",
+        "限制网络中交易的总数量",
+        "限制网络中交易的总数量",
+        "强制所有交易按时间顺序依次执行",
+        "强制所有交易按时间顺序依次执行"
+      ],
+      "correctAnswers": [
+        "Anatoly Yakovenko"
       ],
       "timestamp": "2025-09-02T16:22:25.535Z",
       "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/14ae7446-5ed5-81d4-8953-fedad75099c0"
