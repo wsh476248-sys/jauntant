@@ -1,0 +1,5878 @@
+{
+  "meta": {
+    "exportedAt": "2025-08-18T10:49:37.070Z",
+    "source": "https://www.hackquest.io/zh-cn/home",
+    "version": "2.0"
+  },
+  "questions": [
+    {
+      "question": "为什么定期检查和撤销授权在区块链和加密货币管理中是重要的？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "提高安全性，保护资产"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "双重检查细节主要包括哪些内容？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "交易请求来源、钱包和合约地址、合约方法调用"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "该描述是否正确：去中心化金融（ DeFi ）服务不需要依赖任何中央权威或中介机构",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "下列哪种共识算法支持用户将投票权委托给少数代表节点，这些节点负责验证交易和创建新区块。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "DPoS"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "互联网发展的哪个阶段旨在建立一个去中心化的、由用户主导的网络？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Web 3.0"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "Web3的世界里强调去中心化，用户对自己创造的内容和数据拥有真正的所有权。该描述是否正确",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "该描述是否正确：非同质化代币（ NFT ）之间可以互相兑换。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:40:38.776Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/77dba865-713b-4896-8c7d-0ba464663221"
+    },
+    {
+      "question": "下面哪个区块链出现的最早？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Bitcoin"
+      ],
+      "timestamp": "2025-08-18T10:40:50.161Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/03ec4cad-1246-4e50-af1c-6f01e1a70b0a"
+    },
+    {
+      "question": "下面哪种共识机制对资源更加友好？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "PoS"
+      ],
+      "timestamp": "2025-08-18T10:40:54.622Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/03ec4cad-1246-4e50-af1c-6f01e1a70b0a"
+    },
+    {
+      "question": "该描述是否正确：Alice 如果想把钱包里的 BNB 兑换为 USDT，可以在 PancakeSwap 平台进行交易。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:41:11.720Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/edd88044-5589-4d93-bf6f-662738706d23"
+    },
+    {
+      "question": "该描述是否正确：如果使用分布式账本，单个参与者可以轻易地独立篡改账本记录。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:20.528Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/248c1ff1-0b09-4863-acc5-2869fad4ec56"
+    },
+    {
+      "question": "该描述是否正确：以太坊的交易数据中包含了发送方账户的余额信息。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:26.389Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/9dc8af1a-8e5b-4fe8-8536-e9d28974ab07"
+    },
+    {
+      "question": "该描述是否正确：以太坊的交易哈希是根据交易数据和签名一起计算得出的。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:26.890Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/9dc8af1a-8e5b-4fe8-8536-e9d28974ab07"
+    },
+    {
+      "question": "该描述是否正确：MD5 是目前最先进的哈希函数标准。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:32.039Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/a0a0c502-0d2a-43cc-b1ad-d404e714901f"
+    },
+    {
+      "question": "该描述是否正确：通过哈希值可以轻易逆向推出原始输入数据。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:32.414Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/a0a0c502-0d2a-43cc-b1ad-d404e714901f"
+    },
+    {
+      "question": "该描述是否正确：非对称加密中使用的公钥和私钥是相同的。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:34.518Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/f5c0bc4e-368b-4ef3-b5ac-48c6e2058f78"
+    },
+    {
+      "question": "对称加密的主要问题是什么？",
+      "options": [
+        "加密速度慢",
+        "加密速度慢",
+        "需要使用两个密钥",
+        "需要使用两个密钥",
+        "需要共享密钥，存在密钥泄露风险",
+        "需要共享密钥，存在密钥泄露风险",
+        "无法保证数据的完整性",
+        "无法保证数据的完整性"
+      ],
+      "correctAnswers": [
+        "需要共享密钥，存在密钥泄露风险"
+      ],
+      "timestamp": "2025-08-18T10:41:34.846Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/f5c0bc4e-368b-4ef3-b5ac-48c6e2058f78"
+    },
+    {
+      "question": "该描述是否正确：小红在验证小明的签名时，可以直接使用小明的公钥进行验证。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:41:52.323Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/b8a51b39-94fc-436f-a8e3-cf6964c5818f"
+    },
+    {
+      "question": "该描述是否正确：数字签名技术无法验证消息的真实来源。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:41:55.338Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/b8a51b39-94fc-436f-a8e3-cf6964c5818f"
+    },
+    {
+      "question": "该描述是否正确：PoW 机制不会导致任何中心化风险。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:42:40.365Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/f0321b3a-a8fc-4918-818d-21e8f8921cde"
+    },
+    {
+      "question": "该描述是否正确：PoW 机制的高能耗是其主要劣势之一。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:42:42.757Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/f0321b3a-a8fc-4918-818d-21e8f8921cde"
+    },
+    {
+      "question": "该描述是否正确：PoS 机制比 PoW 机制要消耗更多的算力。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:42:53.358Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/fff8ba65-cc3c-40a4-ad6a-1c60b17caf2b"
+    },
+    {
+      "question": "该描述是否正确：在 PoS 机制中，每个验证者被选中的概率与其质押的金额无关。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:42:57.530Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/fff8ba65-cc3c-40a4-ad6a-1c60b17caf2b"
+    },
+    {
+      "question": "该描述是否正确：随着区块链技术的进步，共识算法不再需要向去中心化的方向发展。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:43:12.738Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/5315fccb-e6c9-4a9b-afd0-3054236703ba"
+    },
+    {
+      "question": "该描述是否正确：私钥通过椭圆曲线加密算法（ ECDSA ）计算出对应的公钥。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:43:18.034Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/60617fd4-24c9-49f7-80b6-afbbefc0745b"
+    },
+    {
+      "question": "该描述是否正确：保管好私钥和助记词是保护资产安全的重要措施。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:43:19.846Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/60617fd4-24c9-49f7-80b6-afbbefc0745b"
+    },
+    {
+      "question": "该描述是否正确：网页钱包的安全性高于硬件钱包。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:43:32.401Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/3388481e-9bf9-4663-9ed1-82c1c796018e"
+    },
+    {
+      "question": "该描述是否正确：多签钱包适用于个人单独使用。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:43:35.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/3388481e-9bf9-4663-9ed1-82c1c796018e"
+    },
+    {
+      "question": "该描述是否正确：使用纸和笔记下私钥并进行多份备份是推荐的安全措施。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:43:43.547Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/4144cf8a-9fbf-4df1-ac19-dec8bf3eeaaf"
+    },
+    {
+      "question": "该描述是否正确：将所有资产存放在一个钱包中是一个降低风险的好方法。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:43:46.907Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/4144cf8a-9fbf-4df1-ac19-dec8bf3eeaaf"
+    },
+    {
+      "question": "该描述是否正确：在比特币网络中，交易信息存储在单一中心服务器上。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:43:58.842Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/54086014-e36b-46c4-a91f-56d1964a51c6"
+    },
+    {
+      "question": "我们可以在哪个区块链上运行智能合约，构建去中心化应用程序 DApps？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "以太坊"
+      ],
+      "timestamp": "2025-08-18T10:44:06.269Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/7f7c8ad1-1562-4a8e-9816-1d5e46493cd4"
+    },
+    {
+      "question": "该描述是否正确：以太坊的共识机制从工作量证明（ PoW ）转变为权益证明（ PoS ）。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:44:09.425Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/7f7c8ad1-1562-4a8e-9816-1d5e46493cd4"
+    },
+    {
+      "question": "该描述是否正确：DeFi 的交易记录无法被公众验证和审计。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:44:17.673Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/2a27b0b7-86e9-4e24-b241-b83827d0eebd"
+    },
+    {
+      "question": "该描述是否正确：NFT 可以用于证明数字艺术品和收藏品的所有权。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:44:25.087Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/968ebac1-5a03-4d71-8ed9-254ab6b22505"
+    },
+    {
+      "question": "该描述是否正确：MakerDAO 的治理决策通过私密的投票过程完成。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:44:32.255Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c7557b1-2dbc-4092-9ea2-a0c349e6f17c/429aa6d1-10ca-48f0-9f68-8fd43fe8832b"
+    },
+    {
+      "question": "Web3钱包跟传统数字钱包都具备转账，收款，查看记录等功能，并没有什么本质上的不一样",
+      "options": [
+        "正确",
+        "正确",
+        "错误",
+        "错误"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:44:49.658Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/d1cdc53c-7f5c-463e-ae5d-ca040eb2e598?phaseId=154e7446-5ed5-8125-93d7-e40e535357e8"
+    },
+    {
+      "question": "web3 钱包的类别都有哪一些？",
+      "options": [
+        "移动端钱包、桌面钱包",
+        "移动端钱包、桌面钱包",
+        "浏览器钱包，网页钱包",
+        "浏览器钱包，网页钱包",
+        "纸钱包，硬件钱包",
+        "纸钱包，硬件钱包",
+        "以上都是",
+        "以上都是"
+      ],
+      "correctAnswers": [
+        "以上都是"
+      ],
+      "timestamp": "2025-08-18T10:44:52.538Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/d1cdc53c-7f5c-463e-ae5d-ca040eb2e598?phaseId=154e7446-5ed5-8125-93d7-e40e535357e8"
+    },
+    {
+      "question": "我们下载Web3钱包可以利用Google中搜索，然后选择排名靠前的目标",
+      "options": [
+        "正确",
+        "正确",
+        "错误",
+        "错误"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T10:44:59.441Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/1959ee7b-16ed-40b8-a5b6-fc6489caec25"
+    },
+    {
+      "question": "以下哪些措施可以预防钱包被篡改？",
+      "options": [
+        "从正确的官网途径下载获取钱包",
+        "从正确的官网途径下载获取钱包",
+        "利用社区力量获取下载钱包版本的安全信息",
+        "利用社区力量获取下载钱包版本的安全信息",
+        "利用哈希、GPG签名校验下载钱包的一致性",
+        "利用哈希、GPG签名校验下载钱包的一致性",
+        "以上都是",
+        "以上都是"
+      ],
+      "correctAnswers": [
+        "以上都是"
+      ],
+      "timestamp": "2025-08-18T10:45:01.954Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/1959ee7b-16ed-40b8-a5b6-fc6489caec25"
+    },
+    {
+      "question": "我忘记了助记词，还能恢复我的Web3钱包吗?",
+      "options": [
+        "可以",
+        "可以",
+        "不可以",
+        "不可以"
+      ],
+      "correctAnswers": [
+        "不可以"
+      ],
+      "timestamp": "2025-08-18T10:45:08.568Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/6e3d130a-68ab-40f3-a890-104fc52c6274"
+    },
+    {
+      "question": "为什么不建议将助记词存储在云存储或联网设备上？",
+      "options": [
+        "因为云存储的空间有限",
+        "因为云存储的空间有限",
+        "因为助记词可能被黑客或恶意软件窃取",
+        "因为助记词可能被黑客或恶意软件窃取",
+        "因为助记词会自动过期",
+        "因为助记词会自动过期",
+        "因为联网设备不支持助记词存储",
+        "因为联网设备不支持助记词存储"
+      ],
+      "correctAnswers": [
+        "因为助记词可能被黑客或恶意软件窃取"
+      ],
+      "timestamp": "2025-08-18T10:45:10.418Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/6e3d130a-68ab-40f3-a890-104fc52c6274"
+    },
+    {
+      "question": "如果用户长时间不与DApp进行交互，通常会发生什么情况？",
+      "options": [
+        "钱包会自动断开连接",
+        "钱包会自动断开连接",
+        "钱包会自动转移所有资金",
+        "钱包会自动转移所有资金",
+        "钱包会发出警告信息",
+        "钱包会发出警告信息",
+        "钱包会请求用户重新登录",
+        "钱包会请求用户重新登录"
+      ],
+      "correctAnswers": [
+        "钱包会自动断开连接"
+      ],
+      "timestamp": "2025-08-18T10:45:21.111Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/53e8db84-b9a4-47b7-b1bb-197d4675972f"
+    },
+    {
+      "question": "在连接web3钱包时，哪项措施有助于确保交易的安全性？",
+      "options": [
+        "使用简单密码进行钱包访问",
+        "使用简单密码进行钱包访问",
+        "通过公共的Wi-Fi网络连接钱包",
+        "通过公共的Wi-Fi网络连接钱包",
+        "在连接前检查DApp的来源和安全性",
+        "在连接前检查DApp的来源和安全性",
+        "忽略钱包的授权请求，直接进行交易",
+        "忽略钱包的授权请求，直接进行交易"
+      ],
+      "correctAnswers": [
+        "在连接前检查DApp的来源和安全性"
+      ],
+      "timestamp": "2025-08-18T10:45:25.462Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/53e8db84-b9a4-47b7-b1bb-197d4675972f"
+    },
+    {
+      "question": "以下哪一项是私钥和公钥的主要区别？",
+      "options": [
+        "公钥用于签名交易，私钥用于验证签名",
+        "公钥用于签名交易，私钥用于验证签名",
+        "私钥可以公开分享，公钥必须保密",
+        "私钥可以公开分享，公钥必须保密",
+        "公钥用于加密信息，私钥用于解密信息",
+        "公钥用于加密信息，私钥用于解密信息",
+        "私钥通过公钥生成",
+        "私钥通过公钥生成"
+      ],
+      "correctAnswers": [
+        "公钥用于加密信息，私钥用于解密信息"
+      ],
+      "timestamp": "2025-08-18T10:45:32.174Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/502413f4-bf2e-4fb5-b3bc-0cd5704ff0db"
+    },
+    {
+      "question": "在Web3钱包中，私钥的主要作用是什么？",
+      "options": [
+        "储存用户的加密资产",
+        "储存用户的加密资产",
+        "生成助记词",
+        "生成助记词",
+        "对交易进行数字签名",
+        "对交易进行数字签名",
+        "验证其他用户的身份",
+        "验证其他用户的身份"
+      ],
+      "correctAnswers": [
+        "对交易进行数字签名"
+      ],
+      "timestamp": "2025-08-18T10:45:34.279Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/502413f4-bf2e-4fb5-b3bc-0cd5704ff0db"
+    },
+    {
+      "question": "助记词在Web3钱包中的主要作用是什么？",
+      "options": [
+        "生成公钥",
+        "生成公钥",
+        "恢复私钥",
+        "恢复私钥",
+        "验证签名",
+        "验证签名",
+        "加密交易",
+        "加密交易"
+      ],
+      "correctAnswers": [
+        "恢复私钥"
+      ],
+      "timestamp": "2025-08-18T10:45:43.270Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/afe31881-e745-4198-865d-c36449966cbc"
+    },
+    {
+      "question": "以下哪种类型的助记词通过分割私钥的方法，将助记词分成多个部分，只有收集到足够多的部分才能恢复私钥？",
+      "options": [
+        "普通助记词",
+        "普通助记词",
+        "加密助记词",
+        "加密助记词",
+        "多重签名助记词",
+        "多重签名助记词",
+        "Shamir’s Secret Sharing (SSS)",
+        "Shamir’s Secret Sharing (SSS)"
+      ],
+      "correctAnswers": [
+        "Shamir’s Secret Sharing (SSS)"
+      ],
+      "timestamp": "2025-08-18T10:45:45.160Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/afe31881-e745-4198-865d-c36449966cbc"
+    },
+    {
+      "question": "哪种签名请求被认为是危险的？",
+      "options": [
+        "来源可信，消息简单",
+        "来源可信，消息简单",
+        "来源可信，消息复杂",
+        "来源可信，消息复杂",
+        "没有明确来源，权限广泛",
+        "没有明确来源，权限广泛",
+        "来源不明，但消息简单",
+        "来源不明，但消息简单"
+      ],
+      "correctAnswers": [
+        "没有明确来源，权限广泛"
+      ],
+      "timestamp": "2025-08-18T10:45:51.899Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/c6253af1-b92a-44ed-9205-4c4941aa9ed5"
+    },
+    {
+      "question": "以下哪项描述正确反映了数字签名的安全性？",
+      "options": [
+        "可篡改性",
+        "可篡改性",
+        "无法验证身份",
+        "无法验证身份",
+        "不可篡改，防止抵赖",
+        "不可篡改，防止抵赖",
+        "私钥可以公开",
+        "私钥可以公开"
+      ],
+      "correctAnswers": [
+        "不可篡改，防止抵赖"
+      ],
+      "timestamp": "2025-08-18T10:45:52.402Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/c6253af1-b92a-44ed-9205-4c4941aa9ed5"
+    },
+    {
+      "question": "哪种授权形式风险最大？",
+      "options": [
+        "IncreaseAllowance",
+        "IncreaseAllowance",
+        "Approve",
+        "Approve",
+        "SetApprovalForAll",
+        "SetApprovalForAll",
+        "IncreaseApproval",
+        "IncreaseApproval"
+      ],
+      "correctAnswers": [
+        "SetApprovalForAll"
+      ],
+      "timestamp": "2025-08-18T10:45:57.446Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/3adcbf5b-70d5-468d-a3c4-95ed0092388c"
+    },
+    {
+      "question": "在授权过程中，应该如何确保交易安全？",
+      "options": [
+        "仔细检查交易细节，限制授权范围，保持警惕",
+        "仔细检查交易细节，限制授权范围，保持警惕",
+        "迅速批准所有交易",
+        "迅速批准所有交易",
+        "使用SetApprovalForAll",
+        "使用SetApprovalForAll",
+        "始终使用IncreaseAllowance",
+        "始终使用IncreaseAllowance"
+      ],
+      "correctAnswers": [
+        "仔细检查交易细节，限制授权范围，保持警惕"
+      ],
+      "timestamp": "2025-08-18T10:45:58.800Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/3adcbf5b-70d5-468d-a3c4-95ed0092388c"
+    },
+    {
+      "question": "什么是许可签名（Permit Signature）？",
+      "options": [
+        "一种传统的交易签名方式",
+        "一种传统的交易签名方式",
+        "允许持有者通过签名直接授予某个地址代币转账权限的机制",
+        "允许持有者通过签名直接授予某个地址代币转账权限的机制",
+        "一种加密货币的认证方式",
+        "一种加密货币的认证方式",
+        "一种用于密码恢复的签名方式",
+        "一种用于密码恢复的签名方式"
+      ],
+      "correctAnswers": [
+        "允许持有者通过签名直接授予某个地址代币转账权限的机制"
+      ],
+      "timestamp": "2025-08-18T10:46:06.411Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/e5917a4b-1a05-47a6-a691-3aa23ab5aa64"
+    },
+    {
+      "question": "恶意市场签名的特点是什么？",
+      "options": [
+        "内容易于理解",
+        "内容易于理解",
+        "内容难以阅读",
+        "内容难以阅读",
+        "仅用于合法交易",
+        "仅用于合法交易",
+        "只能在特定平台上使用",
+        "只能在特定平台上使用"
+      ],
+      "correctAnswers": [
+        "内容难以阅读"
+      ],
+      "timestamp": "2025-08-18T10:46:20.550Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/cbfc7bb5-2618-4fdd-9b00-a9357fbbabd8"
+    },
+    {
+      "question": "如果无法完全理解签名内容，应该怎么办？",
+      "options": [
+        "立即签署",
+        "立即签署",
+        "寻求朋友帮助",
+        "寻求朋友帮助",
+        "不要签署",
+        "不要签署",
+        "提交个人信息",
+        "提交个人信息"
+      ],
+      "correctAnswers": [
+        "不要签署"
+      ],
+      "timestamp": "2025-08-18T10:46:22.302Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/cbfc7bb5-2618-4fdd-9b00-a9357fbbabd8"
+    },
+    {
+      "question": "以下哪项不是防范诈骗的有效措施？",
+      "options": [
+        "保持警惕",
+        "保持警惕",
+        "独立验证",
+        "独立验证",
+        "寻求帮助",
+        "寻求帮助",
+        "快速做出决定以避免错过机会",
+        "快速做出决定以避免错过机会"
+      ],
+      "correctAnswers": [
+        "快速做出决定以避免错过机会"
+      ],
+      "timestamp": "2025-08-18T10:46:28.139Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/6bde3a89-2047-40b0-8f3c-b529336214f1"
+    },
+    {
+      "question": "Web3 钓鱼攻击的主要目标是什么？",
+      "options": [
+        "获取用户的个人联系方式",
+        "获取用户的个人联系方式",
+        "诱导用户下载恶意软件",
+        "诱导用户下载恶意软件",
+        "窃取用户的加密资产",
+        "窃取用户的加密资产",
+        "破坏用户的设备硬件",
+        "破坏用户的设备硬件"
+      ],
+      "correctAnswers": [
+        "窃取用户的加密资产"
+      ],
+      "timestamp": "2025-08-18T10:46:46.099Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/ec17cbbc-b3ce-4165-9185-15e74b4368a1"
+    },
+    {
+      "question": "如何避免成为钓鱼攻击的受害者",
+      "options": [
+        "随意点击所有链接",
+        "随意点击所有链接",
+        "确认网站的真实性和安全性",
+        "确认网站的真实性和安全性",
+        "在任何网站上输入私钥",
+        "在任何网站上输入私钥",
+        "忽略浏览器的安全提示",
+        "忽略浏览器的安全提示"
+      ],
+      "correctAnswers": [
+        "确认网站的真实性和安全性"
+      ],
+      "timestamp": "2025-08-18T10:46:47.614Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/ec17cbbc-b3ce-4165-9185-15e74b4368a1"
+    },
+    {
+      "question": "社会工程攻击者在 Telegram 和 Discord 上发布虚假信息的目的是？",
+      "options": [
+        "提高社交媒体的活跃度",
+        "提高社交媒体的活跃度",
+        "误导用户并骗取其加密资产",
+        "误导用户并骗取其加密资产",
+        "增加平台的用户数量",
+        "增加平台的用户数量",
+        "促销合法的区块链项目",
+        "促销合法的区块链项目"
+      ],
+      "correctAnswers": [
+        "误导用户并骗取其加密资产"
+      ],
+      "timestamp": "2025-08-18T10:46:53.024Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/2a8ec78e-0aa9-4167-b71c-442eedb1c694"
+    },
+    {
+      "question": "在 Web3 社会工程攻击中，攻击者假冒哪个身份最能诱导用户提供敏感信息？",
+      "options": [
+        "普通用户",
+        "普通用户",
+        "社交媒体网红",
+        "社交媒体网红",
+        "知名加密货币项目的团队成员",
+        "知名加密货币项目的团队成员",
+        "网络安全专家",
+        "网络安全专家"
+      ],
+      "correctAnswers": [
+        "知名加密货币项目的团队成员"
+      ],
+      "timestamp": "2025-08-18T10:46:57.311Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/2a8ec78e-0aa9-4167-b71c-442eedb1c694"
+    },
+    {
+      "question": "以下哪一项是防范恶意程序攻击的有效措施",
+      "options": [
+        "不进行系统更新。",
+        "不进行系统更新。",
+        "定期使用防病毒软件进行扫描。",
+        "定期使用防病毒软件进行扫描。",
+        "点击所有收到的电子邮件附件。",
+        "点击所有收到的电子邮件附件。",
+        "关闭防病软件。",
+        "关闭防病软件。"
+      ],
+      "correctAnswers": [
+        "定期使用防病毒软件进行扫描。"
+      ],
+      "timestamp": "2025-08-18T10:47:04.385Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/fdb08736-19df-4bd9-a93a-c7f0a29e6ba6"
+    },
+    {
+      "question": "为什么要开启文件扩展名显示功能？",
+      "options": [
+        "使文件看起来更简洁。",
+        "使文件看起来更简洁。",
+        "帮助识别文件的实际类型。",
+        "帮助识别文件的实际类型。",
+        "增加系统的复杂性。",
+        "增加系统的复杂性。",
+        "提高文件传输速度。",
+        "提高文件传输速度。"
+      ],
+      "correctAnswers": [
+        "帮助识别文件的实际类型。"
+      ],
+      "timestamp": "2025-08-18T10:47:06.899Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/fdb08736-19df-4bd9-a93a-c7f0a29e6ba6"
+    },
+    {
+      "question": "如何识别虚假费用",
+      "options": [
+        "随意进行交易。",
+        "随意进行交易。",
+        "仔细核对交易的每一个细节。",
+        "仔细核对交易的每一个细节。",
+        "使用不明来源的钱包。",
+        "使用不明来源的钱包。",
+        "不检查交易信息。",
+        "不检查交易信息。"
+      ],
+      "correctAnswers": [
+        "仔细核对交易的每一个细节。"
+      ],
+      "timestamp": "2025-08-18T10:47:12.752Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/27f4432a-92a0-49c8-bb85-fe34b3f8a835"
+    },
+    {
+      "question": "空投诈骗的主要目的是？",
+      "options": [
+        "增加项目的曝光度。",
+        "增加项目的曝光度。",
+        "吸引更多用户参与。",
+        "吸引更多用户参与。",
+        "骗取用户的私钥、助记词、钱包密码等敏感信息。",
+        "骗取用户的私钥、助记词、钱包密码等敏感信息。",
+        "赠送用户更多代币。",
+        "赠送用户更多代币。"
+      ],
+      "correctAnswers": [
+        "骗取用户的私钥、助记词、钱包密码等敏感信息。"
+      ],
+      "timestamp": "2025-08-18T10:47:17.766Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/49111c58-c4d3-49b1-ae83-797bc64c4e47"
+    },
+    {
+      "question": "如何核实空投的真实性？",
+      "options": [
+        "随便点击所有空投链接。",
+        "随便点击所有空投链接。",
+        "检查空投信息的来源，确认其来自官方渠道。",
+        "检查空投信息的来源，确认其来自官方渠道。",
+        "提供私钥以确认空投资格。",
+        "提供私钥以确认空投资格。",
+        "下载所有空投相关文件。",
+        "下载所有空投相关文件。"
+      ],
+      "correctAnswers": [
+        "检查空投信息的来源，确认其来自官方渠道。"
+      ],
+      "timestamp": "2025-08-18T10:47:19.387Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/49111c58-c4d3-49b1-ae83-797bc64c4e47"
+    },
+    {
+      "question": "为什么在Web3世界中使用多个钱包地址是重要的？",
+      "options": [
+        "增加交易费用",
+        "增加交易费用",
+        "简化交易过程",
+        "简化交易过程",
+        "保护资产",
+        "保护资产",
+        "提高交易速度",
+        "提高交易速度"
+      ],
+      "correctAnswers": [
+        "保护资产"
+      ],
+      "timestamp": "2025-08-18T10:47:31.806Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/ddfbc7d4-4f45-42b3-8d6f-30dff79c41d2"
+    },
+    {
+      "question": "以下哪个钱包在TAP协议中专门用于存放高价值资产且不与合约交互？",
+      "options": [
+        "铸币钱包（Mint Wallet）",
+        "铸币钱包（Mint Wallet）",
+        "交易钱包（Marketplace Wallet）",
+        "交易钱包（Marketplace Wallet）",
+        "保险库钱包（Vault Wallet）",
+        "保险库钱包（Vault Wallet）",
+        "日常钱包（Daily Wallet）",
+        "日常钱包（Daily Wallet）"
+      ],
+      "correctAnswers": [
+        "保险库钱包（Vault Wallet）"
+      ],
+      "timestamp": "2025-08-18T10:47:33.564Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/ddfbc7d4-4f45-42b3-8d6f-30dff79c41d2"
+    },
+    {
+      "question": "利用书签的主要目的是？",
+      "options": [
+        "加快网页加载速度",
+        "加快网页加载速度",
+        "保存常用交易对象地址和网站，确保操作对象安全",
+        "保存常用交易对象地址和网站，确保操作对象安全",
+        "记录浏览历史",
+        "记录浏览历史",
+        "提供快捷支付功能",
+        "提供快捷支付功能"
+      ],
+      "correctAnswers": [
+        "保存常用交易对象地址和网站，确保操作对象安全"
+      ],
+      "timestamp": "2025-08-18T10:47:39.054Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/f8860b7d-53df-4469-8e67-129b186cdc6a"
+    },
+    {
+      "question": "长时间未使用的授权可能会带来什么风险？",
+      "options": [
+        "增加交易成本",
+        "增加交易成本",
+        "成为攻击者的目标",
+        "成为攻击者的目标",
+        "减少资产的数量",
+        "减少资产的数量",
+        "增加资产的安全性",
+        "增加资产的安全性"
+      ],
+      "correctAnswers": [
+        "成为攻击者的目标"
+      ],
+      "timestamp": "2025-08-18T10:47:52.246Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/a2fa2d4d-a9e2-4171-812e-26f470d0596c"
+    },
+    {
+      "question": "保护现场时需要立刻断网",
+      "options": [
+        "正确",
+        "正确",
+        "错误",
+        "错误"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T10:48:02.350Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/f379b607-381c-4181-b7ef-baec94789e33"
+    },
+    {
+      "question": "在追踪溯源环节中，利用区块链浏览器可以帮助你做什么？",
+      "options": [
+        "查找被盗资金的去向",
+        "查找被盗资金的去向",
+        "更改区块链上的交易记录",
+        "更改区块链上的交易记录",
+        "恢复被盗的资金",
+        "恢复被盗的资金",
+        "删除黑客的地址",
+        "删除黑客的地址"
+      ],
+      "correctAnswers": [
+        "查找被盗资金的去向"
+      ],
+      "timestamp": "2025-08-18T10:48:07.128Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/db403431-77b9-45a1-bff8-8d11318487db/f379b607-381c-4181-b7ef-baec94789e33"
+    },
+    {
+      "question": "ArbOS 在 Arbitrum 生态系统中扮演的角色最类似于什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "操作系统"
+      ],
+      "timestamp": "2025-08-18T13:40:02.197Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/8d550729-5231-4ded-aa2c-c66534e902c4"
+    },
+    {
+      "question": "Arbitrum Classic 处理交易时涉及的两种费用组成部分是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "L1 资源费用和 L2 资源费用"
+      ],
+      "timestamp": "2025-08-18T13:40:35.398Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/b38d3a55-95d3-4d47-b714-2199bcedc1fb"
+    },
+    {
+      "question": "Arbitrum Classic 面临的主要问题包括哪些？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "以上所有"
+      ],
+      "timestamp": "2025-08-18T13:40:45.406Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/a84ed875-d8fc-4358-9fe2-7b867e771162"
+    },
+    {
+      "question": "Arbitrum Nitro 升级的主要成果包括什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "降低费用、增加容量和整体更快的体验"
+      ],
+      "timestamp": "2025-08-18T13:41:09.919Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/a3e60964-d5bd-4480-8e42-9d350e21b82b"
+    },
+    {
+      "question": "Arbitrum 排序器的工作原理与以太坊的主要区别是：Arbitrum 排序器按照交易到达的先后顺序决定执行顺序，而以太坊主要依据交易费用，这种说法正确吗？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T13:41:24.814Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/3b3fae34-48c7-4152-afe6-27accdb435de"
+    },
+    {
+      "question": "状态转换函数处理交易后的结果是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "更新区块链的当前状态"
+      ],
+      "timestamp": "2025-08-18T13:41:48.131Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/9fe8918d-c6f2-4de8-9ee0-0d3534177c12"
+    },
+    {
+      "question": "Nitro 如何确保交易的最终确定性？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "通过定期将交易序列压缩后发布到以太坊 L1 链上"
+      ],
+      "timestamp": "2025-08-18T13:42:09.017Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/4de98459-88a8-4ae6-a9bb-4dd831ed93d8"
+    },
+    {
+      "question": "在“ geth 三明治”结构中，ArbOS 的主要作用是解析排序器发出的数据批次并计算 Layer 1 的 gas 成本，这种说法正确吗？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T13:42:18.210Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/3bf4e218-d2c7-4155-8ef7-9657ea440246"
+    },
+    {
+      "question": "欺诈证明机制的主要目的是加快交易确认速度",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T13:42:25.557Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/f840ab73-f57a-4d2a-9187-5491352f5e2e"
+    },
+    {
+      "question": "Nitro 系统通过将源代码根据用途编译成原生代码和 WAVM 格式的代码 ，实现高效的操作执行和可靠的执行结果验证？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T13:42:32.694Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/e05be2ae-c3af-488a-9852-4ccf9382ac9b"
+    },
+    {
+      "question": "交互式欺诈证明的主要好处是通过参与者之间的互动在链下解决争议，减少区块链合约的介入",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T13:42:38.734Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/01c3b3d0-bd05-4b5b-a0f2-4fc058d58251"
+    },
+    {
+      "question": "哪一项 Arbitrum One 的核心优势确保了与 EVM 的高度兼容性？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "直接使用 Geth 实现"
+      ],
+      "timestamp": "2025-08-18T13:42:45.838Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/cb5936d6-60c1-4896-814d-e14f5651138d"
+    },
+    {
+      "question": "Arbitrum Nova 采用的 AnyTrust 技术的核心在于？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "创建一个被信任的小组，即数据可用性委员会"
+      ],
+      "timestamp": "2025-08-18T13:42:57.334Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/ff7b0033-d32b-4dcd-9862-3315cad0f361"
+    },
+    {
+      "question": "AnyTrust 技术中的数据可用性委员会的作用是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "存储和管理区块链上的数据"
+      ],
+      "timestamp": "2025-08-18T13:43:05.010Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/5a3cf37f-555a-4017-9b40-55c28e31f852"
+    },
+    {
+      "question": "数据可用性证书（ Data Availability Certificate ）包含以下哪三个主要部分？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "数据块的哈希值、过期时间和签名证据"
+      ],
+      "timestamp": "2025-08-18T13:43:13.166Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/54d067c2-18be-49ad-aa9e-1d1ec35b7ad4"
+    },
+    {
+      "question": "数据可用性服务器（ Data Availability Servers ）提供了两种主要的与外界交互的方式，分别是？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Sequencer API 和 REST API"
+      ],
+      "timestamp": "2025-08-18T13:43:25.784Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/7a23ce83-e753-43d3-93c6-eced624e0415"
+    },
+    {
+      "question": "排序器与数据可用性委员会之间的互动包括以下哪些步骤？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "数据提交、签名过程、创建和发布 DACert"
+      ],
+      "timestamp": "2025-08-18T13:43:35.124Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/6d198244-01f8-4d5a-a985-e65fa5e08c8c"
+    },
+    {
+      "question": "One 和 Nova 之间最核心的区别在于哪里？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "数据的可用性"
+      ],
+      "timestamp": "2025-08-18T13:43:53.697Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/7106546a-c27e-4eef-8c6b-6d1c07b2d1f9"
+    },
+    {
+      "question": "Arbitrum Nova 适用于哪些应用场景？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "游戏和社交媒体应用"
+      ],
+      "timestamp": "2025-08-18T13:44:03.738Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/e5c52ae2-bbfb-403c-b015-dea16e5b55bb"
+    },
+    {
+      "question": "Arbitrum 推出的 Arbitrum Orbit 是什么样的产品？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "一个 Layer3 解决方案"
+      ],
+      "timestamp": "2025-08-18T13:44:13.235Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/bc8c8105-6589-4a68-a5ce-6d9772356617"
+    },
+    {
+      "question": "Orbit 链在提供自定义 gas 代币方面的主要优势是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "允许使用任意 ERC-20 代币作为原生 gas 代币支付 gas 费"
+      ],
+      "timestamp": "2025-08-18T13:44:23.814Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/b75fba8b-0a40-496b-8aba-0f200a8ba144"
+    },
+    {
+      "question": "Orbit 链的 EVM+ 兼容性为开发者带来了哪些好处？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "允许使用多种编程语言开发 EVM 兼容智能合约"
+      ],
+      "timestamp": "2025-08-18T13:44:31.870Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/b75fba8b-0a40-496b-8aba-0f200a8ba144"
+    },
+    {
+      "question": "Arbitrum Stylus 技术的引入带来的主要变化和优势是引入了 WebAssembly 虚拟机，允许使用多种编程语言开发智能合约",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T13:44:37.971Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/f263a63a-d9e1-4de8-aa87-5dd34b90594b"
+    },
+    {
+      "question": "Stylus 智能合约开发流程包括哪些主要步骤？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "编码、编译、执行、验证"
+      ],
+      "timestamp": "2025-08-18T13:44:45.835Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/daec29d8-219e-4ab1-90fc-508813bb0677"
+    },
+    {
+      "question": "Stylus 平台的主要优势和特性包括哪些方面？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "提供更快的计算速度、更低的 gas 成本，并启用新的使用案例"
+      ],
+      "timestamp": "2025-08-18T13:44:53.865Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/b3c15b85-4a4e-4dbb-a3b8-234d4448cdbd"
+    },
+    {
+      "question": "Arbitrum One 和Arbitrum Nova 使用的技术栈是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "两者都使用 Nitro 技术栈，但实现不同的协议"
+      ],
+      "timestamp": "2025-08-18T13:45:06.820Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/5dc86824-7df3-4126-a1f9-5fee689cb33c"
+    },
+    {
+      "question": "Arbitrum 的核心目标是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "在以太坊网络上实现快速且经济高效的交易"
+      ],
+      "timestamp": "2025-08-18T13:45:20.540Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/9b394872-6245-481b-bacf-63092b83553a?phaseId=14ce7446-5ed5-81b6-a47d-ebc3496a1d69"
+    },
+    {
+      "question": "Arbitrum的主网包括哪些网络？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Arbitrum One 和 Arbitrum Nova"
+      ],
+      "timestamp": "2025-08-18T13:45:25.311Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/40702a28-46ba-4f7c-80fd-79e31217b621"
+    },
+    {
+      "question": "Arbitrum如何实现其高吞吐量的可扩展性？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "将以太坊的计算和存储转移至链下"
+      ],
+      "timestamp": "2025-08-18T13:45:26.848Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/40702a28-46ba-4f7c-80fd-79e31217b621"
+    },
+    {
+      "question": "Arbitrum Classic 通过使用哪种技术显著提高了交易吞吐量并降低了交易成本？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Optimistic Rollups"
+      ],
+      "timestamp": "2025-08-18T13:45:33.931Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/a6b38e4f-684c-481d-a797-d0ed3d6bc226"
+    },
+    {
+      "question": "AVM（Arbitrum 虚拟机）的主要目的是什么？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "执行和管理 Arbitrum 链上的操作和状态"
+      ],
+      "timestamp": "2025-08-18T13:45:38.485Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/3bfe70cb-d4a5-4941-ac32-5b2e2ca11cb3"
+    },
+    {
+      "question": "状态转换函数在 Arbitrum One 中的输入包括哪两部分？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "当前状态和下一笔交易"
+      ],
+      "timestamp": "2025-08-18T13:46:01.189Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/9fe8918d-c6f2-4de8-9ee0-0d3534177c12"
+    },
+    {
+      "question": "在 Arbitrum One 的交易处理过程中“软确认”是指当交易在以太坊 L1 链上确认后的状态，这种说法正确吗？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-18T13:46:06.150Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/aa7422b6-e968-464e-b605-1dc5f27be405/4de98459-88a8-4ae6-a9bb-4dd831ed93d8"
+    },
+    {
+      "question": "Eclipse 为什么选择 Celestia 作为其数据可用性（DA）层？",
+      "options": [
+        "因为 Celestia 提供了最高的安全性和去中心化。",
+        "因为 Celestia 提供了最高的安全性和去中心化。",
+        "因为 Celestia 提供了更大的数据存储空间和更高效的数据验证机制。",
+        "因为 Celestia 提供了更大的数据存储空间和更高效的数据验证机制。",
+        "因为 Celestia 是唯一可以处理大规模数据的平台。",
+        "因为 Celestia 是唯一可以处理大规模数据的平台。",
+        "因为 Celestia 提供了免费的数据存储服务。",
+        "因为 Celestia 提供了免费的数据存储服务。"
+      ],
+      "correctAnswers": [
+        "因为 Celestia 提供了更大的数据存储空间和更高效的数据验证机制。"
+      ],
+      "timestamp": "2025-09-02T15:12:16.302Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11be7446-5ed5-81b4-9db9-c90e71d08608?phaseId=14de7446-5ed5-8124-8e82-f11d09b5a3bb"
+    },
+    {
+      "question": "为什么 Eclipse 采用 SVM 而不是 EVM 作为其执行层虚拟机？",
+      "options": [
+        "SVM 使用的编程语言更常见，开发者学习成本更低。",
+        "SVM 使用的编程语言更常见，开发者学习成本更低。",
+        "SVM 支持更高的并行处理能力，允许同时执行多个交易，提高了交易处理效率。",
+        "SVM 支持更高的并行处理能力，允许同时执行多个交易，提高了交易处理效率。",
+        "SVM 的交易费用更低，能够为用户节省费用，尤其是在高频交易的场景下。",
+        "SVM 的交易费用更低，能够为用户节省费用，尤其是在高频交易的场景下。",
+        "SVM 专为去中心化应用（dApps）设计，适合大规模去中心化平台的部署。",
+        "SVM 专为去中心化应用（dApps）设计，适合大规模去中心化平台的部署。"
+      ],
+      "correctAnswers": [
+        "SVM 支持更高的并行处理能力，允许同时执行多个交易，提高了交易处理效率。"
+      ],
+      "timestamp": "2025-09-02T15:12:49.212Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11ce7446-5ed5-81fb-be1a-f7215ae7d295"
+    },
+    {
+      "question": "为什么 Eclipse 采用以太坊作为其结算层？",
+      "options": [
+        "因为以太坊拥有最先进的虚拟机，适合快速执行智能合约。",
+        "因为以太坊拥有最先进的虚拟机，适合快速执行智能合约。",
+        "因为以太坊具有强大的安全性和丰富的 DeFi 及 NFT 生态系统。",
+        "因为以太坊具有强大的安全性和丰富的 DeFi 及 NFT 生态系统。",
+        "因为以太坊的交易成本最低，适合进行高频交易的结算操作。",
+        "因为以太坊的交易成本最低，适合进行高频交易的结算操作。",
+        "因为以太坊可以提供最高的交易吞吐量，适合大规模的 Rollup 网络。",
+        "因为以太坊可以提供最高的交易吞吐量，适合大规模的 Rollup 网络。"
+      ],
+      "correctAnswers": [
+        "因为以太坊具有强大的安全性和丰富的 DeFi 及 NFT 生态系统。"
+      ],
+      "timestamp": "2025-09-02T15:13:12.361Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11ce7446-5ed5-8136-9813-c7260cbc6974"
+    },
+    {
+      "question": "在 Eclipse 主网中，如何处理来自以太坊虚拟机（EVM）的交易？",
+      "options": [
+        "直接将 EVM 交易发送到 Eclipse 的全节点进行处理。",
+        "直接将 EVM 交易发送到 Eclipse 的全节点进行处理。",
+        "使用代理节点将 EVM 交易转换为 SVM 交易，然后发送到 Eclipse 主网的全节点。",
+        "使用代理节点将 EVM 交易转换为 SVM 交易，然后发送到 Eclipse 主网的全节点。",
+        "将 EVM 交易通过以太坊网络进行处理。",
+        "将 EVM 交易通过以太坊网络进行处理。",
+        "将 EVM 交易直接发送到 dApp 进行处理。",
+        "将 EVM 交易直接发送到 dApp 进行处理。"
+      ],
+      "correctAnswers": [
+        "使用代理节点将 EVM 交易转换为 SVM 交易，然后发送到 Eclipse 主网的全节点。"
+      ],
+      "timestamp": "2025-09-02T15:14:28.339Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11de7446-5ed5-817c-99cc-e79873e691d5"
+    },
+    {
+      "question": "为什么区块链上交易的顺序如此重要？",
+      "options": [
+        "确保交易被保存到正确的区块中",
+        "确保交易被保存到正确的区块中",
+        "防止交易被重复执行",
+        "防止交易被重复执行",
+        "避免矿工提取价值（MEV）所带来的潜在套利机会",
+        "避免矿工提取价值（MEV）所带来的潜在套利机会",
+        "确保每笔交易都有足够的手续费",
+        "确保每笔交易都有足够的手续费"
+      ],
+      "correctAnswers": [
+        "避免矿工提取价值（MEV）所带来的潜在套利机会"
+      ],
+      "timestamp": "2025-09-02T15:16:00.774Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/14de7446-5ed5-818f-967c-cc008efb5339"
+    },
+    {
+      "question": "Eclipse 网络如何避免传统区块链计算全局状态根的瓶颈？",
+      "options": [
+        "使用零知识证明（ZK）去提交“状态差异”（state diff）",
+        "使用零知识证明（ZK）去提交“状态差异”（state diff）",
+        "将状态根提交到以太坊",
+        "将状态根提交到以太坊",
+        "使用更快的排序算法",
+        "使用更快的排序算法",
+        "通过分片技术优化状态更新",
+        "通过分片技术优化状态更新"
+      ],
+      "correctAnswers": [
+        "将状态根提交到以太坊"
+      ],
+      "timestamp": "2025-09-02T15:16:52.504Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11fe7446-5ed5-81ba-8fcd-eadf18d5c64b"
+    },
+    {
+      "question": "在重新执行交易后，验证者需要将其计算的承诺与什么进行比较？",
+      "options": [
+        "原始交易数据",
+        "原始交易数据",
+        "状态根承诺",
+        "状态根承诺",
+        "发布到以太坊的承诺",
+        "发布到以太坊的承诺",
+        "交易手续费",
+        "交易手续费"
+      ],
+      "correctAnswers": [
+        "发布到以太坊的承诺"
+      ],
+      "timestamp": "2025-09-02T15:17:06.413Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11fe7446-5ed5-810a-9801-c3178a5ff63f"
+    },
+    {
+      "question": "使用 solana-keygen 创建新账户时，--derivation-path 参数用于？",
+      "options": [
+        "生成随机助记词",
+        "生成随机助记词",
+        "指定密钥派生路径",
+        "指定密钥派生路径",
+        "设置账户名称",
+        "设置账户名称",
+        "导入现有密钥",
+        "导入现有密钥"
+      ],
+      "correctAnswers": [
+        "指定密钥派生路径"
+      ],
+      "timestamp": "2025-09-02T15:17:11.870Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11ce7446-5ed5-817c-b650-e674245d1475"
+    },
+    {
+      "question": "Eclipse 网络中使用哪种加密货币作为支付代币？",
+      "options": [
+        "BTC",
+        "BTC",
+        "Ethereum ETH",
+        "Ethereum ETH",
+        "Eclipse ETH",
+        "Eclipse ETH",
+        "SOL",
+        "SOL"
+      ],
+      "correctAnswers": [
+        "Eclipse ETH"
+      ],
+      "timestamp": "2025-09-02T15:17:23.059Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/6626f6fe-6e4b-48ed-b802-c0fa7246a506"
+    },
+    {
+      "question": "Eclipse Testnet 提供什么功能？",
+      "options": [
+        "测试 EVM 程序",
+        "测试 EVM 程序",
+        "模拟 Mainnet Beta，进行功能测试",
+        "模拟 Mainnet Beta，进行功能测试",
+        "仅用于存储数据",
+        "仅用于存储数据",
+        "实际的生产环境",
+        "实际的生产环境"
+      ],
+      "correctAnswers": [
+        "模拟 Mainnet Beta，进行功能测试"
+      ],
+      "timestamp": "2025-09-02T15:17:41.849Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11ce7446-5ed5-8103-9d6a-fa46421fdd12"
+    },
+    {
+      "question": "Eclipse 使用哪种虚拟机来提升以太坊 Layer 2 的性能？",
+      "options": [
+        "EVM（以太坊虚拟机）",
+        "EVM（以太坊虚拟机）",
+        "SVM（Solana 虚拟机）",
+        "SVM（Solana 虚拟机）",
+        "WASM（WebAssembly虚拟机）",
+        "WASM（WebAssembly虚拟机）",
+        "BitVM（比特币虚拟机）",
+        "BitVM（比特币虚拟机）"
+      ],
+      "correctAnswers": [
+        "SVM（Solana 虚拟机）"
+      ],
+      "timestamp": "2025-09-02T15:18:47.051Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/11de7446-5ed5-818d-96a6-dd9d6cd0ee81?phaseId=14de7446-5ed5-8124-8e82-f11d09b5a3bb"
+    },
+    {
+      "question": "在 Eclipse 上，使用哪个预言机获取链上金融市场数据？",
+      "options": [
+        "Pyth Network",
+        "Pyth Network",
+        "Chainlink",
+        "Chainlink",
+        "Band Protocol",
+        "Band Protocol",
+        "Tellor",
+        "Tellor"
+      ],
+      "correctAnswers": [
+        "Pyth Network"
+      ],
+      "timestamp": "2025-09-02T15:18:56.246Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/17693a59-0105-4962-b630-c864722f1b11/c1b3ba6b-3d0b-494a-952b-c44176145802"
+    },
+    {
+      "question": "EDU Chain 的最终安全性依托于哪个区块链网络？",
+      "options": [
+        "Arbitrum",
+        "Arbitrum",
+        "Cosmos",
+        "Cosmos",
+        "以太坊",
+        "以太坊",
+        "波卡",
+        "波卡"
+      ],
+      "correctAnswers": [
+        "以太坊"
+      ],
+      "timestamp": "2025-09-02T16:29:14.127Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13ce7446-5ed5-81dd-8642-e2f795ce1b6d"
+    },
+    {
+      "question": "在 Validator 检测到 Sequencer 提交的交易数据不一致时，Arbitrum 会启动哪种机制？",
+      "options": [
+        "自动撤销交易",
+        "自动撤销交易",
+        "挑战机制",
+        "挑战机制",
+        "手动确认机制",
+        "手动确认机制",
+        "Zero-Knowledge Proof",
+        "Zero-Knowledge Proof"
+      ],
+      "correctAnswers": [
+        "挑战机制"
+      ],
+      "timestamp": "2025-09-02T16:29:40.338Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13de7446-5ed5-8191-8f15-d493f91867fa"
+    },
+    {
+      "question": "Arbitrum 的计算和存储设计如何减轻了以太坊主链的压力？",
+      "options": [
+        "计算和存储操作在 Layer 2 完成，仅提交状态根和证明至主链",
+        "计算和存储操作在 Layer 2 完成，仅提交状态根和证明至主链",
+        "仅在主链上进行存储操作，计算在 Layer 2 完成",
+        "仅在主链上进行存储操作，计算在 Layer 2 完成",
+        "所有数据均上传到主链，但减少了计算过程",
+        "所有数据均上传到主链，但减少了计算过程",
+        "Layer 2 上只进行部分计算，其余在主链处理",
+        "Layer 2 上只进行部分计算，其余在主链处理"
+      ],
+      "correctAnswers": [
+        "计算和存储操作在 Layer 2 完成，仅提交状态根和证明至主链"
+      ],
+      "timestamp": "2025-09-02T16:29:55.402Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13de7446-5ed5-81a7-a9d6-e83e7075a454"
+    },
+    {
+      "question": "在 Orbit 框架下，Layer 1、Layer 2 和 Layer 3 各自的主要职责是什么？",
+      "options": [
+        "Layer 1 负责数据压缩和事务聚合，Layer 2 负责结算，Layer 3 提供安全保障",
+        "Layer 1 负责数据压缩和事务聚合，Layer 2 负责结算，Layer 3 提供安全保障",
+        "Layer 1 作为最终结算层，Layer 2 负责数据压缩和事务聚合，Layer 3 提供更高的定制化自由度",
+        "Layer 1 作为最终结算层，Layer 2 负责数据压缩和事务聚合，Layer 3 提供更高的定制化自由度",
+        "Layer 1 负责高频交易，Layer 2 提供去中心化共识，Layer 3 进行存储",
+        "Layer 1 负责高频交易，Layer 2 提供去中心化共识，Layer 3 进行存储",
+        "Layer 1 执行交易，Layer 2 记录状态，Layer 3 提供激励分配",
+        "Layer 1 执行交易，Layer 2 记录状态，Layer 3 提供激励分配"
+      ],
+      "correctAnswers": [
+        "Layer 1 作为最终结算层，Layer 2 负责数据压缩和事务聚合，Layer 3 提供更高的定制化自由度"
+      ],
+      "timestamp": "2025-09-02T16:30:13.346Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13ee7446-5ed5-8140-8373-e8fc7ed18980"
+    },
+    {
+      "question": "在 EDU Chain 的分层结构中，哪一层主要负责确保数据的最终安全性和去中心化？",
+      "options": [
+        "Layer3 (EDU Chain)",
+        "Layer3 (EDU Chain)",
+        "Layer2 (Arbitrum)",
+        "Layer2 (Arbitrum)",
+        "Layer1 (Ethereum)",
+        "Layer1 (Ethereum)",
+        "Layer2 和 Layer3",
+        "Layer2 和 Layer3"
+      ],
+      "correctAnswers": [
+        "Layer1 (Ethereum)"
+      ],
+      "timestamp": "2025-09-02T16:30:32.817Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13fe7446-5ed5-816c-8aa7-c9a7fc8d9b17"
+    },
+    {
+      "question": "OCID 的核心功能是什么？",
+      "options": [
+        "为用户提供加密货币交易支持",
+        "为用户提供加密货币交易支持",
+        "作为学习者的去中心化数字身份，帮助管理和展示个人成就",
+        "作为学习者的去中心化数字身份，帮助管理和展示个人成就",
+        "用于追踪用户在网络上的浏览历史",
+        "用于追踪用户在网络上的浏览历史",
+        "提供实时通讯功能",
+        "提供实时通讯功能"
+      ],
+      "correctAnswers": [
+        "作为学习者的去中心化数字身份，帮助管理和展示个人成就"
+      ],
+      "timestamp": "2025-09-02T16:30:48.175Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13ee7446-5ed5-811e-a34e-e5726d498660"
+    },
+    {
+      "question": "OCID 的身份标识是通过哪种技术实现的？",
+      "options": [
+        "灵魂绑定的 NFT（Soulbound Token）",
+        "灵魂绑定的 NFT（Soulbound Token）",
+        "加密货币代币",
+        "加密货币代币",
+        "生物识别系统",
+        "生物识别系统",
+        "基于区块链的通证化投票",
+        "基于区块链的通证化投票"
+      ],
+      "correctAnswers": [
+        "灵魂绑定的 NFT（Soulbound Token）"
+      ],
+      "timestamp": "2025-09-02T16:31:49.268Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13ee7446-5ed5-811e-a34e-e5726d498660"
+    },
+    {
+      "question": "在 EDU Chain 的区块链浏览器上，可以查询以下哪项信息？",
+      "options": [
+        "智能合约代码",
+        "智能合约代码",
+        "交易的账户信息和交易费用",
+        "交易的账户信息和交易费用",
+        "链上所有参与者的身份信息",
+        "链上所有参与者的身份信息",
+        "Layer 1 主链的智能合约代码和私钥",
+        "Layer 1 主链的智能合约代码和私钥"
+      ],
+      "correctAnswers": [
+        "交易的账户信息和交易费用"
+      ],
+      "timestamp": "2025-09-02T16:32:05.562Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13be7446-5ed5-8150-a755-c455d4c9b5c7"
+    },
+    {
+      "question": "在将 EDU 从 EDU Chain 转移到 Arbitrum Sepolia 后，用户需要在 Arbitrum Sepolia 上做什么？",
+      "options": [
+        "等待自动到账",
+        "等待自动到账",
+        "手动 Claim 资产并确认交易",
+        "手动 Claim 资产并确认交易",
+        "添加 EDU Chain 网络以便查看余额",
+        "添加 EDU Chain 网络以便查看余额",
+        "向 Arbitrum Sepolia 网络提交 KYC 信息",
+        "向 Arbitrum Sepolia 网络提交 KYC 信息"
+      ],
+      "correctAnswers": [
+        "手动 Claim 资产并确认交易"
+      ],
+      "timestamp": "2025-09-02T16:32:15.074Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13be7446-5ed5-81c8-9573-cc98ab327ecf"
+    },
+    {
+      "question": "Arbitrum 使用哪种技术来实现扩展和降低以太坊上的交易费用？",
+      "options": [
+        "Zero-Knowledge Rollup",
+        "Zero-Knowledge Rollup",
+        "Sharding",
+        "Sharding",
+        "Optimistic Rollup",
+        "Optimistic Rollup",
+        "Sidechain",
+        "Sidechain"
+      ],
+      "correctAnswers": [
+        "Optimistic Rollup"
+      ],
+      "timestamp": "2025-09-02T16:33:37.138Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13de7446-5ed5-8191-8f15-d493f91867fa"
+    },
+    {
+      "question": "Arbitrum 通过什么方式显著降低了每笔交易的 Gas 成本？",
+      "options": [
+        "使用链下执行和批量提交的策略",
+        "使用链下执行和批量提交的策略",
+        "增加以太坊主链上的交易数量",
+        "增加以太坊主链上的交易数量",
+        "增强去中心化共识机制",
+        "增强去中心化共识机制",
+        "逐笔在以太坊主链提交所有交易数据",
+        "逐笔在以太坊主链提交所有交易数据"
+      ],
+      "correctAnswers": [
+        "使用链下执行和批量提交的策略"
+      ],
+      "timestamp": "2025-09-02T16:33:42.636Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13de7446-5ed5-81a7-a9d6-e83e7075a454"
+    },
+    {
+      "question": "Arbitrum Orbit 的主要目标是什么？",
+      "options": [
+        "提供去中心化的身份认证服务",
+        "提供去中心化的身份认证服务",
+        "帮助开发者创建自定义区块链，满足特定应用需求",
+        "帮助开发者创建自定义区块链，满足特定应用需求",
+        "提高以太坊主链的交易吞吐量",
+        "提高以太坊主链的交易吞吐量",
+        "替代以太坊作为主链进行链上交易",
+        "替代以太坊作为主链进行链上交易"
+      ],
+      "correctAnswers": [
+        "帮助开发者创建自定义区块链，满足特定应用需求"
+      ],
+      "timestamp": "2025-09-02T16:33:50.345Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13be7446-5ed5-81f0-886a-c1350da291b4/13ee7446-5ed5-8140-8373-e8fc7ed18980"
+    },
+    {
+      "question": "以下哪两项是以太坊相对于比特币的一个主要区别？",
+      "options": [
+        "以太坊提供更快的交易确认时间",
+        "以太坊提供更快的交易确认时间",
+        "以太坊有一个固定的供应上限",
+        "以太坊有一个固定的供应上限",
+        "以太坊支持智能合约",
+        "以太坊支持智能合约",
+        "以太坊仅作为数字货币使用",
+        "以太坊仅作为数字货币使用"
+      ],
+      "correctAnswers": [
+        "以太坊提供更快的交易确认时间",
+        "以太坊支持智能合约"
+      ],
+      "timestamp": "2025-09-02T14:26:32.323Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/e869c6d7-910e-4e70-a4fd-19f4f73be31a?phaseId=14ce7446-5ed5-816d-b8b6-f98fcaaaebca"
+    },
+    {
+      "question": "关于以太坊\"The Merge\"升级，以下哪项是其主要体现？",
+      "options": [
+        "将交易速度提高到每秒百万笔",
+        "将交易速度提高到每秒百万笔",
+        "引入了质押提款功能",
+        "引入了质押提款功能",
+        "从工作量证明（PoW）转向权益证明（PoS）",
+        "从工作量证明（PoW）转向权益证明（PoS）",
+        "创建了一个全新的区块链网络",
+        "创建了一个全新的区块链网络"
+      ],
+      "correctAnswers": [
+        "从工作量证明（PoW）转向权益证明（PoS）"
+      ],
+      "timestamp": "2025-09-02T14:27:31.759Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/37e0a97e-981e-42ef-9e85-b77702fcda90"
+    },
+    {
+      "question": "以太坊网络的正式启动，即“前沿”（Frontier）阶段，是在哪一年？",
+      "options": [
+        "2013 年",
+        "2013 年",
+        "2014 年",
+        "2014 年",
+        "2015 年",
+        "2015 年",
+        "2016 年",
+        "2016 年"
+      ],
+      "correctAnswers": [
+        "2015 年"
+      ],
+      "timestamp": "2025-09-02T14:27:35.042Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/37e0a97e-981e-42ef-9e85-b77702fcda90"
+    },
+    {
+      "question": "合约账户可以发起交易吗？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "不可以"
+      ],
+      "timestamp": "2025-09-02T14:27:54.299Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/22d12fd5-1387-4c48-9e89-3994e04459b6"
+    },
+    {
+      "question": "关于外部账户，以下选项正确的是？",
+      "options": [
+        "EOAs 之间只能进行转账操作",
+        "EOAs 之间只能进行转账操作",
+        "EOAs 的 nonce 初始值为1",
+        "EOAs 的 nonce 初始值为1",
+        "EOAs 由私钥控制，没有合约代码，CodeHash 为空字符串",
+        "EOAs 由私钥控制，没有合约代码，CodeHash 为空字符串",
+        "EOAs 的创建需要消耗 ETH",
+        "EOAs 的创建需要消耗 ETH"
+      ],
+      "correctAnswers": [
+        "EOAs 之间只能进行转账操作"
+      ],
+      "timestamp": "2025-09-02T14:27:57.886Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/22d12fd5-1387-4c48-9e89-3994e04459b6"
+    },
+    {
+      "question": "在以太坊中，任何对数据的微小更改都会导致什么？",
+      "options": [
+        "根哈希值的变化，从而被网络检测到",
+        "根哈希值的变化，从而被网络检测到",
+        "交易速度的显著提升",
+        "交易速度的显著提升",
+        "Gas价格的自动调整",
+        "Gas价格的自动调整",
+        "智能合约自动失效",
+        "智能合约自动失效"
+      ],
+      "correctAnswers": [
+        "根哈希值的变化，从而被网络检测到"
+      ],
+      "timestamp": "2025-09-02T14:28:08.628Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/e3d38921-2d2a-4b6f-a97a-b9de6804d3c6"
+    },
+    {
+      "question": "为什么以太坊在每个区块头中只存储Merkle Patricia Trie树的根哈希值？",
+      "options": [
+        "为了提高交易的执行速度",
+        "为了提高交易的执行速度",
+        "为了减少区块链的总体存储需求，同时保持数据的完整性和安全性",
+        "为了减少区块链的总体存储需求，同时保持数据的完整性和安全性",
+        "为了使智能合约的部署更加容易",
+        "为了使智能合约的部署更加容易",
+        "为了增加网络的匿名性和隐私保护",
+        "为了增加网络的匿名性和隐私保护"
+      ],
+      "correctAnswers": [
+        "为了减少区块链的总体存储需求，同时保持数据的完整性和安全性"
+      ],
+      "timestamp": "2025-09-02T14:28:13.135Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/e3d38921-2d2a-4b6f-a97a-b9de6804d3c6"
+    },
+    {
+      "question": "如果交易的 gasLimit 设置得太低，会发生什么？",
+      "options": [
+        "交易会被矿工确认的速度降低",
+        "交易会被矿工确认的速度降低",
+        "交易可能因为燃料不足而失败",
+        "交易可能因为燃料不足而失败",
+        "交易的手续费会减少",
+        "交易的手续费会减少",
+        "交易会自动增加 gasLimit 以满足需求",
+        "交易会自动增加 gasLimit 以满足需求"
+      ],
+      "correctAnswers": [
+        "交易可能因为燃料不足而失败"
+      ],
+      "timestamp": "2025-09-02T14:28:19.691Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/1c43a48f-a485-4437-a4c5-b70257474663"
+    },
+    {
+      "question": "以太坊中的 maxPriorityFeePerGas 和 maxFeePerGas 有什么区别？",
+      "options": [
+        "maxPriorityFeePerGas 是给矿工的小费，而maxFeePerGas 是交易每单位燃料的总费用上限",
+        "maxPriorityFeePerGas 是给矿工的小费，而maxFeePerGas 是交易每单位燃料的总费用上限",
+        "maxPriorityFeePerGas 是交易的总费用上限，而 maxFeePerGas 是给矿工的小费",
+        "maxPriorityFeePerGas 是交易的总费用上限，而 maxFeePerGas 是给矿工的小费",
+        "两者没有区别，都是交易费用的一部分",
+        "两者没有区别，都是交易费用的一部分",
+        "maxPriorityFeePerGas 决定了交易的执行速度，maxFeePerGas 决定了交易是否会被执行",
+        "maxPriorityFeePerGas 决定了交易的执行速度，maxFeePerGas 决定了交易是否会被执行"
+      ],
+      "correctAnswers": [
+        "maxPriorityFeePerGas 是给矿工的小费，而maxFeePerGas 是交易每单位燃料的总费用上限"
+      ],
+      "timestamp": "2025-09-02T14:28:23.132Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/1c43a48f-a485-4437-a4c5-b70257474663"
+    },
+    {
+      "question": "Ether 的最小单位是什么？",
+      "options": [
+        "Satoshi",
+        "Satoshi",
+        "Wei",
+        "Wei",
+        "Gwei",
+        "Gwei",
+        "Ether",
+        "Ether"
+      ],
+      "correctAnswers": [
+        "Wei"
+      ],
+      "timestamp": "2025-09-02T14:28:32.611Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/02d3914f-30ff-4488-b5a6-d581a74cda7d"
+    },
+    {
+      "question": "Ether的产生和分配在以太坊转向权益证明（PoS）机制后发生了哪些根本性变化？",
+      "options": [
+        "从基于计算复杂性的奖励转变为基于质押和验证者参与的奖励",
+        "从基于计算复杂性的奖励转变为基于质押和验证者参与的奖励",
+        "完全取消了 Ether 的产生，所有 Ether 都已经在初始众筹中分配完毕",
+        "完全取消了 Ether 的产生，所有 Ether 都已经在初始众筹中分配完毕",
+        "Ether 的产生速度加倍，以激励更多用户参与挖矿",
+        "Ether 的产生速度加倍，以激励更多用户参与挖矿",
+        "Ether 仅通过交易费用燃烧产生，不再有新的 Ether 产生",
+        "Ether 仅通过交易费用燃烧产生，不再有新的 Ether 产生"
+      ],
+      "correctAnswers": [
+        "从基于计算复杂性的奖励转变为基于质押和验证者参与的奖励"
+      ],
+      "timestamp": "2025-09-02T14:28:36.444Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/02d3914f-30ff-4488-b5a6-d581a74cda7d"
+    },
+    {
+      "question": "智能合约的编写和部署过程中，哪一步骤将代码转换为 EVM 可执行的格式？",
+      "options": [
+        "编写",
+        "编写",
+        "编译",
+        "编译",
+        "执行",
+        "执行",
+        "部署",
+        "部署"
+      ],
+      "correctAnswers": [
+        "编译"
+      ],
+      "timestamp": "2025-09-02T14:28:41.272Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/70a3b60b-32d1-44f2-9503-c6f095492cd3"
+    },
+    {
+      "question": "以下说法正确的是?",
+      "options": [
+        "EVM 可以执行存储在指定地址的合约源码",
+        "EVM 可以执行存储在指定地址的合约源码",
+        "合约执行需要消耗 Gas, 由交易的接收方支付",
+        "合约执行需要消耗 Gas, 由交易的接收方支付",
+        "智能合约部署后，其逻辑可以通过部署者支付 Gas 修改",
+        "智能合约部署后，其逻辑可以通过部署者支付 Gas 修改",
+        "智能合约的执行不依赖于任何中心化的机构或个人",
+        "智能合约的执行不依赖于任何中心化的机构或个人"
+      ],
+      "correctAnswers": [
+        "智能合约的执行不依赖于任何中心化的机构或个人"
+      ],
+      "timestamp": "2025-09-02T14:28:42.388Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/70a3b60b-32d1-44f2-9503-c6f095492cd3"
+    },
+    {
+      "question": "以太坊最初使用的共识机制是什么？",
+      "options": [
+        "权益证明（PoS）",
+        "权益证明（PoS）",
+        "工作量证明（PoW）",
+        "工作量证明（PoW）",
+        "委托权益证明（DPoS）",
+        "委托权益证明（DPoS）",
+        "实用拜占庭容错（PBFT）",
+        "实用拜占庭容错（PBFT）"
+      ],
+      "correctAnswers": [
+        "工作量证明（PoW）"
+      ],
+      "timestamp": "2025-09-02T14:28:54.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/1308891f-d75c-4d96-b74f-8ee70ae584b8"
+    },
+    {
+      "question": "在以太坊的权益证明（PoS）机制中，验证者是如何被选中的？",
+      "options": [
+        "通过解决复杂数学问题",
+        "通过解决复杂数学问题",
+        "持有的货币数量最多的节点",
+        "持有的货币数量最多的节点",
+        "通过一种随机化的选择过程，其中考虑了节点的质押量和持币时间",
+        "通过一种随机化的选择过程，其中考虑了节点的质押量和持币时间",
+        "上一轮验证者指定",
+        "上一轮验证者指定"
+      ],
+      "correctAnswers": [
+        "通过一种随机化的选择过程，其中考虑了节点的质押量和持币时间"
+      ],
+      "timestamp": "2025-09-02T14:28:55.575Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/d1f75b84-f5ef-4f7d-83ef-e4f237924e71/1308891f-d75c-4d96-b74f-8ee70ae584b8"
+    },
+    {
+      "question": "下列关于人工智能发展历程的描述，哪一项是正确的？",
+      "options": [
+        "图灵测试是通过考察机器是否能与人类进行对话来判断机器的智能水平。",
+        "图灵测试是通过考察机器是否能与人类进行对话来判断机器的智能水平。",
+        "第一次人工智能浪潮主要集中在深度学习算法的开发。",
+        "第一次人工智能浪潮主要集中在深度学习算法的开发。",
+        "大语言模型能够生成和理解自然语言，推动了AI在日常生活中的广泛应用。",
+        "大语言模型能够生成和理解自然语言，推动了AI在日常生活中的广泛应用。",
+        "第二次浪潮主要集中在开发能够解决象棋和逻辑推理的算法。",
+        "第二次浪潮主要集中在开发能够解决象棋和逻辑推理的算法。"
+      ],
+      "correctAnswers": [
+        "图灵测试是通过考察机器是否能与人类进行对话来判断机器的智能水平。",
+        "大语言模型能够生成和理解自然语言，推动了AI在日常生活中的广泛应用。"
+      ],
+      "timestamp": "2025-09-02T14:50:32.834Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/a955430f-9ea5-4f61-9458-db36f85a3ab5?phaseId=14de7446-5ed5-8104-8400-fac93b53324a"
+    },
+    {
+      "question": "以下关于弱人工智能的描述，哪一项是正确的?",
+      "options": [
+        "弱人工智能系统通常专注于单一任务或领域。",
+        "弱人工智能系统通常专注于单一任务或领域。",
+        "弱人工智能系统具备真正的理解和自我意识。",
+        "弱人工智能系统具备真正的理解和自我意识。",
+        "弱人工智能的性能不依赖于训练数据的质量和数量。",
+        "弱人工智能的性能不依赖于训练数据的质量和数量。",
+        "达特矛斯会议标志着人工智能作为一个独立学科的诞生。",
+        "达特矛斯会议标志着人工智能作为一个独立学科的诞生。"
+      ],
+      "correctAnswers": [
+        "弱人工智能系统通常专注于单一任务或领域。",
+        "达特矛斯会议标志着人工智能作为一个独立学科的诞生。"
+      ],
+      "timestamp": "2025-09-02T14:50:45.505Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/e5730227-e2b1-4f55-9532-845a6da59f2f"
+    },
+    {
+      "question": "在机器学习中，以下哪些描述是正确的?",
+      "options": [
+        "过拟合现象通常是因为模型的复杂性过高，以至于训练误差较低但测试误差较高。",
+        "过拟合现象通常是因为模型的复杂性过高，以至于训练误差较低但测试误差较高。",
+        "训练误差是指学习器在训练数据集上的误差。",
+        "训练误差是指学习器在训练数据集上的误差。",
+        "无监督学习是在标记数据上进行训练的。",
+        "无监督学习是在标记数据上进行训练的。",
+        "特征向量是指数据中描述对象的属性值集合。",
+        "特征向量是指数据中描述对象的属性值集合。"
+      ],
+      "correctAnswers": [
+        "过拟合现象通常是因为模型的复杂性过高，以至于训练误差较低但测试误差较高。",
+        "训练误差是指学习器在训练数据集上的误差。",
+        "特征向量是指数据中描述对象的属性值集合。"
+      ],
+      "timestamp": "2025-09-02T14:51:32.072Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/1b2513ca-df91-4a27-8c84-9fc5a2366201"
+    },
+    {
+      "question": "在以下关于神经网络的描述中，哪些是正确的?",
+      "options": [
+        "人工神经网络通过模仿生物神经网络的连接和运作来解决复杂的计算问题。",
+        "人工神经网络通过模仿生物神经网络的连接和运作来解决复杂的计算问题。",
+        "权重决定了每个输入对输出的影响程度，可以是正数或负数。",
+        "权重决定了每个输入对输出的影响程度，可以是正数或负数。",
+        "阈值是决定感知器是否激活的临界值。",
+        "阈值是决定感知器是否激活的临界值。",
+        "生物神经网络的神经元通过突触与其他神经元连接，形成复杂的网络结构。",
+        "生物神经网络的神经元通过突触与其他神经元连接，形成复杂的网络结构。"
+      ],
+      "correctAnswers": [
+        "人工神经网络通过模仿生物神经网络的连接和运作来解决复杂的计算问题。",
+        "权重决定了每个输入对输出的影响程度，可以是正数或负数。",
+        "阈值是决定感知器是否激活的临界值。",
+        "生物神经网络的神经元通过突触与其他神经元连接，形成复杂的网络结构。"
+      ],
+      "timestamp": "2025-09-02T14:52:10.823Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/7acbd3d7-487d-415e-95c7-eb7e4bf35f45"
+    },
+    {
+      "question": "关于深度学习中的多层神经网络，以下哪些描述是正确的?",
+      "options": [
+        "增加中间层的节点数量可以显著增加神经网络中的参数数量。",
+        "增加中间层的节点数量可以显著增加神经网络中的参数数量。",
+        "深度学习的关键在于通过增加网络的层数，提升模型的表现能力。",
+        "深度学习的关键在于通过增加网络的层数，提升模型的表现能力。",
+        "在保持参数数量不变的情况下，增加网络的层数不会对模型的性能产生影响。",
+        "在保持参数数量不变的情况下，增加网络的层数不会对模型的性能产生影响。",
+        "多层神经网络能够更好地模拟复杂的函数关系，从而提升模型的预测精度。",
+        "多层神经网络能够更好地模拟复杂的函数关系，从而提升模型的预测精度。"
+      ],
+      "correctAnswers": [
+        "增加中间层的节点数量可以显著增加神经网络中的参数数量。",
+        "深度学习的关键在于通过增加网络的层数，提升模型的表现能力。",
+        "多层神经网络能够更好地模拟复杂的函数关系，从而提升模型的预测精度。"
+      ],
+      "timestamp": "2025-09-02T14:52:45.986Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/baed0d89-8ae3-4fb1-8a4d-bb77fd727d0e"
+    },
+    {
+      "question": "Transformer模型的核心机制是什么？",
+      "options": [
+        "递归神经网络（Recurrent Neural Network）",
+        "递归神经网络（Recurrent Neural Network）",
+        "卷积神经网络（Convolutional Neural Network）",
+        "卷积神经网络（Convolutional Neural Network）",
+        "多头自注意力机制（Multi-Head Self-Attention）",
+        "多头自注意力机制（Multi-Head Self-Attention）",
+        "强化学习（Reinforcement Learning）",
+        "强化学习（Reinforcement Learning）"
+      ],
+      "correctAnswers": [
+        "多头自注意力机制（Multi-Head Self-Attention）"
+      ],
+      "timestamp": "2025-09-02T14:55:33.773Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/9ccd9c19-f152-493c-bae3-633213742da3"
+    },
+    {
+      "question": "预训练的主要优势是什么?",
+      "options": [
+        "提高模型的泛化能力",
+        "提高模型的泛化能力",
+        "增加标注数据的需求",
+        "增加标注数据的需求",
+        "降低数据成本",
+        "降低数据成本",
+        "减少模型训练时间",
+        "减少模型训练时间"
+      ],
+      "correctAnswers": [
+        "提高模型的泛化能力",
+        "降低数据成本",
+        "减少模型训练时间"
+      ],
+      "timestamp": "2025-09-02T14:56:13.467Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/91c83f6f-9bd1-4b0d-b4a1-0b8c9db1cf00"
+    },
+    {
+      "question": "以下哪项是微调的原因?",
+      "options": [
+        "预训练成本高",
+        "预训练成本高",
+        "基础模型缺少特定领域数据",
+        "基础模型缺少特定领域数据",
+        "提示工程不存在上限",
+        "提示工程不存在上限",
+        "数据安全和隐私问题",
+        "数据安全和隐私问题"
+      ],
+      "correctAnswers": [
+        "预训练成本高",
+        "基础模型缺少特定领域数据",
+        "数据安全和隐私问题"
+      ],
+      "timestamp": "2025-09-02T14:56:40.364Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/f7b18ea4-0b01-43d9-a7d0-b0a5a55829b8"
+    },
+    {
+      "question": "AI 智能体的工作机制包括哪些主要部分?",
+      "options": [
+        "感知（Perception）",
+        "感知（Perception）",
+        "信息处理（Brain）",
+        "信息处理（Brain）",
+        "输入（Inputs）",
+        "输入（Inputs）",
+        "执行（Action）",
+        "执行（Action）"
+      ],
+      "correctAnswers": [
+        "感知（Perception）",
+        "信息处理（Brain）",
+        "执行（Action）"
+      ],
+      "timestamp": "2025-09-02T14:57:03.164Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/d30d43e7-4c45-41d3-bfac-6e2b52117665"
+    },
+    {
+      "question": "以下选项哪些是提示工程（Prompt Engineering）中构造提示的关键要素?",
+      "options": [
+        "提问模块",
+        "提问模块",
+        "任务模块",
+        "任务模块",
+        "上下文模块",
+        "上下文模块",
+        "语气模块",
+        "语气模块"
+      ],
+      "correctAnswers": [
+        "任务模块",
+        "上下文模块",
+        "语气模块"
+      ],
+      "timestamp": "2025-09-02T14:58:14.490Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4061bb33-2dea-401c-ae16-20f7ad0821dd/438c3355-0eaa-44d3-825d-65ed277887ed"
+    },
+    {
+      "question": "文章中，Gaia 中最受欢迎的 LLM 是以下哪一个模型？",
+      "options": [
+        "Phi-3",
+        "Phi-3",
+        "Llama3",
+        "Llama3",
+        "Codestral",
+        "Codestral",
+        "Qwen1.5",
+        "Qwen1.5"
+      ],
+      "correctAnswers": [
+        "Llama3"
+      ],
+      "timestamp": "2025-09-02T15:00:26.809Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/0ad69b9f-e6d8-4b09-a31d-7fb610f9c095/287082dd-ab02-4dae-9faa-0a64e37e16c8"
+    },
+    {
+      "question": "Gaia 市场不允许节点运营商交易哪些类型的资产？",
+      "options": [
+        "微调模型",
+        "微调模型",
+        "专业知识库与数据集",
+        "专业知识库与数据集",
+        "节点服务器",
+        "节点服务器",
+        "函数调用插件",
+        "函数调用插件"
+      ],
+      "correctAnswers": [
+        "节点服务器"
+      ],
+      "timestamp": "2025-09-02T15:00:47.840Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/0ad69b9f-e6d8-4b09-a31d-7fb610f9c095/29a4648f-daac-4550-972d-aa7494e6caae"
+    },
+    {
+      "question": "下列哪项不是 GaiaNet 节点软件堆栈的7大关键组件？",
+      "options": [
+        "定制化的 LLM",
+        "定制化的 LLM",
+        "嵌入模型",
+        "嵌入模型",
+        "节点 ID",
+        "节点 ID",
+        "向量数据库",
+        "向量数据库"
+      ],
+      "correctAnswers": [
+        "节点 ID"
+      ],
+      "timestamp": "2025-09-02T15:01:06.472Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/0ad69b9f-e6d8-4b09-a31d-7fb610f9c095/2abea75e-578f-4eef-a438-a8cc1f3a1271"
+    },
+    {
+      "question": "以下哪个角色决定 API 服务的价格？",
+      "options": [
+        "节点运营商",
+        "节点运营商",
+        "域运营商",
+        "域运营商",
+        "用户",
+        "用户",
+        "质押者",
+        "质押者"
+      ],
+      "correctAnswers": [
+        "域运营商"
+      ],
+      "timestamp": "2025-09-02T15:01:29.982Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/0ad69b9f-e6d8-4b09-a31d-7fb610f9c095/0566db24-c984-483d-a6b0-e8073e23fc59"
+    },
+    {
+      "question": "以下哪个选项不是 Gaia 市场中 NFT 化组件的优点？",
+      "options": [
+        "确保数据和服务的不可替代性和独特性",
+        "确保数据和服务的不可替代性和独特性",
+        "提供了资产所有权的明确证明和可验证性",
+        "提供了资产所有权的明确证明和可验证性",
+        "使资产易于在市场上买卖，增加流通性",
+        "使资产易于在市场上买卖，增加流通性",
+        "支持对复杂的数据产品和服务进行个性化配置和管理",
+        "支持对复杂的数据产品和服务进行个性化配置和管理"
+      ],
+      "correctAnswers": [
+        "支持对复杂的数据产品和服务进行个性化配置和管理"
+      ],
+      "timestamp": "2025-09-02T15:01:47.609Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/0ad69b9f-e6d8-4b09-a31d-7fb610f9c095/b0ac9b9c-d0e7-4349-ad9e-6c5fdfca908c"
+    },
+    {
+      "question": "Greenfield 跨链模型中，BNB 的流通如何保持稳定？",
+      "options": [
+        "通过销毁/铸造机制",
+        "通过销毁/铸造机制",
+        "使用锁定/解锁机制",
+        "使用锁定/解锁机制",
+        "限制交易数量",
+        "限制交易数量",
+        "与中心化机构合作",
+        "与中心化机构合作"
+      ],
+      "correctAnswers": [
+        "使用锁定/解锁机制"
+      ],
+      "timestamp": "2025-08-18T12:31:52.643Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/169e7446-5ed5-8152-842b-e09be1510014"
+    },
+    {
+      "question": "以下哪项是 Greenfield 开发者的主要职责？",
+      "options": [
+        "存储用户上传的数据",
+        "存储用户上传的数据",
+        "参与网络治理",
+        "参与网络治理",
+        "构建去中心化应用（DApps）和工具",
+        "构建去中心化应用（DApps）和工具",
+        "验证交易的合法性",
+        "验证交易的合法性"
+      ],
+      "correctAnswers": [
+        "构建去中心化应用（DApps）和工具"
+      ],
+      "timestamp": "2025-08-18T12:32:03.140Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/169e7446-5ed5-8184-a902-dc172a0f4b95"
+    },
+    {
+      "question": "以下关于 Greenfield Blockchain 和 SPs 的协作描述正确的是 ？",
+      "options": [
+        "Blockchain 负责存储用户数据，SPs 负责记录元数据",
+        "Blockchain 负责存储用户数据，SPs 负责记录元数据",
+        "Blockchain 和 SPs 都记录文件的完整副本",
+        "Blockchain 和 SPs 都记录文件的完整副本",
+        "Blockchain 记录元数据并验证权限，SPs 负责物理存储",
+        "Blockchain 记录元数据并验证权限，SPs 负责物理存储",
+        "Blockchain 只用于支付，SPs 负责所有存储和权限管理",
+        "Blockchain 只用于支付，SPs 负责所有存储和权限管理"
+      ],
+      "correctAnswers": [
+        "Blockchain 记录元数据并验证权限，SPs 负责物理存储"
+      ],
+      "timestamp": "2025-08-18T12:32:27.501Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/170e7446-5ed5-8182-8106-fb52907d0dc4"
+    },
+    {
+      "question": "以下关于纠删码技术 (Erasure Coding, EC) 的描述，哪一项是正确的？",
+      "options": [
+        "纠删码通过简单复制多个副本来实现冗余",
+        "纠删码通过简单复制多个副本来实现冗余",
+        "纠删码将数据分解为数据块和校验块，用于容错恢复",
+        "纠删码将数据分解为数据块和校验块，用于容错恢复",
+        "纠删码需要比全量复制更多的存储空间",
+        "纠删码需要比全量复制更多的存储空间",
+        "纠删码只能应对单个数据块丢失的情况",
+        "纠删码只能应对单个数据块丢失的情况"
+      ],
+      "correctAnswers": [
+        "纠删码将数据分解为数据块和校验块，用于容错恢复"
+      ],
+      "timestamp": "2025-08-18T12:32:39.097Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/170e7446-5ed5-8126-aae9-cfe6b1a19e3b"
+    },
+    {
+      "question": "在存储费用公式中，哪些因素会直接影响费用的高低？（多选题）",
+      "options": [
+        "文件的 ChargedSize",
+        "文件的 ChargedSize",
+        "PrimaryStorePrice 和 SecondaryStorePrice",
+        "PrimaryStorePrice 和 SecondaryStorePrice",
+        "数据的次级存储节点数量（SecondarySPNumber）",
+        "数据的次级存储节点数量（SecondarySPNumber）",
+        "验证者税率（Validator Tax Rate）",
+        "验证者税率（Validator Tax Rate）"
+      ],
+      "correctAnswers": [
+        "文件的 ChargedSize",
+        "PrimaryStorePrice 和 SecondaryStorePrice",
+        "数据的次级存储节点数量（SecondarySPNumber）",
+        "验证者税率（Validator Tax Rate）"
+      ],
+      "timestamp": "2025-08-18T12:34:15.044Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/169e7446-5ed5-813d-8f30-d98d76daa278"
+    },
+    {
+      "question": "以下关于 Greenfield 下载费用的描述，哪一项是正确的？",
+      "options": [
+        "下载费用基于用户实际下载的数据量按需收费",
+        "下载费用基于用户实际下载的数据量按需收费",
+        "下载费用由主存储提供商（Primary SP）和次级存储提供商（Secondary SPs）共同提供",
+        "下载费用由主存储提供商（Primary SP）和次级存储提供商（Secondary SPs）共同提供",
+        "下载费用基于用户预先购买的下载额度（ChargedReadQuota）进行计算",
+        "下载费用基于用户预先购买的下载额度（ChargedReadQuota）进行计算",
+        "下载额度可以累积到下个月使用",
+        "下载额度可以累积到下个月使用"
+      ],
+      "correctAnswers": [
+        "下载费用基于用户预先购买的下载额度（ChargedReadQuota）进行计算"
+      ],
+      "timestamp": "2025-08-18T12:34:27.175Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/16ae7446-5ed5-8136-994c-e5f28e4c1770"
+    },
+    {
+      "question": "Which of the following does not occur when a user's account enters a mandatory billing status?",
+      "options": [
+        "All payment streams for the user will be closed",
+        "All payment streams for the user will be closed",
+        "The account is marked as unbalanced",
+        "The account is marked as unbalanced",
+        "The authenticator is rewarded with the remaining buffer balance",
+        "The authenticator is rewarded with the remaining buffer balance",
+        "The storage object is deleted immediately",
+        "The storage object is deleted immediately"
+      ],
+      "correctAnswers": [
+        "The storage object is deleted immediately"
+      ],
+      "timestamp": "2025-08-18T12:34:39.173Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/16ae7446-5ed5-816f-90fc-c8b3f43430ac"
+    },
+    {
+      "question": "在使用 Greenfield 跨链桥时，第一步需要做什么？",
+      "options": [
+        "直接进行跨链转账",
+        "直接进行跨链转账",
+        "从水龙头获取 BNB Smart Chain 测试币",
+        "从水龙头获取 BNB Smart Chain 测试币",
+        "切换到 Greenfield 网络",
+        "切换到 Greenfield 网络",
+        "创建新的钱包地址",
+        "创建新的钱包地址"
+      ],
+      "correctAnswers": [
+        "从水龙头获取 BNB Smart Chain 测试币"
+      ],
+      "timestamp": "2025-08-18T12:34:53.292Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/169e7446-5ed5-81c0-b796-de83e08df242"
+    },
+    {
+      "question": "Greenfield 区块浏览器可以帮助用户解决哪个问题？",
+      "options": [
+        "查看文件是否上传成功",
+        "查看文件是否上传成功",
+        "修改文件访问权限",
+        "修改文件访问权限",
+        "自动备份文件内容",
+        "自动备份文件内容",
+        "加速文件上传速度",
+        "加速文件上传速度"
+      ],
+      "correctAnswers": [
+        "查看文件是否上传成功"
+      ],
+      "timestamp": "2025-08-18T12:35:07.661Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/169e7446-5ed5-81c7-8f57-fc24e4b296b8/169e7446-5ed5-8130-a507-e5d88798deed"
+    },
+    {
+      "question": "Greenfield Command (gnfd-cmd) 的主要特点是什么？",
+      "options": [
+        "仅支持基础的文件上传下载功能",
+        "仅支持基础的文件上传下载功能",
+        "官方支持且功能丰富的命令行工具",
+        "官方支持且功能丰富的命令行工具",
+        "只能进行资产转账操作",
+        "只能进行资产转账操作",
+        "专门用于智能合约部署的工具",
+        "专门用于智能合约部署的工具"
+      ],
+      "correctAnswers": [
+        "官方支持且功能丰富的命令行工具"
+      ],
+      "timestamp": "2025-08-18T12:38:00.644Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/165e7446-5ed5-8113-8118-f4d4bbfe1173?phaseId=171e7446-5ed5-817c-9a6f-de8596f9d718"
+    },
+    {
+      "question": "安装 Greenfield Command 后，如何验证安装是否成功？",
+      "options": [
+        "运行 gnfd-cmd -h 查看帮助信息",
+        "运行 gnfd-cmd -h 查看帮助信息",
+        "直接删除源码目录",
+        "直接删除源码目录",
+        "重启操作系统",
+        "重启操作系统",
+        "修改 PATH 环境变量",
+        "修改 PATH 环境变量"
+      ],
+      "correctAnswers": [
+        "运行 gnfd-cmd -h 查看帮助信息"
+      ],
+      "timestamp": "2025-08-18T12:38:10.999Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/167e7446-5ed5-811d-aa0c-e74dd94e48fa"
+    },
+    {
+      "question": "Greenfield Command 的配置文件默认存放在哪个位置？",
+      "options": [
+        "/etc/gnfd-cmd/config.toml",
+        "/etc/gnfd-cmd/config.toml",
+        "/usr/local/bin/config.toml",
+        "/usr/local/bin/config.toml",
+        "~/.gnfd-cmd/config/config.toml",
+        "~/.gnfd-cmd/config/config.toml",
+        "/opt/gnfd-cmd/config.toml",
+        "/opt/gnfd-cmd/config.toml"
+      ],
+      "correctAnswers": [
+        "~/.gnfd-cmd/config/config.toml"
+      ],
+      "timestamp": "2025-08-18T12:38:23.800Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/167e7446-5ed5-8101-b481-d0ec646ea841"
+    },
+    {
+      "question": "如何查看 Greenfield Command 的所有可用命令？",
+      "options": [
+        "gnfd-cmd list",
+        "gnfd-cmd list",
+        "gnfd-cmd -h",
+        "gnfd-cmd -h",
+        "gnfd-cmd show",
+        "gnfd-cmd show",
+        "gnfd-cmd commands",
+        "gnfd-cmd commands"
+      ],
+      "correctAnswers": [
+        "gnfd-cmd -h"
+      ],
+      "timestamp": "2025-08-18T12:38:29.588Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/167e7446-5ed5-818f-a9c1-f0ea629d8154"
+    },
+    {
+      "question": "Greenfield 的 keystore 文件默认存储在哪个目录？",
+      "options": [
+        "~/.gnfd-cmd/keystore/",
+        "~/.gnfd-cmd/keystore/",
+        "~/.gnfd-cmd/accounts/",
+        "~/.gnfd-cmd/accounts/",
+        "/etc/gnfd-cmd/keystore/",
+        "/etc/gnfd-cmd/keystore/",
+        "/usr/local/gnfd-cmd/keystore/",
+        "/usr/local/gnfd-cmd/keystore/"
+      ],
+      "correctAnswers": [
+        "~/.gnfd-cmd/keystore/"
+      ],
+      "timestamp": "2025-08-18T12:38:42.490Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-812a-95bf-df85251912fa"
+    },
+    {
+      "question": "Greenfield 账户系统中，哪个选项不是账户的组成部分？",
+      "options": [
+        "地址",
+        "地址",
+        "私钥",
+        "私钥",
+        "公钥",
+        "公钥",
+        "助记词",
+        "助记词"
+      ],
+      "correctAnswers": [
+        "助记词"
+      ],
+      "timestamp": "2025-08-18T12:38:56.482Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-8144-84b4-e804bbbffdf0"
+    },
+    {
+      "question": "导入私钥时，私钥文件应该满足什么格式要求？",
+      "options": [
+        "必须包含 \"0x\" 前缀",
+        "必须包含 \"0x\" 前缀",
+        "必须是加密文件",
+        "必须是加密文件",
+        "纯文本且不带 \"0x\" 前缀",
+        "纯文本且不带 \"0x\" 前缀",
+        "必须包含公钥信息",
+        "必须包含公钥信息"
+      ],
+      "correctAnswers": [
+        "纯文本且不带 \"0x\" 前缀"
+      ],
+      "timestamp": "2025-08-18T12:39:11.134Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-8196-85db-e32090755bd2"
+    },
+    {
+      "question": "如何设置 Greenfield 的默认账户？",
+      "options": [
+        "gnfd-cmd account default 0x123...abc",
+        "gnfd-cmd account default 0x123...abc",
+        "gnfd-cmd account set-default 0x123...abc",
+        "gnfd-cmd account set-default 0x123...abc",
+        "gnfd-cmd set-default 0x123...abc",
+        "gnfd-cmd set-default 0x123...abc",
+        "gnfd-cmd account change 0x123...abc",
+        "gnfd-cmd account change 0x123...abc"
+      ],
+      "correctAnswers": [
+        "gnfd-cmd account set-default 0x123...abc"
+      ],
+      "timestamp": "2025-08-18T12:39:19.034Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-8175-b986-dc092a2c52d3"
+    },
+    {
+      "question": "在 Greenfield 中，1 BNB 等于多少 Wei？",
+      "options": [
+        "10^9 Wei",
+        "10^9 Wei",
+        "10^12 Wei",
+        "10^12 Wei",
+        "10^18 Wei",
+        "10^18 Wei",
+        "10^21 Wei",
+        "10^21 Wei"
+      ],
+      "correctAnswers": [
+        "10^18 Wei"
+      ],
+      "timestamp": "2025-08-18T12:41:07.987Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-81e3-a51a-f58fadf4e9d5"
+    },
+    {
+      "question": "在 Greenfield 中进行转账操作时，--amount 参数的默认单位是什么？",
+      "options": [
+        "BNB",
+        "BNB",
+        "wei",
+        "wei",
+        "Gwei",
+        "Gwei",
+        "Ether",
+        "Ether"
+      ],
+      "correctAnswers": [
+        "wei"
+      ],
+      "timestamp": "2025-08-18T12:41:21.867Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-817e-98cb-d260618c2789"
+    },
+    {
+      "question": "关于 Greenfield 的跨链转账，以下哪个说法是正确的？",
+      "options": [
+        "跨链转账是即时到账的",
+        "跨链转账是即时到账的",
+        "只支持从 BSC 到 Greenfield 的转账",
+        "只支持从 BSC 到 Greenfield 的转账",
+        "不需要考虑 gas 费用",
+        "不需要考虑 gas 费用",
+        "建议先进行小额测试转账",
+        "建议先进行小额测试转账"
+      ],
+      "correctAnswers": [
+        "建议先进行小额测试转账"
+      ],
+      "timestamp": "2025-08-18T12:41:57.243Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-813d-91f5-dad21a396ffb"
+    },
+    {
+      "question": "What is the primary benefit of uploading files via the Indexer’s Gateway RPC?",
+      "options": [
+        "The client must connect directly to specific storage nodes",
+        "The client must connect directly to specific storage nodes",
+        "A unified entry point—Indexer selects trusted storage nodes and forwards the request",
+        "A unified entry point—Indexer selects trusted storage nodes and forwards the request",
+        "Only file download is supported, not upload",
+        "Only file download is supported, not upload",
+        "Uploading files does not require any hash generation",
+        "Uploading files does not require any hash generation"
+      ],
+      "correctAnswers": [
+        "A unified entry point—Indexer selects trusted storage nodes and forwards the request"
+      ],
+      "timestamp": "2025-08-18T12:42:06.895Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/23ae7446-5ed5-81ac-a96f-f4b60cdd96ca"
+    },
+    {
+      "question": "What is the main difference between uploading via the Indexer Gateway and uploading via a Node List?",
+      "options": [
+        "The Indexer only supports downloads, while the Node List only supports uploads",
+        "The Indexer only supports downloads, while the Node List only supports uploads",
+        "The Node List is better for quick development, while the Indexer is for advanced customization",
+        "The Node List is better for quick development, while the Indexer is for advanced customization",
+        "The Indexer simplifies uploads and is ideal for fast development, while the Node List allows for more control and customization",
+        "The Indexer simplifies uploads and is ideal for fast development, while the Node List allows for more control and customization",
+        "There is no difference; both methods are exactly the same",
+        "There is no difference; both methods are exactly the same"
+      ],
+      "correctAnswers": [
+        "The Indexer simplifies uploads and is ideal for fast development, while the Node List allows for more control and customization"
+      ],
+      "timestamp": "2025-08-18T12:42:14.083Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/23ae7446-5ed5-8136-abe7-f9ce72ddd2a3"
+    },
+    {
+      "question": "关于 Greenfield 中的文件夹，以下说法正确的是？",
+      "options": [
+        "文件夹是实际存在的物理结构",
+        "文件夹是实际存在的物理结构",
+        "文件夹不支持多级目录",
+        "文件夹不支持多级目录",
+        "文件夹名称不区分大小写",
+        "文件夹名称不区分大小写",
+        "文件夹是通过对象路径中的 \"/\" 模拟的逻辑概念",
+        "文件夹是通过对象路径中的 \"/\" 模拟的逻辑概念"
+      ],
+      "correctAnswers": [
+        "文件夹是通过对象路径中的 \"/\" 模拟的逻辑概念"
+      ],
+      "timestamp": "2025-08-18T12:42:26.659Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-819e-8879-cb4deef44a1f"
+    },
+    {
+      "question": "上传文件时，如何设置文件为公开可见？",
+      "options": [
+        "--public true",
+        "--public true",
+        "--access public",
+        "--access public",
+        "--visibility public-read",
+        "--visibility public-read",
+        "--permission public",
+        "--permission public"
+      ],
+      "correctAnswers": [
+        "--visibility public-read"
+      ],
+      "timestamp": "2025-08-18T12:42:48.265Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-8158-9df5-eb84b47e80fa"
+    },
+    {
+      "question": "关于 Greenfield 对象下载，以下说法正确的是？",
+      "options": [
+        "支持断点续传功能",
+        "支持断点续传功能",
+        "私有对象需要有读取权限才能下载",
+        "私有对象需要有读取权限才能下载",
+        "所有对象都可以直接下载",
+        "所有对象都可以直接下载",
+        "不需要检查本地存储空间",
+        "不需要检查本地存储空间"
+      ],
+      "correctAnswers": [
+        "私有对象需要有读取权限才能下载"
+      ],
+      "timestamp": "2025-08-18T12:42:57.288Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-8135-9e2e-ea961901370a"
+    },
+    {
+      "question": "查看 Greenfield 对象元数据的正确命令是什么？",
+      "options": [
+        "gnfd-cmd object info gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object info gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object head gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object head gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object meta gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object meta gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object detail gnfd://bucket-name/test.jpg",
+        "gnfd-cmd object detail gnfd://bucket-name/test.jpg"
+      ],
+      "correctAnswers": [
+        "gnfd-cmd object head gnfd://bucket-name/test.jpg"
+      ],
+      "timestamp": "2025-08-18T12:43:14.419Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/165e7446-5ed5-81e1-8b63-c6d35a9670b1/168e7446-5ed5-81ee-a8d9-cefa94f8a805"
+    },
+    {
+      "question": "关于 Injective，下列哪项说法是正确的？",
+      "options": [
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 无法与传统金融工具或市场集成。",
+        "Injective 无法与传统金融工具或市场集成。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。"
+      ],
+      "correctAnswers": [
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。"
+      ],
+      "timestamp": "2025-08-18T11:08:12.877Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fce7446-5ed5-8117-b7a5-d9ca99b1f8e5?phaseId=1ffe7446-5ed5-81ec-ae76-c0f5879e5c38"
+    },
+    {
+      "question": "关于 Injective 核心架构的描述,哪些是正确的？",
+      "options": [
+        "基于 Cosmos 的模块化框架，内置 DeFi 模块",
+        "基于 Cosmos 的模块化框架，内置 DeFi 模块",
+        "通过工作量证明（PoW）共识实现快速出块",
+        "通过工作量证明（PoW）共识实现快速出块",
+        "通过 IBC 与以太坊桥接实现跨链支持",
+        "通过 IBC 与以太坊桥接实现跨链支持",
+        "通过批量拍卖执行机制抵抗 MEV（最大可提取价值）",
+        "通过批量拍卖执行机制抵抗 MEV（最大可提取价值）"
+      ],
+      "correctAnswers": [
+        "基于 Cosmos 的模块化框架，内置 DeFi 模块",
+        "通过 IBC 与以太坊桥接实现跨链支持",
+        "通过批量拍卖执行机制抵抗 MEV（最大可提取价值）"
+      ],
+      "timestamp": "2025-08-18T11:09:50.313Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fce7446-5ed5-8131-a8d5-e606bbcb760e"
+    },
+    {
+      "question": "你可以同时使用 MetaMask 和 Keplr 钱包连接 Injective 并访问 dApp。以下说法是",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "True"
+      ],
+      "timestamp": "2025-08-18T11:09:57.907Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fde7446-5ed5-81aa-b8ef-f306e27acf06"
+    },
+    {
+      "question": "以下关于 InjScan 的说法中，哪些是正确的？",
+      "options": [
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "InjScan 仅支持测试网数据，主网不可用。",
+        "InjScan 仅支持测试网数据，主网不可用。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "InjScan 为区块链交易提供可读性强的标签。",
+        "InjScan 为区块链交易提供可读性强的标签。"
+      ],
+      "correctAnswers": [
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "InjScan 为区块链交易提供可读性强的标签。"
+      ],
+      "timestamp": "2025-08-18T11:10:59.155Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fde7446-5ed5-8138-896a-ccee4a9d4968"
+    },
+    {
+      "question": "以下关于 Injective Hub 的描述中，哪些是正确的？",
+      "options": [
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "你可以通过图形界面和筛选工具参与治理投票",
+        "你可以通过图形界面和筛选工具参与治理投票",
+        "使用 Injective Hub 需要下载安装桌面应用",
+        "使用 Injective Hub 需要下载安装桌面应用"
+      ],
+      "correctAnswers": [
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "你可以通过图形界面和筛选工具参与治理投票"
+      ],
+      "timestamp": "2025-08-18T11:11:05.760Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-818e-a388-c261bad785ed"
+    },
+    {
+      "question": "Injective 网络使用不同格式的 denom（如 inj、peggy 和 ibc）来表示代币的来源和类型。以下说法是 的",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T11:11:11.122Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8148-b6f1-ebefddb97ff2"
+    },
+    {
+      "question": "你想用 MetaMask 将 10 个 USDT 从以太坊桥接到 Injective。你应该从 Injective Bridge 的哪个标签页开始？",
+      "options": [
+        "法币桥接（Fiat Bridge）",
+        "法币桥接（Fiat Bridge）",
+        "简易存取（Easy Deposit/Withdraw）",
+        "简易存取（Easy Deposit/Withdraw）",
+        "Wormhole Connect",
+        "Wormhole Connect",
+        "Solana 专用通道（Solana Portal）",
+        "Solana 专用通道（Solana Portal）"
+      ],
+      "correctAnswers": [
+        "简易存取（Easy Deposit/Withdraw）"
+      ],
+      "timestamp": "2025-08-18T11:11:15.994Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81f7-b754-cb2cc9606411"
+    },
+    {
+      "question": "关于安装 injectived，下列哪几项是正确的？",
+      "options": [
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "Windows 可直接运行预编译的 injectived CLI。",
+        "Windows 可直接运行预编译的 injectived CLI。",
+        "源码可在 ARM 架构的 Linux 系统上编译。",
+        "源码可在 ARM 架构的 Linux 系统上编译。"
+      ],
+      "correctAnswers": [
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "源码可在 ARM 架构的 Linux 系统上编译。"
+      ],
+      "timestamp": "2025-08-18T11:11:34.271Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e5-af8e-db7a6ce64058"
+    },
+    {
+      "question": "如果你忘记设置 --gas-prices，会发生什么？",
+      "options": [
+        "钱包会被清空",
+        "钱包会被清空",
+        "命令会自动补全 gas",
+        "命令会自动补全 gas",
+        "交易可能会被 RPC 拒绝",
+        "交易可能会被 RPC 拒绝",
+        "交易照常广播",
+        "交易照常广播"
+      ],
+      "correctAnswers": [
+        "交易可能会被 RPC 拒绝"
+      ],
+      "timestamp": "2025-08-18T11:11:45.903Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/209e7446-5ed5-8161-8a28-f13f9e841af9"
+    },
+    {
+      "question": "以下哪项在使用 injectived CLI 发送代币时是不必要的？",
+      "options": [
+        "发送方的密钥必须已存在于本地密钥库中",
+        "发送方的密钥必须已存在于本地密钥库中",
+        "你必须手动签名并广播每一笔交易",
+        "你必须手动签名并广播每一笔交易",
+        "可以配置一个公开的 RPC 节点作为连接端点",
+        "可以配置一个公开的 RPC 节点作为连接端点",
+        "接收方的 Injective 地址必须是有效的",
+        "接收方的 Injective 地址必须是有效的"
+      ],
+      "correctAnswers": [
+        "你必须手动签名并广播每一笔交易"
+      ],
+      "timestamp": "2025-08-18T11:12:00.174Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8193-831b-ca96e1939518"
+    },
+    {
+      "question": "以下关于多签交易的说法，哪些是正确的？",
+      "options": [
+        "每位签名者需要按照特定顺序追加签名",
+        "每位签名者需要按照特定顺序追加签名",
+        "多签交易可以随意顺序签名，只要都签了就行",
+        "多签交易可以随意顺序签名，只要都签了就行",
+        "多签密钥是通过 -multisig 和 -multisig-threshold 参数创建的",
+        "多签密钥是通过 -multisig 和 -multisig-threshold 参数创建的",
+        "tx multi-sign 是基于已签名文件继续构建的，而不是原始的未签名交易",
+        "tx multi-sign 是基于已签名文件继续构建的，而不是原始的未签名交易"
+      ],
+      "correctAnswers": [
+        "每位签名者需要按照特定顺序追加签名",
+        "多签密钥是通过 -multisig 和 -multisig-threshold 参数创建的",
+        "tx multi-sign 是基于已签名文件继续构建的，而不是原始的未签名交易"
+      ],
+      "timestamp": "2025-08-18T11:12:39.525Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e2-add2-d4495284509d"
+    },
+    {
+      "question": "Injective 对 EVM 的支持意味着开发者可以：",
+      "options": [
+        "使用 JavaScript 编写智能合约",
+        "使用 JavaScript 编写智能合约",
+        "直接部署 Solidity 合约并用以太坊工具交互",
+        "直接部署 Solidity 合约并用以太坊工具交互",
+        "在 Injective 上部署 Cosmos SDK 模块",
+        "在 Injective 上部署 Cosmos SDK 模块",
+        "用 Python 与 Injective EVM 直接交互",
+        "用 Python 与 Injective EVM 直接交互"
+      ],
+      "correctAnswers": [
+        "直接部署 Solidity 合约并用以太坊工具交互"
+      ],
+      "timestamp": "2025-08-18T11:12:53.339Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-8116-a8ca-c5b2f24a5c6f"
+    },
+    {
+      "question": "Foundry 的 forge build 命令主要用于？",
+      "options": [
+        "部署合约到主网",
+        "部署合约到主网",
+        "编译 Solidity 合约",
+        "编译 Solidity 合约",
+        "验证合约源码",
+        "验证合约源码",
+        "查询区块浏览器",
+        "查询区块浏览器"
+      ],
+      "correctAnswers": [
+        "编译 Solidity 合约"
+      ],
+      "timestamp": "2025-08-18T12:08:08.631Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-816e-bcec-c7978effb1f2"
+    },
+    {
+      "question": "关于 cast send 与 cast call 的区别，以下说法正确的是？",
+      "options": [
+        "cast call 用于发送交易，而 cast send 用于读取状态",
+        "cast call 用于发送交易，而 cast send 用于读取状态",
+        "两者都只能在本地模拟，不会上链",
+        "两者都只能在本地模拟，不会上链",
+        "cast send 会发起链上交易，cast call 仅用于本地读取状态",
+        "cast send 会发起链上交易，cast call 仅用于本地读取状态",
+        "两者功能完全相同，只是名称不同",
+        "两者功能完全相同，只是名称不同"
+      ],
+      "correctAnswers": [
+        "cast send 会发起链上交易，cast call 仅用于本地读取状态"
+      ],
+      "timestamp": "2025-08-18T12:08:22.490Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-81df-a4ce-c3efaebbd365"
+    },
+    {
+      "question": "Linea，前身为 ConsenSys zkEVM，是由 ConsenSys 开发的零知识证明（ZK-Rollup）方案。它是一个与以太坊虚拟机（EVM）完全等效的二层网络，旨在实现高吞吐量和低交易成本，同时保持与 EVM 的完全兼容性。Linea 的推出，为以太坊生态系统中的开发者提供了一个强大的平台，以支持去中心化应用（DApps）的构建和扩展，而无需对现有代码进行重大修改。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:49:57.852Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/91b5867f-102f-423b-86a8-ebab4cf7ada2?phaseId=14ce7446-5ed5-811e-8e34-f070e4278173"
+    },
+    {
+      "question": "Linea 生态系统是一个多元化的区块链生态系统，旨在通过整合不同的应用和服务，为用户和开发者提供一个全面、可扩展的区块链解决方案平台。本课将介绍 Linea 生态系统中的各赛道有代表性的项目。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:52:18.053Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/a7ceff25-2d7d-46d9-9555-02fe20e6b4be"
+    },
+    {
+      "question": "Linea 是 Consensys 推出的 ZK-Rollup 解决方案，强调提升 DeFi 体验、开发者友好、庞大工具支持、强安全性和合规背书。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": "Linea 在第四阶段的路线图中提出了实施多重证明者（Multi-Prover）和限制治理权力来增强生态系统的稳健性和减轻与信任相关的风险。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:01:58.637Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/7ca6be51-2a14-49c9-b8b5-a63c2a39da1c"
+    },
+    {
+      "question": "Linea 可以被视为 2 型 zkEVM — 与现有应用程序完全兼容，但进行了少量修改以优化开发并加速证明生成。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:02:12.553Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/e8cd3c3b-4fec-469d-b542-81315220cff5"
+    },
+    {
+      "question": "Canonical Token Bridge 合约在 Linea 中使用的是一种“锁定和铸造（代币）”的方案，源链上的代币被锁定，在目标链上被铸造。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:02:26.927Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/b5c97fd8-6261-4a5b-9545-1d59e874f8d0"
+    },
+    {
+      "question": "Canonical Message Service 由三个主要元素组成：两个智能合约以及中间的 Postbots 服务。其中智能合约分别位于 Linea 和以太坊上，并且几乎完全相同。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:03:07.981Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/d3ebcb42-e123-40eb-9a08-bf4d1407305a"
+    },
+    {
+      "question": "传递到 L2 的消息不必存在于 L1 上，Linea 仍旧可以验证消息的有效性。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:03:14.140Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/d3ebcb42-e123-40eb-9a08-bf4d1407305a"
+    },
+    {
+      "question": "在 Linea 区块链上每笔交易提交后被广播到网络，并进入节点的 mempool 等待处理。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:03:25.943Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/1b4a3b73-fb69-4bda-8afb-aa491774da01"
+    },
+    {
+      "question": "进入 Linea 内存池的交易，会由排序器根据优先级 Gas 竞拍的方式进行排序，之后所有的交易都会被执行。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:03:49.413Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/85788801-18e3-4876-8001-9aa69b1c5aef"
+    },
+    {
+      "question": "交易执行后，由状态管理器来更新网络状态，这标志着交易实现了真正的最终性。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:04:09.314Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/8e0a8da6-bd98-4355-9633-840e4db920f5"
+    },
+    {
+      "question": "Linea 采用了批次合并技术，将两个或更多区块的交易数据合并成一个数据集，这意味着当只有一个区块的数据时不会提交到 L1。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:05:19.115Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/47eec940-fea3-4bf7-90e2-b8f147a4dd7d"
+    },
+    {
+      "question": "Linea 的证明生成器在生成零知识证明过程中分为生成内部证明、生成外部证明两个阶段。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:05:54.076Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/f42654bb-3730-465b-bf39-1536ad20218d"
+    },
+    {
+      "question": "提交到以太坊主网的数据包含两部分：zk-SNARK 证明和存储 L2 交易数据的 calldata。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:07:06.049Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/90caa5af-f741-452e-ad03-a9144d53aaf4"
+    },
+    {
+      "question": "Layer 2 技术的出现是为了解决区块链的哪些问题？",
+      "options": [
+        "低吞吐量和高交易费用",
+        "低吞吐量和高交易费用",
+        "去中心化和安全性问题",
+        "去中心化和安全性问题",
+        "高可扩展性和低成本问题",
+        "高可扩展性和低成本问题",
+        "高隐私保护和去中介化问题",
+        "高隐私保护和去中介化问题"
+      ],
+      "correctAnswers": [
+        "低吞吐量和高交易费用"
+      ],
+      "timestamp": "2025-09-02T14:44:04.967Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/c18d084a-114d-402b-a7df-a3db0624a7be"
+    },
+    {
+      "question": "在状态通道解决方案中，为什么 Alice 和客户选择在每天下午 6 点下班前关闭通道？",
+      "options": [
+        "增加交易匿名性",
+        "增加交易匿名性",
+        "减轻 Bitcoin 一层网络负担",
+        "减轻 Bitcoin 一层网络负担",
+        "确保及时结算",
+        "确保及时结算",
+        "节省交易手续费",
+        "节省交易手续费"
+      ],
+      "correctAnswers": [
+        "确保及时结算"
+      ],
+      "timestamp": "2025-09-02T14:44:33.205Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/758deb4d-5fad-4fbd-8969-d753b110fd5f"
+    },
+    {
+      "question": "侧链相比状态通道的主要优势在于？",
+      "options": [
+        "更高的交易速度",
+        "更高的交易速度",
+        "更少的技术复杂度",
+        "更少的技术复杂度",
+        "能够处理更多种类的交易",
+        "能够处理更多种类的交易",
+        "更低的交易成本",
+        "更低的交易成本"
+      ],
+      "correctAnswers": [
+        "能够处理更多种类的交易"
+      ],
+      "timestamp": "2025-09-02T14:44:41.030Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/a469523d-c7f6-4d22-af44-d08847fd417e"
+    },
+    {
+      "question": "为什么 Ethereum 这样的 Layer1 上可以支持 Optimistic Rollup 的挑战机制？",
+      "options": [
+        "Ethereum 具有高速的交易确认速度",
+        "Ethereum 具有高速的交易确认速度",
+        "Ethereum 支持智能合约，容易实现复杂的挑战逻辑",
+        "Ethereum 支持智能合约，容易实现复杂的挑战逻辑",
+        "Ethereum 具有更高的安全性",
+        "Ethereum 具有更高的安全性",
+        "Ethereum 的区块大小更适合挑战机制的需求",
+        "Ethereum 的区块大小更适合挑战机制的需求"
+      ],
+      "correctAnswers": [
+        "Ethereum 支持智能合约，容易实现复杂的挑战逻辑"
+      ],
+      "timestamp": "2025-09-02T14:44:58.332Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/a60d6b68-234b-4a81-8982-8e7035f3a3dc"
+    },
+    {
+      "question": "零知识证明的原理是什么？",
+      "options": [
+        "公开所有交易细节",
+        "公开所有交易细节",
+        "使用数学方法证明交易正确性而不公开细节",
+        "使用数学方法证明交易正确性而不公开细节",
+        "每次都提交挑战",
+        "每次都提交挑战",
+        "由验证人验证所有交易",
+        "由验证人验证所有交易"
+      ],
+      "correctAnswers": [
+        "使用数学方法证明交易正确性而不公开细节"
+      ],
+      "timestamp": "2025-09-02T14:45:15.446Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/7e99970d-b38f-4f1f-b56d-931ab865612f"
+    },
+    {
+      "question": "Mantle 使用了哪项 Layer2 技术作为其基础？",
+      "options": [
+        "Proof of Work",
+        "Proof of Work",
+        "Optimistic Rollup",
+        "Optimistic Rollup",
+        "Proof of Stake",
+        "Proof of Stake",
+        "zk-SNARKs",
+        "zk-SNARKs"
+      ],
+      "correctAnswers": [
+        "Optimistic Rollup"
+      ],
+      "timestamp": "2025-09-02T14:45:37.033Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/748cb3b9-09d9-420f-89be-451c621cfbfa"
+    },
+    {
+      "question": "模块化架构如何提升区块链系统的整体性能？",
+      "options": [
+        "将所有功能集中在一个层级以减少通信开销",
+        "将所有功能集中在一个层级以减少通信开销",
+        "通过限制每个层级的功能以降低复杂性",
+        "通过限制每个层级的功能以降低复杂性",
+        "通过使各个层级都可以独立优化，提高整体系统的灵活性和可扩展性",
+        "通过使各个层级都可以独立优化，提高整体系统的灵活性和可扩展性",
+        "通过实现所有层级的同步操作来确保数据一致性",
+        "通过实现所有层级的同步操作来确保数据一致性"
+      ],
+      "correctAnswers": [
+        "通过使各个层级都可以独立优化，提高整体系统的灵活性和可扩展性"
+      ],
+      "timestamp": "2025-09-02T14:45:47.944Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/951465d5-4e48-4046-8ec2-af2c302d6c85"
+    },
+    {
+      "question": "在 Mantle 网络中，交易打包带来的好处包括哪些？",
+      "options": [
+        "只是降低了网络拥堵",
+        "只是降低了网络拥堵",
+        "只是提高了处理速度",
+        "只是提高了处理速度",
+        "降低网络拥堵、提高处理速度，且节省资源",
+        "降低网络拥堵、提高处理速度，且节省资源",
+        "增加了交易的匿名性",
+        "增加了交易的匿名性"
+      ],
+      "correctAnswers": [
+        "降低网络拥堵、提高处理速度，且节省资源"
+      ],
+      "timestamp": "2025-09-02T14:46:09.450Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/f85c6f56-f9bb-4225-b02b-c3ae57dc004d"
+    },
+    {
+      "question": "State Root 在 Mantle 网络中的作用是什么？",
+      "options": [
+        "存储每笔交易的详细信息",
+        "存储每笔交易的详细信息",
+        "作为区块链当前完整状态的加密摘要",
+        "作为区块链当前完整状态的加密摘要",
+        "直接处理和验证交易",
+        "直接处理和验证交易",
+        "管理用户账户和资产",
+        "管理用户账户和资产"
+      ],
+      "correctAnswers": [
+        "作为区块链当前完整状态的加密摘要"
+      ],
+      "timestamp": "2025-09-02T14:46:28.241Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/a24a0240-f74f-4fa8-963b-3ae758565568"
+    },
+    {
+      "question": "Verifier 在 Mantle 网络中的主要角色是什么？",
+      "options": [
+        "直接处理 Layer 2 上的交易",
+        "直接处理 Layer 2 上的交易",
+        "存储交易历史数据",
+        "存储交易历史数据",
+        "验证 Layer 2 数据的完整性和正确性",
+        "验证 Layer 2 数据的完整性和正确性",
+        "生成新的交易和智能合约",
+        "生成新的交易和智能合约"
+      ],
+      "correctAnswers": [
+        "验证 Layer 2 数据的完整性和正确性"
+      ],
+      "timestamp": "2025-09-02T14:49:25.851Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/34bad020-eb56-411f-8b52-e8270bd14da6"
+    },
+    {
+      "question": "Mantle DA 在 Mantle 网络中主要负责什么？",
+      "options": [
+        "直接处理和确认交易",
+        "直接处理和确认交易",
+        "存储所有 Layer2 交易的数据",
+        "存储所有 Layer2 交易的数据",
+        "生成新的 Stateroot 数据",
+        "生成新的 Stateroot 数据",
+        "管理用户的钱包和资金",
+        "管理用户的钱包和资金"
+      ],
+      "correctAnswers": [
+        "存储所有 Layer2 交易的数据"
+      ],
+      "timestamp": "2025-09-02T14:50:39.468Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/487e15d3-c6ba-434f-9fc5-649fc9df3a6a"
+    },
+    {
+      "question": "相比于传统的 OP Rollups，Mantle 在哪个方面实现了显著改进？",
+      "options": [
+        "仅在执行层上的改进",
+        "仅在执行层上的改进",
+        "数据可用性层的存储优化",
+        "数据可用性层的存储优化",
+        "结算层的共识机制",
+        "结算层的共识机制",
+        "执行层、结算层和数据可用性层的综合优化",
+        "执行层、结算层和数据可用性层的综合优化"
+      ],
+      "correctAnswers": [
+        "执行层、结算层和数据可用性层的综合优化"
+      ],
+      "timestamp": "2025-09-02T14:50:56.848Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/a46bd5ae-7454-4293-b02f-2466b2216967"
+    },
+    {
+      "question": "元交易（Meta Transaction）在Mantle中的引入旨在解决什么问题？",
+      "options": [
+        "增加交易的处理速度",
+        "增加交易的处理速度",
+        "降低用户参与的门槛",
+        "降低用户参与的门槛",
+        "提高区块链的安全性",
+        "提高区块链的安全性",
+        "增加新代币的发行量",
+        "增加新代币的发行量"
+      ],
+      "correctAnswers": [
+        "降低用户参与的门槛"
+      ],
+      "timestamp": "2025-09-02T14:51:57.983Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/dbb94692-226b-4e0d-9e4a-864cc1caaaf2/564c8fb6-7924-460c-a4b0-3696e89e9eb5"
+    },
+    {
+      "question": "Go、Rust 分别使用什么命令确认成功安装?",
+      "options": [
+        "go version",
+        "go version",
+        "go --version",
+        "go --version",
+        "rustc --version",
+        "rustc --version",
+        "rustc version",
+        "rustc version"
+      ],
+      "correctAnswers": [
+        "go version",
+        "rustc --version"
+      ],
+      "timestamp": "2025-09-02T15:28:02.612Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/11be7446-5ed5-8154-9f8d-e33db90cf3c3/11be7446-5ed5-81fc-9649-f87b1c29df98?phaseId=14de7446-5ed5-819d-8e9e-f35bf62e9187"
+    },
+    {
+      "question": "处理未加密的私钥时，以下哪种做法是最推荐的？",
+      "options": [
+        "将私钥直接存储在代码库中以便使用",
+        "将私钥直接存储在代码库中以便使用",
+        "将私钥存入 .env 文件中，同时避免将 .env 文件上传到远程代码库，如 GitHub 或 GitLab。",
+        "将私钥存入 .env 文件中，同时避免将 .env 文件上传到远程代码库，如 GitHub 或 GitLab。",
+        "在项目根目录创建一个 secret.txt 文件存储私钥",
+        "在项目根目录创建一个 secret.txt 文件存储私钥",
+        "在网络上共享私钥供多人使用",
+        "在网络上共享私钥供多人使用"
+      ],
+      "correctAnswers": [
+        "将私钥存入 .env 文件中，同时避免将 .env 文件上传到远程代码库，如 GitHub 或 GitLab。"
+      ],
+      "timestamp": "2025-09-02T15:29:04.657Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/11be7446-5ed5-8154-9f8d-e33db90cf3c3/14ae7446-5ed5-8129-81f3-e519cdd953e0?phaseId=14de7446-5ed5-819d-8e9e-f35bf62e9187"
+    },
+    {
+      "question": "下列描述中哪些选项是对的？",
+      "options": [
+        "GasPrice.fromString(\"0uxion\") 设置了零 gas 价格，这在 XION 测试网中允许",
+        "GasPrice.fromString(\"0uxion\") 设置了零 gas 价格，这在 XION 测试网中允许",
+        "DirectSecp256k1Wallet.fromKey 使用私钥创建一个用于与 XION 交互的加密钱包",
+        "DirectSecp256k1Wallet.fromKey 使用私钥创建一个用于与 XION 交互的加密钱包",
+        "coins('1', 'uxion') 用于指定交易的转账金额和代币类型",
+        "coins('1', 'uxion') 用于指定交易的转账金额和代币类型",
+        "SigningStargateClient.connectWithSigner(rpcEndpoint, wallet, txOptions) 用于连接 RPC 端点并初始化签名客户端",
+        "SigningStargateClient.connectWithSigner(rpcEndpoint, wallet, txOptions) 用于连接 RPC 端点并初始化签名客户端"
+      ],
+      "correctAnswers": [
+        "GasPrice.fromString(\"0uxion\") 设置了零 gas 价格，这在 XION 测试网中允许",
+        "DirectSecp256k1Wallet.fromKey 使用私钥创建一个用于与 XION 交互的加密钱包",
+        "coins('1', 'uxion') 用于指定交易的转账金额和代币类型",
+        "SigningStargateClient.connectWithSigner(rpcEndpoint, wallet, txOptions) 用于连接 RPC 端点并初始化签名客户端"
+      ],
+      "timestamp": "2025-09-02T15:29:37.989Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/11be7446-5ed5-8154-9f8d-e33db90cf3c3/14ae7446-5ed5-8189-89c7-de3a5c782135"
+    },
+    {
+      "question": "关于 StargateClient 和 SigningStargateClient 的区别，下列选项中哪些是正确的？",
+      "options": [
+        "StargateClient 适用于只读操作，而 SigningStargateClient 适用于签名交易。",
+        "StargateClient 适用于只读操作，而 SigningStargateClient 适用于签名交易。",
+        "SigningStargateClient 只能在本地网络上使用，无法连接远程节点。",
+        "SigningStargateClient 只能在本地网络上使用，无法连接远程节点。",
+        "StargateClient 适合进行查询操作，例如获取账户余额。",
+        "StargateClient 适合进行查询操作，例如获取账户余额。",
+        "SigningStargateClient 不能用于与 XION 区块链的交互。",
+        "SigningStargateClient 不能用于与 XION 区块链的交互。"
+      ],
+      "correctAnswers": [
+        "StargateClient 适用于只读操作，而 SigningStargateClient 适用于签名交易。",
+        "StargateClient 适合进行查询操作，例如获取账户余额。"
+      ],
+      "timestamp": "2025-09-02T15:32:12.466Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/11be7446-5ed5-8154-9f8d-e33db90cf3c3/14ae7446-5ed5-8192-ac79-d12487633225"
+    },
+    {
+      "question": "账户抽象由哪两个部分实现?",
+      "options": [
+        "智能合约账户(SCA)",
+        "智能合约账户(SCA)",
+        "外部所有账户(EOA)",
+        "外部所有账户(EOA)",
+        "状态机",
+        "状态机",
+        "行为树",
+        "行为树"
+      ],
+      "correctAnswers": [
+        "智能合约账户(SCA)",
+        "状态机"
+      ],
+      "timestamp": "2025-09-02T15:33:11.593Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-8156-ae03-ca61422b8fcf"
+    },
+    {
+      "question": "签名抽象在 XION 网络中的主要优势有哪些?",
+      "options": [
+        "多种验证方式支持",
+        "多种验证方式支持",
+        "静态验证机制",
+        "静态验证机制",
+        "强大的扩展性",
+        "强大的扩展性",
+        "支持多种加密算法",
+        "支持多种加密算法"
+      ],
+      "correctAnswers": [
+        "多种验证方式支持",
+        "强大的扩展性",
+        "支持多种加密算法"
+      ],
+      "timestamp": "2025-09-02T15:34:10.440Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-81b4-85d9-ee0127d771d7"
+    },
+    {
+      "question": "设备抽象在 XION 网络中的主要优势有哪些?",
+      "options": [
+        "无需管理私钥",
+        "无需管理私钥",
+        "仅支持单一设备访问",
+        "仅支持单一设备访问",
+        "多种登录方式",
+        "多种登录方式",
+        "强大的安全性",
+        "强大的安全性"
+      ],
+      "correctAnswers": [
+        "无需管理私钥",
+        "多种登录方式",
+        "强大的安全性"
+      ],
+      "timestamp": "2025-09-02T15:35:18.860Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-8190-a47d-cd4995ede7b8"
+    },
+    {
+      "question": "以下关于 XION 费用抽象的描述，哪些是正确的？",
+      "options": [
+        "用户只能使用XION本地代币支付交易费用",
+        "用户只能使用XION本地代币支付交易费用",
+        "用户可以使用任何代币支付交易费用",
+        "用户可以使用任何代币支付交易费用",
+        "系统会通过去中心化交易所将用户支付的代币转换为 XION 代币",
+        "系统会通过去中心化交易所将用户支付的代币转换为 XION 代币",
+        "开发者可以为用户赞助交易费用，实现无 Gas 费用体验",
+        "开发者可以为用户赞助交易费用，实现无 Gas 费用体验"
+      ],
+      "correctAnswers": [
+        "用户可以使用任何代币支付交易费用",
+        "系统会通过去中心化交易所将用户支付的代币转换为 XION 代币",
+        "开发者可以为用户赞助交易费用，实现无 Gas 费用体验"
+      ],
+      "timestamp": "2025-09-02T15:36:23.468Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-8194-835a-d4629a38a60c"
+    },
+    {
+      "question": "以下关于 XION 互操作性的描述，哪些是正确的?",
+      "options": [
+        "可以使用 XION 元账户作为中央账户，无缝管理所有资产其它链的资产",
+        "可以使用 XION 元账户作为中央账户，无缝管理所有资产其它链的资产",
+        "包转发中间件使用户能够从控制链上对任意宿主链进行操作",
+        "包转发中间件使用户能够从控制链上对任意宿主链进行操作",
+        "XION通过简单的单向通信通道建立跨链通信",
+        "XION通过简单的单向通信通道建立跨链通信",
+        "用户可以在一个界面下完成对多个区块链的操作，无需切换不同的区块链应用",
+        "用户可以在一个界面下完成对多个区块链的操作，无需切换不同的区块链应用"
+      ],
+      "correctAnswers": [
+        "可以使用 XION 元账户作为中央账户，无缝管理所有资产其它链的资产",
+        "包转发中间件使用户能够从控制链上对任意宿主链进行操作",
+        "用户可以在一个界面下完成对多个区块链的操作，无需切换不同的区块链应用"
+      ],
+      "timestamp": "2025-09-02T15:38:42.335Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/120e7446-5ed5-8147-9c69-dced17439277"
+    },
+    {
+      "question": "在 XION 的账户抽象模型中，用户可以通过以下哪种方式进行身份验证？",
+      "options": [
+        "只能使用私钥",
+        "只能使用私钥",
+        "使用电子邮件或社交媒体账户",
+        "使用电子邮件或社交媒体账户",
+        "仅通过硬件钱包",
+        "仅通过硬件钱包",
+        "必须由第三方验证机构进行验证",
+        "必须由第三方验证机构进行验证"
+      ],
+      "correctAnswers": [
+        "使用电子邮件或社交媒体账户"
+      ],
+      "timestamp": "2025-09-02T15:40:22.104Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/120e7446-5ed5-8150-81e7-e75d5be141aa/127e7446-5ed5-8167-9dc8-c38568afd303"
+    },
+    {
+      "question": "Monad 区块链使用 Rollup 扩展技术来提高吞吐量和降低交易延迟。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "False"
+      ],
+      "timestamp": "2025-09-02T15:46:53.456Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/197e7446-5ed5-81bf-90e5-d70105073a04"
+    },
+    {
+      "question": "Monad 使用的共识机制是什么？",
+      "options": [
+        "PoW",
+        "PoW",
+        "PoS",
+        "PoS",
+        "MonadBFT",
+        "MonadBFT",
+        "DPoS",
+        "DPoS"
+      ],
+      "correctAnswers": [
+        "MonadBFT"
+      ],
+      "timestamp": "2025-09-02T15:48:52.704Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/197e7446-5ed5-815a-994e-ccc5a03b9977"
+    },
+    {
+      "question": "为了确保整个系统不受恶意节点影响，BFT 机制通常要求恶意节点的数量严格小于什么比例？",
+      "options": [
+        "1/4",
+        "1/4",
+        "1/3",
+        "1/3",
+        "1/2",
+        "1/2",
+        "1/5",
+        "1/5"
+      ],
+      "correctAnswers": [
+        "1/3"
+      ],
+      "timestamp": "2025-09-02T15:49:22.607Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/198e7446-5ed5-8149-b181-ddf7de5c2b91"
+    },
+    {
+      "question": "对于区块 N，它会在生成哪个区块的时候达到 Finalized 状态？",
+      "options": [
+        "N",
+        "N",
+        "N + 1",
+        "N + 1",
+        "N + 2",
+        "N + 2",
+        "N + 3",
+        "N + 3"
+      ],
+      "correctAnswers": [
+        "N + 2"
+      ],
+      "timestamp": "2025-09-02T15:50:53.471Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/198e7446-5ed5-81a5-85fa-c0a9c64c4836"
+    },
+    {
+      "question": "在 优化后的异步执行 中，Monad 如何提升性能？？",
+      "options": [
+        "通过减少交易的执行时间",
+        "通过减少交易的执行时间",
+        "通过增加每个区块的交易数量",
+        "通过增加每个区块的交易数量",
+        "通过减少区块生成的时间",
+        "通过减少区块生成的时间",
+        "通过分配更多时间用于交易执行",
+        "通过分配更多时间用于交易执行"
+      ],
+      "correctAnswers": [
+        "通过增加每个区块的交易数量",
+        "通过分配更多时间用于交易执行"
+      ],
+      "timestamp": "2025-09-02T15:51:49.804Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/198e7446-5ed5-81e9-9d06-ccc4a73d4a62"
+    },
+    {
+      "question": "在 Monad 中，Scheduling 机制的作用是什么？",
+      "options": [
+        "确保交易按顺序执行",
+        "确保交易按顺序执行",
+        "预测交易之间的依赖关系并优化并行执行",
+        "预测交易之间的依赖关系并优化并行执行",
+        "使所有交易独立执行",
+        "使所有交易独立执行",
+        "延迟执行交易直到共识达成",
+        "延迟执行交易直到共识达成"
+      ],
+      "correctAnswers": [
+        "预测交易之间的依赖关系并优化并行执行"
+      ],
+      "timestamp": "2025-09-02T15:52:12.029Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/199e7446-5ed5-8188-b358-f7b0448bc60c"
+    },
+    {
+      "question": "MonadDB 相比于以太坊存储架构的主要优势是什么？",
+      "options": [
+        "采用了 MPT 和 Key-Value 存储的双重结构",
+        "采用了 MPT 和 Key-Value 存储的双重结构",
+        "统一了存储结构，使用单一的 Patricia Trie",
+        "统一了存储结构，使用单一的 Patricia Trie",
+        "完全放弃了 Patricia Trie 存储",
+        "完全放弃了 Patricia Trie 存储",
+        "只使用了 LevelDB 存储",
+        "只使用了 LevelDB 存储"
+      ],
+      "correctAnswers": [
+        "统一了存储结构，使用单一的 Patricia Trie"
+      ],
+      "timestamp": "2025-09-02T15:59:30.308Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/199e7446-5ed5-81a1-8f30-f6b1a0569a49"
+    },
+    {
+      "question": "Phantom 钱包只能链接 Solana 网络，不能用于 Monad 网络。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "False"
+      ],
+      "timestamp": "2025-09-02T16:01:50.742Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/19ee7446-5ed5-8143-9763-ee5cff15f8b7"
+    },
+    {
+      "question": "下列关于 Foundry 命令正确的是：",
+      "options": [
+        "forge init 用于初始化一个新的智能合约项目",
+        "forge init 用于初始化一个新的智能合约项目",
+        "forge build 用来编译合约",
+        "forge build 用来编译合约",
+        "forge create 用来部署合约",
+        "forge create 用来部署合约"
+      ],
+      "correctAnswers": [
+        "forge init 用于初始化一个新的智能合约项目",
+        "forge build 用来编译合约",
+        "forge create 用来部署合约"
+      ],
+      "timestamp": "2025-09-02T16:02:04.656Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/19ee7446-5ed5-817d-b985-c2aa8b4ea9fb"
+    },
+    {
+      "question": "cast call 命令的主要功能是什么？",
+      "options": [
+        "修改智能合约的状态",
+        "修改智能合约的状态",
+        "查询智能合约的状态",
+        "查询智能合约的状态",
+        "部署智能合约",
+        "部署智能合约",
+        "发送交易到智能合约",
+        "发送交易到智能合约"
+      ],
+      "correctAnswers": [
+        "查询智能合约的状态"
+      ],
+      "timestamp": "2025-09-02T16:02:18.173Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/197e7446-5ed5-8191-8f27-c1a353ae4785/19ee7446-5ed5-811a-97d4-ebc8ba564b2a"
+    },
+    {
+      "question": "多签钱包的主要特点是什么？",
+      "options": [
+        "只需一个私钥就能完全控制资产",
+        "只需一个私钥就能完全控制资产",
+        "需要多个私钥共同授权才能执行交易",
+        "需要多个私钥共同授权才能执行交易",
+        "只能用于企业财务管理",
+        "只能用于企业财务管理",
+        "交易执行速度比传统钱包更快",
+        "交易执行速度比传统钱包更快"
+      ],
+      "correctAnswers": [
+        "需要多个私钥共同授权才能执行交易"
+      ],
+      "timestamp": "2025-09-02T16:02:59.200Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1b2e7446-5ed5-8107-b841-d75358e35521/1b2e7446-5ed5-81b8-ad5a-f5dd4920199a?phaseId=1afe7446-5ed5-817e-b59a-c8b9d318fd7c"
+    },
+    {
+      "question": "在权重多签钱包中，参与者的投票权重是如何确定的？",
+      "options": [
+        "所有参与者拥有相同的投票权重",
+        "所有参与者拥有相同的投票权重",
+        "根据参与者持有的治理代币数量决定",
+        "根据参与者持有的治理代币数量决定",
+        "由系统随机分配权重",
+        "由系统随机分配权重",
+        "按照参与者加入的时间顺序决定",
+        "按照参与者加入的时间顺序决定"
+      ],
+      "correctAnswers": [
+        "根据参与者持有的治理代币数量决定"
+      ],
+      "timestamp": "2025-09-02T16:03:04.846Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1b2e7446-5ed5-8107-b841-d75358e35521/1b2e7446-5ed5-81a2-91d6-c66cff547b12"
+    },
+    {
+      "question": "治理代币在权重多签钱包中的主要作用是什么？",
+      "options": [
+        "用于支付交易手续费",
+        "用于支付交易手续费",
+        "仅用于代币之间的交换",
+        "仅用于代币之间的交换",
+        "决定持有者在多签系统中的投票权重",
+        "决定持有者在多签系统中的投票权重",
+        "用于记录交易历史",
+        "用于记录交易历史"
+      ],
+      "correctAnswers": [
+        "决定持有者在多签系统中的投票权重"
+      ],
+      "timestamp": "2025-09-02T16:03:23.086Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1b2e7446-5ed5-8107-b841-d75358e35521/1b2e7446-5ed5-816f-b5a0-d92fbe357ecf"
+    },
+    {
+      "question": "在以太坊的数字签名系统中，以下哪项描述是正确的？",
+      "options": [
+        "公钥用于创建签名，私钥用于验证签名",
+        "公钥用于创建签名，私钥用于验证签名",
+        "私钥用于创建签名，公钥用于验证签名",
+        "私钥用于创建签名，公钥用于验证签名",
+        "公钥和私钥都可以用来创建签名",
+        "公钥和私钥都可以用来创建签名",
+        "签名验证不需要使用公钥或私钥",
+        "签名验证不需要使用公钥或私钥"
+      ],
+      "correctAnswers": [
+        "私钥用于创建签名，公钥用于验证签名"
+      ],
+      "timestamp": "2025-09-02T16:03:43.818Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1b2e7446-5ed5-8107-b841-d75358e35521/1b2e7446-5ed5-8153-b539-f886ab052761"
+    },
+    {
+      "question": "在多签钱包的交易执行流程中，为什么需要查询和使用 nonce 值？",
+      "options": [
+        "用于计算签名者的权重",
+        "用于计算签名者的权重",
+        "确定交易的执行顺序",
+        "确定交易的执行顺序",
+        "防止交易重放攻击",
+        "防止交易重放攻击",
+        "验证签名者的身份",
+        "验证签名者的身份"
+      ],
+      "correctAnswers": [
+        "防止交易重放攻击"
+      ],
+      "timestamp": "2025-09-02T16:04:03.691Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1b2e7446-5ed5-8107-b841-d75358e35521/1b1baab4-eae4-8140-a31a-c81419d5b3d0"
+    },
+    {
+      "question": "为什么中心化身份系统被称为“双刃剑”？",
+      "options": [
+        "它既方便用户掌控自己的数据，又能够分布式存储数据。",
+        "它既方便用户掌控自己的数据，又能够分布式存储数据。",
+        "它在便捷管理的同时，也可能带来安全与隐私风险。",
+        "它在便捷管理的同时，也可能带来安全与隐私风险。",
+        "它能够避免网络攻击，同时防止用户数据被误用。",
+        "它能够避免网络攻击，同时防止用户数据被误用。",
+        "它完全消除了单点故障的问题。",
+        "它完全消除了单点故障的问题。"
+      ],
+      "correctAnswers": [
+        "它在便捷管理的同时，也可能带来安全与隐私风险。"
+      ],
+      "timestamp": "2025-09-02T16:31:45.920Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-81c1-928b-dd96cf0cc157"
+    },
+    {
+      "question": "在可验证证明（VC）系统中，下列哪一角色负责颁发 VC？",
+      "options": [
+        "持有者（Holder）",
+        "持有者（Holder）",
+        "发行者（Issuer）",
+        "发行者（Issuer）",
+        "验证者（Verifier）",
+        "验证者（Verifier）",
+        "DID 注册机构",
+        "DID 注册机构"
+      ],
+      "correctAnswers": [
+        "发行者（Issuer）"
+      ],
+      "timestamp": "2025-09-02T16:31:58.618Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-8192-b5d7-d159d15e8dd8"
+    },
+    {
+      "question": "在 HackQuest 技能认证场景中，用户通过其 VC 分享课程信息时，下列说法正确的是？",
+      "options": [
+        "学员需要向招聘企业提供完整的个人身份信息。",
+        "学员需要向招聘企业提供完整的个人身份信息。",
+        "学员可以自主决定与谁共享其 VC 信息。",
+        "学员可以自主决定与谁共享其 VC 信息。",
+        "学员的课程凭证只能通过中心化平台认证。",
+        "学员的课程凭证只能通过中心化平台认证。",
+        "学员的课程凭证内容可以被随意篡改。",
+        "学员的课程凭证内容可以被随意篡改。"
+      ],
+      "correctAnswers": [
+        "学员可以自主决定与谁共享其 VC 信息。"
+      ],
+      "timestamp": "2025-09-02T16:32:09.104Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-81ed-a3d5-e724181fda6b"
+    },
+    {
+      "question": "声誉系统在 DAO 决策中可以发挥什么作用？",
+      "options": [
+        "通过历史行为赋予可信成员更多治理权重",
+        "通过历史行为赋予可信成员更多治理权重",
+        "限制所有用户的治理权限",
+        "限制所有用户的治理权限",
+        "直接代替链上投票机制",
+        "直接代替链上投票机制",
+        "确保所有成员的权重完全相等",
+        "确保所有成员的权重完全相等"
+      ],
+      "correctAnswers": [
+        "通过历史行为赋予可信成员更多治理权重"
+      ],
+      "timestamp": "2025-09-02T16:32:19.490Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-81fc-970f-ea95ad7f5624"
+    },
+    {
+      "question": "Open Campus ID（OCID）解决了以下哪些问题？（多选）",
+      "options": [
+        "学习认证的可信度和不可篡改性",
+        "学习认证的可信度和不可篡改性",
+        "跨平台整合学习记录",
+        "跨平台整合学习记录",
+        "去中心化金融服务的提供",
+        "去中心化金融服务的提供",
+        "学生对学习数据的隐私与主权控制",
+        "学生对学习数据的隐私与主权控制"
+      ],
+      "correctAnswers": [
+        "学习认证的可信度和不可篡改性",
+        "跨平台整合学习记录",
+        "学生对学习数据的隐私与主权控制"
+      ],
+      "timestamp": "2025-09-02T16:35:12.385Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-8167-81c6-ca8220deeb8a"
+    },
+    {
+      "question": "数据主权的核心理念是什么？",
+      "options": [
+        "数据的所有权应归第三方存储机构",
+        "数据的所有权应归第三方存储机构",
+        "数据的控制权和所有权归属于数据的创造者和主体",
+        "数据的控制权和所有权归属于数据的创造者和主体",
+        "数据的管理完全由区块链技术实现",
+        "数据的管理完全由区块链技术实现",
+        "数据应由政府统一监管",
+        "数据应由政府统一监管"
+      ],
+      "correctAnswers": [
+        "数据的控制权和所有权归属于数据的创造者和主体"
+      ],
+      "timestamp": "2025-09-02T16:35:24.110Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-81a6-80a1-cf89767a670e"
+    },
+    {
+      "question": "去中心化证书（DCs）的主要优势是什么？",
+      "options": [
+        "数据集中存储，便于管理",
+        "数据集中存储，便于管理",
+        "透明、可信、可验证",
+        "透明、可信、可验证",
+        "信息仅供认证机构查看",
+        "信息仅供认证机构查看",
+        "数据可以随时删除",
+        "数据可以随时删除"
+      ],
+      "correctAnswers": [
+        "透明、可信、可验证"
+      ],
+      "timestamp": "2025-09-02T16:35:37.515Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-81e1-818e-ca349c278e9f"
+    },
+    {
+      "question": "以下哪一项不是 OC Achievements 的特点？",
+      "options": [
+        "以项目成果为核心的技能验证",
+        "以项目成果为核心的技能验证",
+        "技能进步的动态记录",
+        "技能进步的动态记录",
+        "使用区块链技术进行即时验证",
+        "使用区块链技术进行即时验证",
+        "提供职业生咨询服务",
+        "提供职业生咨询服务"
+      ],
+      "correctAnswers": [
+        "提供职业生咨询服务"
+      ],
+      "timestamp": "2025-09-02T16:35:51.718Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-816f-827c-fc0e3b288085"
+    },
+    {
+      "question": "以下哪一项不是 OCID Connect SDK 提供的核心功能？",
+      "options": [
+        "身份验证",
+        "身份验证",
+        "凭证管理",
+        "凭证管理",
+        "强扩展性",
+        "强扩展性",
+        "加密算法集成",
+        "加密算法集成"
+      ],
+      "correctAnswers": [
+        "加密算法集成"
+      ],
+      "timestamp": "2025-09-02T16:35:57.108Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-817d-adf7-d60eada4d783"
+    },
+    {
+      "question": "以下哪一项是 OC Credentials 集成流程 的前置准备内容？",
+      "options": [
+        "使用测试网 API 发布凭证",
+        "使用测试网 API 发布凭证",
+        "在 EDU Chain 上铸造 NFT",
+        "在 EDU Chain 上铸造 NFT",
+        "安装并集成 OC-ID Connect SDK",
+        "安装并集成 OC-ID Connect SDK",
+        "验证用户的凭证在 Dashboard 中是否可见",
+        "验证用户的凭证在 Dashboard 中是否可见"
+      ],
+      "correctAnswers": [
+        "安装并集成 OC-ID Connect SDK"
+      ],
+      "timestamp": "2025-09-02T16:36:06.831Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-81a9-b3c4-c0195da8f4b4"
+    },
+    {
+      "question": "以下哪一项是 OCID 集成中必需的依赖包？",
+      "options": [
+        "react-router-dom",
+        "react-router-dom",
+        "@opencampus/ocid-connect-js",
+        "@opencampus/ocid-connect-js",
+        "redux",
+        "redux",
+        "axios",
+        "axios"
+      ],
+      "correctAnswers": [
+        "@opencampus/ocid-connect-js"
+      ],
+      "timestamp": "2025-09-02T16:36:16.832Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/13ee7446-5ed5-8163-9f80-f40d09d04cea/144e7446-5ed5-819f-a3d2-ed5f0bccd429"
+    },
+    {
+      "question": "为什么说 0G 架构“适用于 AI 但不限于 AI”？",
+      "options": [
+        "因为它提供了 Web2 的开发工具集",
+        "因为它提供了 Web2 的开发工具集",
+        "因为它没有使用区块链技术",
+        "因为它没有使用区块链技术",
+        "因为它还支持如 DeFi、游戏等高性能场景",
+        "因为它还支持如 DeFi、游戏等高性能场景",
+        "因为它依赖传统中心化服务器",
+        "因为它依赖传统中心化服务器"
+      ],
+      "correctAnswers": [
+        "因为它还支持如 DeFi、游戏等高性能场景"
+      ],
+      "timestamp": "2025-09-02T15:15:37.649Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-81fe-acac-f0c9326a7872?phaseId=23be7446-5ed5-8173-b250-c61155075803"
+    },
+    {
+      "question": "在 0G 的系统中，“链上 AI” 的核心目标包括哪些？",
+      "options": [
+        "重新定义 AI 模型的所有权、执行权和验证权",
+        "重新定义 AI 模型的所有权、执行权和验证权",
+        "让所有 AI 模型完全免费",
+        "让所有 AI 模型完全免费",
+        "确保模型参数和推理结果的透明性",
+        "确保模型参数和推理结果的透明性",
+        "通过智能合约触发和审计 AI 服务",
+        "通过智能合约触发和审计 AI 服务"
+      ],
+      "correctAnswers": [
+        "重新定义 AI 模型的所有权、执行权和验证权",
+        "确保模型参数和推理结果的透明性",
+        "通过智能合约触发和审计 AI 服务"
+      ],
+      "timestamp": "2025-09-02T15:16:26.807Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-812c-bbbb-c62fffeb5873"
+    },
+    {
+      "question": "0G Chain 通过将共识与执行解耦，并优化 CometBFT 共识机制，实现了超过 2500 TPS 和亚秒级确认时间。这种说法是：",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:16:43.926Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-81a0-a411-d828443859fe"
+    },
+    {
+      "question": "0G Storage 通过纠删码机制确保即使 30% 的存储节点出现故障，数据仍可完整恢复。这种说法是：",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确的"
+      ],
+      "timestamp": "2025-09-02T15:17:01.516Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-81db-b858-eb817803f431"
+    },
+    {
+      "question": "0G Compute 的目标是构建一个去中心化的 AI 计算网络，让拥有 GPU 的节点提供算力，开发者按需使用并通过智能合约结算。这种说法是：",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确的"
+      ],
+      "timestamp": "2025-09-02T15:17:14.784Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-816e-9110-ce61eeeb50d0"
+    },
+    {
+      "question": "在 0G DA 中，为什么 DA 节点采用“抽样验证”而不是“全量验证”？",
+      "options": [
+        "为了减少所需验证者的数量",
+        "为了减少所需验证者的数量",
+        "通过仅验证部分数据块来提高效率",
+        "通过仅验证部分数据块来提高效率",
+        "为了取消对纠删码的需求",
+        "为了取消对纠删码的需求",
+        "为了绕过以太坊的安全机制",
+        "为了绕过以太坊的安全机制"
+      ],
+      "correctAnswers": [
+        "通过仅验证部分数据块来提高效率"
+      ],
+      "timestamp": "2025-09-02T15:17:26.877Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-81f0-97dd-e3927dfffe3b"
+    },
+    {
+      "question": "安装完成后，如何验证 Forge 是否成功安装在系统上？",
+      "options": [
+        "forge -v",
+        "forge -v",
+        "cast -v",
+        "cast -v",
+        "anvil -v",
+        "anvil -v",
+        "forge --version",
+        "forge --version"
+      ],
+      "correctAnswers": [
+        "forge --version"
+      ],
+      "timestamp": "2025-09-02T15:17:44.505Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/236e7446-5ed5-812a-851a-ecf52e21af99"
+    },
+    {
+      "question": "在钱包中添加 0G Galileo 测试网时，应该使用哪个 Chain ID？",
+      "options": [
+        "727272",
+        "727272",
+        "16601",
+        "16601",
+        "2500",
+        "2500",
+        "2025",
+        "2025"
+      ],
+      "correctAnswers": [
+        "16601"
+      ],
+      "timestamp": "2025-09-02T15:17:55.725Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/236e7446-5ed5-810a-9497-fb360f73aca7"
+    },
+    {
+      "question": "合约中 _mint(msg.sender, 1_000_000 * 1e18); 的作用是？",
+      "options": [
+        "在部署时给合约创建者铸造初始代币",
+        "在部署时给合约创建者铸造初始代币",
+        "从合约中销毁所有代币",
+        "从合约中销毁所有代币",
+        "锁定代币流通总量",
+        "锁定代币流通总量",
+        "启用链上转账功能",
+        "启用链上转账功能"
+      ],
+      "correctAnswers": [
+        "在部署时给合约创建者铸造初始代币"
+      ],
+      "timestamp": "2025-09-02T15:20:42.445Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/236e7446-5ed5-8138-bb0c-e37f86726ff2"
+    },
+    {
+      "question": "下列合约部署脚本中哪个参数用于将交易发送到区块链上？",
+      "options": [
+        "-rpc-url",
+        "-rpc-url",
+        "-private-key",
+        "-private-key",
+        "-broadcast",
+        "-broadcast",
+        "-compile-only",
+        "-compile-only"
+      ],
+      "correctAnswers": [
+        "-broadcast"
+      ],
+      "timestamp": "2025-09-02T15:21:29.295Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/236e7446-5ed5-8138-bd01-c5d218d61df7"
+    },
+    {
+      "question": "部署合约后，如何验证合约已经成功存在于 0G 测试链上？",
+      "options": [
+        "看终端输出的提示是否是绿色",
+        "看终端输出的提示是否是绿色",
+        "查看本地 build 目录是否生成 JSON",
+        "查看本地 build 目录是否生成 JSON",
+        "在 0G 区块浏览器输入合约地址查询",
+        "在 0G 区块浏览器输入合约地址查询",
+        "用 VSCode 查看脚本是否写对了",
+        "用 VSCode 查看脚本是否写对了"
+      ],
+      "correctAnswers": [
+        "在 0G 区块浏览器输入合约地址查询"
+      ],
+      "timestamp": "2025-09-02T15:21:39.430Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/236e7446-5ed5-81a4-8264-f043fe9a0930"
+    },
+    {
+      "question": "BNB Chain 生态包含以下哪些内容？",
+      "options": [
+        "BSC",
+        "BSC",
+        "opBNB",
+        "opBNB",
+        "BNB Greenfield",
+        "BNB Greenfield",
+        "AvengerDAO",
+        "AvengerDAO"
+      ],
+      "correctAnswers": [
+        "BSC",
+        "opBNB",
+        "BNB Greenfield",
+        "AvengerDAO"
+      ],
+      "timestamp": "2025-09-02T14:43:30.675Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15be7446-5ed5-8171-92fa-c17eea9099d0?phaseId=168e7446-5ed5-812e-b7e2-f9c368cd8f7a"
+    },
+    {
+      "question": "以下关于 BNB Smart Chain（BSC）的描述中，哪些是正确的？",
+      "options": [
+        "BSC 采用 PoSA 共识机制。",
+        "BSC 采用 PoSA 共识机制。",
+        "BSC 的区块生成时间与以太坊一致。",
+        "BSC 的区块生成时间与以太坊一致。",
+        "BSC 完全兼容以太坊虚拟机（EVM），支持以太坊工具的使用和智能合约迁移。",
+        "BSC 完全兼容以太坊虚拟机（EVM），支持以太坊工具的使用和智能合约迁移。",
+        "BNB 是 BSC 的原生代币，不存在通货膨胀。",
+        "BNB 是 BSC 的原生代币，不存在通货膨胀。"
+      ],
+      "correctAnswers": [
+        "BSC 采用 PoSA 共识机制。",
+        "BSC 完全兼容以太坊虚拟机（EVM），支持以太坊工具的使用和智能合约迁移。",
+        "BNB 是 BSC 的原生代币，不存在通货膨胀。"
+      ],
+      "timestamp": "2025-09-02T14:43:39.649Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15be7446-5ed5-8114-add7-c3bd374cc213"
+    },
+    {
+      "question": "以下关于 opBNB 的描述中，哪些是正确的？",
+      "options": [
+        "opBNB 是基于 Optimistic Rollup 技术的 Layer 1 区块链解决方案。",
+        "opBNB 是基于 Optimistic Rollup 技术的 Layer 1 区块链解决方案。",
+        "opBNB 是基于 Optimistic Rollup 技术的 Layer 2 区块链解决方案。",
+        "opBNB 是基于 Optimistic Rollup 技术的 Layer 2 区块链解决方案。",
+        "opBNB 支持与 BSC 的深度兼容，包括 EVM 合约的无缝迁移。",
+        "opBNB 支持与 BSC 的深度兼容，包括 EVM 合约的无缝迁移。",
+        "opBNB 适合 DeFi、GameFi 和 NFT 等多样化场景，为 BNB Chain 提供了卓越的扩展能力。",
+        "opBNB 适合 DeFi、GameFi 和 NFT 等多样化场景，为 BNB Chain 提供了卓越的扩展能力。"
+      ],
+      "correctAnswers": [
+        "opBNB 是基于 Optimistic Rollup 技术的 Layer 2 区块链解决方案。",
+        "opBNB 支持与 BSC 的深度兼容，包括 EVM 合约的无缝迁移。",
+        "opBNB 适合 DeFi、GameFi 和 NFT 等多样化场景，为 BNB Chain 提供了卓越的扩展能力。"
+      ],
+      "timestamp": "2025-09-02T14:43:48.379Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15be7446-5ed5-810b-a9ab-ce8460ac3221"
+    },
+    {
+      "question": "以下关于 opBNB 和 OP Stack 的描述中，哪些是正确的？",
+      "options": [
+        "OP Stack 是一种完全定制化的 Layer 1 框架。",
+        "OP Stack 是一种完全定制化的 Layer 1 框架。",
+        "opBNB 基于 OP Stack 框架构建。",
+        "opBNB 基于 OP Stack 框架构建。",
+        "opBNB 使用 Binance Greenfield 作为数据可用性层（DA）。",
+        "opBNB 使用 Binance Greenfield 作为数据可用性层（DA）。",
+        "opBNB 采用 Optimistic Rollup 解决方案。",
+        "opBNB 采用 Optimistic Rollup 解决方案。"
+      ],
+      "correctAnswers": [
+        "opBNB 基于 OP Stack 框架构建。",
+        "opBNB 使用 Binance Greenfield 作为数据可用性层（DA）。",
+        "opBNB 采用 Optimistic Rollup 解决方案。"
+      ],
+      "timestamp": "2025-09-02T14:44:11.995Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/159e7446-5ed5-81d4-b017-e95a1336082d"
+    },
+    {
+      "question": "以下关于 opBNB 交易流程的描述中，哪一项是错误的？",
+      "options": [
+        "Sequencer 将交易排序并生成 Layer 2 区块供后续验证。",
+        "Sequencer 将交易排序并生成 Layer 2 区块供后续验证。",
+        "Op-Batcher 将压缩后的数据以 calldata 的形式上传至 Layer 1。",
+        "Op-Batcher 将压缩后的数据以 calldata 的形式上传至 Layer 1。",
+        "Binance Greenfield 是 opBNB 的 Layer 1 核心组件，专门处理状态根提交与验证。",
+        "Binance Greenfield 是 opBNB 的 Layer 1 核心组件，专门处理状态根提交与验证。",
+        "Validators 可在发现状态异常时向 Layer 1 提交欺诈证明，保障网络安全。",
+        "Validators 可在发现状态异常时向 Layer 1 提交欺诈证明，保障网络安全。"
+      ],
+      "correctAnswers": [
+        "Binance Greenfield 是 opBNB 的 Layer 1 核心组件，专门处理状态根提交与验证。"
+      ],
+      "timestamp": "2025-09-02T14:44:15.442Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/159e7446-5ed5-8130-bc3a-ddae478c9ec4"
+    },
+    {
+      "question": "以下关于区块链节点中内存与磁盘存储方案的描述，哪些是正确的？",
+      "options": [
+        "内存具有极低的延迟，非常适合存储热点数据。",
+        "内存具有极低的延迟，非常适合存储热点数据。",
+        "磁盘提供持久化存储，能够在断电后保留所有数据。",
+        "磁盘提供持久化存储，能够在断电后保留所有数据。",
+        "磁盘读写速度低于内存。",
+        "磁盘读写速度低于内存。",
+        "读取状态时，EVM 优先查询缓存，如果缓存未命中，则从磁盘读取并更新缓存。",
+        "读取状态时，EVM 优先查询缓存，如果缓存未命中，则从磁盘读取并更新缓存。"
+      ],
+      "correctAnswers": [
+        "内存具有极低的延迟，非常适合存储热点数据。",
+        "磁盘提供持久化存储，能够在断电后保留所有数据。",
+        "磁盘读写速度低于内存。",
+        "读取状态时，EVM 优先查询缓存，如果缓存未命中，则从磁盘读取并更新缓存。"
+      ],
+      "timestamp": "2025-09-02T14:44:21.352Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15ae7446-5ed5-81bc-9c11-c562510490a7"
+    },
+    {
+      "question": "关于 SharedPool 在 opBNB 中的优化机制，下列哪一项是错误的？",
+      "options": [
+        "SharedPool 提供全局共享内存池，支持多线程高效访问数据。",
+        "SharedPool 提供全局共享内存池，支持多线程高效访问数据。",
+        "通过状态预读，SharedPool 将未来可能需要的数据加载到内存中，减少对底层数据库的直接访问。",
+        "通过状态预读，SharedPool 将未来可能需要的数据加载到内存中，减少对底层数据库的直接访问。",
+        "SharedPool 替代了 FastCache 层，彻底取消了 L3 缓存，提高了系统性能。",
+        "SharedPool 替代了 FastCache 层，彻底取消了 L3 缓存，提高了系统性能。",
+        "SharedPool 通过动态缓存策略，实时调整热点数据的存储优先级和释放未使用数据。",
+        "SharedPool 通过动态缓存策略，实时调整热点数据的存储优先级和释放未使用数据。"
+      ],
+      "correctAnswers": [
+        "SharedPool 替代了 FastCache 层，彻底取消了 L3 缓存，提高了系统性能。"
+      ],
+      "timestamp": "2025-09-02T14:44:36.308Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15ae7446-5ed5-817b-b144-f7d33e36f588"
+    },
+    {
+      "question": "关于布隆过滤器在 opBNB 中的应用，下列哪一项是错误的？",
+      "options": [
+        "布隆过滤器通过哈希函数判断某元素是否存在集合中，但存在一定误报概率。",
+        "布隆过滤器通过哈希函数判断某元素是否存在集合中，但存在一定误报概率。",
+        "opBNB 使用布隆过滤器优化状态数据访问，减少了对底层存储的无意义查询。",
+        "opBNB 使用布隆过滤器优化状态数据访问，减少了对底层存储的无意义查询。",
+        "布隆过滤器可直接准确判断数据是否存在于区块链状态中，无需进一步验证。",
+        "布隆过滤器可直接准确判断数据是否存在于区块链状态中，无需进一步验证。",
+        "opBNB 对 Diff Layer 进行了优化，从而降低布隆过滤器的误报率，提升查询效率。",
+        "opBNB 对 Diff Layer 进行了优化，从而降低布隆过滤器的误报率，提升查询效率。"
+      ],
+      "correctAnswers": [
+        "布隆过滤器可直接准确判断数据是否存在于区块链状态中，无需进一步验证。"
+      ],
+      "timestamp": "2025-09-02T14:44:47.265Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15ae7446-5ed5-81fb-9911-da621112249c"
+    },
+    {
+      "question": "以下关于 opBNB 降低 Gas 成本的说法，哪一项是错误的？",
+      "options": [
+        "opBNB 将交易的计算和状态变更移至链下处理，减少了 BSC 上的直接计算成本。",
+        "opBNB 将交易的计算和状态变更移至链下处理，减少了 BSC 上的直接计算成本。",
+        "在 opBNB 中，每笔交易单独上传至 BSC，确保交易执行的高透明度和即时性。",
+        "在 opBNB 中，每笔交易单独上传至 BSC，确保交易执行的高透明度和即时性。",
+        "opBNB 通过将多个交易一起打包并提交至 BSC，大幅摊薄了 Gas 成本。",
+        "opBNB 通过将多个交易一起打包并提交至 BSC，大幅摊薄了 Gas 成本。",
+        "Gas 价格 = base 价格 + priority 价格",
+        "Gas 价格 = base 价格 + priority 价格"
+      ],
+      "correctAnswers": [
+        "在 opBNB 中，每笔交易单独上传至 BSC，确保交易执行的高透明度和即时性。"
+      ],
+      "timestamp": "2025-09-02T14:44:54.279Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/159e7446-5ed5-818f-928b-efb2f8c394c5"
+    },
+    {
+      "question": "以下关于 opBNB 提升交易处理能力（TPS）的说法，哪一项是正确的？",
+      "options": [
+        "无需依赖主链的全网共识",
+        "无需依赖主链的全网共识",
+        "交易批量处理",
+        "交易批量处理",
+        "数据可用层优化",
+        "数据可用层优化",
+        "每笔交易实时提交到 BSC 网络以确保高安全性。",
+        "每笔交易实时提交到 BSC 网络以确保高安全性。"
+      ],
+      "correctAnswers": [
+        "无需依赖主链的全网共识",
+        "交易批量处理",
+        "数据可用层优化"
+      ],
+      "timestamp": "2025-09-02T14:45:07.432Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/159e7446-5ed5-8190-aacf-e6630d58676b"
+    },
+    {
+      "question": "连接 opBNB 测试网时应使用哪个 RPC URL？",
+      "options": [
+        "https://opbnb-mainnet-rpc.bnbchain.org",
+        "https://opbnb-mainnet-rpc.bnbchain.org",
+        "https://opbnb-testnet-rpc.bnbchain.org",
+        "https://opbnb-testnet-rpc.bnbchain.org",
+        "http://opbnbscan.com/",
+        "http://opbnbscan.com/",
+        "http://testnet.opbnbscan.com/",
+        "http://testnet.opbnbscan.com/"
+      ],
+      "correctAnswers": [
+        "https://opbnb-testnet-rpc.bnbchain.org"
+      ],
+      "timestamp": "2025-09-02T14:45:22.319Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/158e7446-5ed5-8148-b151-cd5676b83f07"
+    },
+    {
+      "question": "在 opBNB 网络上领取测试币 tBNB 的方式是什么？",
+      "options": [
+        "从交易所购买",
+        "从交易所购买",
+        "通过 opBNB 官方跨链桥",
+        "通过 opBNB 官方跨链桥",
+        "发起钱包空投请求",
+        "发起钱包空投请求",
+        "向区块链浏览器发送请求",
+        "向区块链浏览器发送请求"
+      ],
+      "correctAnswers": [
+        "通过 opBNB 官方跨链桥"
+      ],
+      "timestamp": "2025-09-02T14:45:36.781Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/159e7446-5ed5-81a0-b42d-cb236f64e487"
+    },
+    {
+      "question": "opBNB 区块链浏览器的主要用处？",
+      "options": [
+        "为用户分发测试币",
+        "为用户分发测试币",
+        "自动生成智能合约代码",
+        "自动生成智能合约代码",
+        "链上数据查询和交易追踪",
+        "链上数据查询和交易追踪",
+        "提供实时 Gas 费免除服务",
+        "提供实时 Gas 费免除服务"
+      ],
+      "correctAnswers": [
+        "链上数据查询和交易追踪"
+      ],
+      "timestamp": "2025-09-02T14:45:45.224Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/159e7446-5ed5-8107-bf30-ea11227aac7f"
+    },
+    {
+      "question": "以下哪项是部署智能合约到 opBNB 测试链的正确步骤？",
+      "options": [
+        "使用随机钱包直接发送交易。",
+        "使用随机钱包直接发送交易。",
+        "在 opBNB Explorer 中手动添加合约地址。",
+        "在 opBNB Explorer 中手动添加合约地址。",
+        "在合约编译器中编译合约，链接 MetaMask 钱包后部署合约。",
+        "在合约编译器中编译合约，链接 MetaMask 钱包后部署合约。",
+        "使用 opBNB 默认工具自动部署合约。",
+        "使用 opBNB 默认工具自动部署合约。"
+      ],
+      "correctAnswers": [
+        "在合约编译器中编译合约，链接 MetaMask 钱包后部署合约。"
+      ],
+      "timestamp": "2025-09-02T14:46:13.702Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/158e7446-5ed5-814e-ada0-d458d72437b6/15ae7446-5ed5-8181-8c4a-d3f7a1c1e16b"
+    },
+    {
+      "question": "Solana 区块链的创始人是。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Anatoly Yakovenko"
+      ],
+      "timestamp": "2025-08-19T02:38:13.756Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/1dadfdb3-9c04-439f-a1c2-afd1d5d602d4?phaseId=14ae7446-5ed5-81b3-91f5-cdda6049a360"
+    },
+    {
+      "question": "Solana 支持对交易进行并行处理，而以太坊只能串行顺序处理。。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:38:35.510Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/d03f0025-aba2-4f15-8252-4b61dc2cd696"
+    },
+    {
+      "question": "Solana 中事件的 Hash 次数可以用来表示时间的序列，从而形成网络中全局统一的时钟。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:38:53.990Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/5aee6be5-5695-447c-b1cc-b32300a6143d"
+    },
+    {
+      "question": "Solana 中节点只要质押的代币多，就一定可以被选为 Leader 节点。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:39:12.879Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/108794f8-db0c-427c-aafa-d6206bc8255d"
+    },
+    {
+      "question": "Solana 通过 PoH 的机制保证了网络中事件的有序性，通过 PoS 的节点验证机制，为其网络提供了高性能和低延迟的特性。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:39:25.469Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/108794f8-db0c-427c-aafa-d6206bc8255d"
+    },
+    {
+      "question": "以太坊中的账户分为 EOA 和 Contract Account ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:39:37.654Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/48d69b1b-72c5-4313-9422-d768c6a88aad"
+    },
+    {
+      "question": "Solana 中程序（智能合约）跟以太坊一样，包含了状态 数据。？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:39:43.311Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/48d69b1b-72c5-4313-9422-d768c6a88aad"
+    },
+    {
+      "question": "Solana 通过对账户收取Rent来避免状态膨胀 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:40:14.477Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/31f0392d-b30e-49b3-b6cf-29a1f041d35c"
+    },
+    {
+      "question": "Solana 中 PDA 账户的seed可以是任意字节数组 ？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:40:54.550Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/6e62a7f1-fe96-4af9-8939-8c5199aafeb0"
+    },
+    {
+      "question": "Solana 负责创建新账户是以下哪个程序？？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "System Program"
+      ],
+      "timestamp": "2025-08-19T02:41:09.994Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/bef6ba33-9376-4a3e-8179-ae6a237be706"
+    },
+    {
+      "question": "Solana 交易具有原子性，一笔交易只能包含一个指令。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:41:52.596Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/d9ba036c-d820-4b08-aad8-da361f76a5f2"
+    },
+    {
+      "question": "以下哪一种确认状态表示交易已得到网路中至少三分之二 Validator 节点的确认，并已得到31+个区块的确认，被视为最终不可更改的状态？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "finalized"
+      ],
+      "timestamp": "2025-08-19T02:42:03.527Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/6999f6a0-b6ce-4365-85a0-409520a2461d"
+    },
+    {
+      "question": "如果丢失了私钥，但还有对应的助记词，是否可以找回钱包？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "可以"
+      ],
+      "timestamp": "2025-08-19T02:42:16.837Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "Solana 中的共识机制使用了 PoH 历史证明和 PoS 权益证明。。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:42:44.465Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/d03f0025-aba2-4f15-8252-4b61dc2cd696"
+    },
+    {
+      "question": "一个安全的 Hash 应该是可逆向的，支持从哈希值推算出初始值。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:42:53.591Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/5aee6be5-5695-447c-b1cc-b32300a6143d"
+    },
+    {
+      "question": "Solana 中 PDA 账户是由seed 种子、bump值和 派生出来的？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "program_id程序ID"
+      ],
+      "timestamp": "2025-08-19T02:43:28.661Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/6e62a7f1-fe96-4af9-8939-8c5199aafeb0"
+    },
+    {
+      "question": "Solana 中程序的代码和状态是分离的？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:43:41.986Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/bef6ba33-9376-4a3e-8179-ae6a237be706"
+    },
+    {
+      "question": "Solana 中一笔指令Instruction可以包含多个交易Transaction。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-08-19T02:43:51.593Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/d9ba036c-d820-4b08-aad8-da361f76a5f2"
+    },
+    {
+      "question": "Solana 中交易手续费用于奖励节点，弥补节点的投入成本，同时也在一定程度上减少了网络中无效的交易？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-19T02:43:59.073Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/6999f6a0-b6ce-4365-85a0-409520a2461d"
+    },
+    {
+      "question": "Solana 中使用的数字签名算法是？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Ed25519 curve"
+      ],
+      "timestamp": "2025-08-19T02:44:03.873Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/8e2d0916-4980-4cb4-860e-98da98d7e1e3/011e8c2e-d15f-4ad0-868d-eb1d1ee8ac0b"
+    },
+    {
+      "question": "以下哪些问题构成了区块链的“不可能三角”？",
+      "options": [
+        "扩展性",
+        "扩展性",
+        "安全性",
+        "安全性",
+        "去中心化",
+        "去中心化",
+        "稳定性",
+        "稳定性"
+      ],
+      "correctAnswers": [
+        "扩展性",
+        "安全性",
+        "去中心化"
+      ],
+      "timestamp": "2025-09-02T16:20:04.215Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-815b-bb76-c14993dfcdee?phaseId=168e7446-5ed5-81fa-82b2-dd195901399f"
+    },
+    {
+      "question": "以下哪项是 Sonic Gateway 相较于传统跨链方案（如 Optimism 和 Polygon PoS）的显著优势？",
+      "options": [
+        "更低的交易费用。",
+        "更低的交易费用。",
+        "支持 Solidity 的智能合约。",
+        "支持 Solidity 的智能合约。",
+        "更快的桥接时间、无争议期以及完全去中心化的网关管理。",
+        "更快的桥接时间、无争议期以及完全去中心化的网关管理。",
+        "提供独立的侧链架构。",
+        "提供独立的侧链架构。"
+      ],
+      "correctAnswers": [
+        "更快的桥接时间、无争议期以及完全去中心化的网关管理。"
+      ],
+      "timestamp": "2025-09-02T16:20:15.297Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-815e-9d91-c8477d2bbd1d"
+    },
+    {
+      "question": "以下关于 FTM 和 S Token 的描述，哪一项是正确的？",
+      "options": [
+        "FTM 和 S Token 的功能完全不同，不能相互兑换。",
+        "FTM 和 S Token 的功能完全不同，不能相互兑换。",
+        "Sonic 链兼容 EVM，但开发者迁移合约前建议先在测试链验证代码。",
+        "Sonic 链兼容 EVM，但开发者迁移合约前建议先在测试链验证代码。",
+        "Sonic 主网上线后 FTM 和 S Token 将无法兑换。",
+        "Sonic 主网上线后 FTM 和 S Token 将无法兑换。",
+        "FTM 和 S Token 支持双向兑换无限期开放。",
+        "FTM 和 S Token 支持双向兑换无限期开放。"
+      ],
+      "correctAnswers": [
+        "Sonic 链兼容 EVM，但开发者迁移合约前建议先在测试链验证代码。"
+      ],
+      "timestamp": "2025-09-02T16:20:30.696Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-8116-aa83-f6f9c63ea1fe"
+    },
+    {
+      "question": "以下哪个选项准确描述了 Sonic 的 FeeM 模式与传统区块链的区别？",
+      "options": [
+        "FeeM 模式将所有交易费用返还给用户。",
+        "FeeM 模式将所有交易费用返还给用户。",
+        "FeeM 模式重新分配交易费用，为开发者提供直接经济激励。",
+        "FeeM 模式重新分配交易费用，为开发者提供直接经济激励。",
+        "FeeM 模式完全避免了交易费用的产生。",
+        "FeeM 模式完全避免了交易费用的产生。",
+        "FeeM 模式仅适用于链上治理相关费用。",
+        "FeeM 模式仅适用于链上治理相关费用。"
+      ],
+      "correctAnswers": [
+        "FeeM 模式重新分配交易费用，为开发者提供直接经济激励。"
+      ],
+      "timestamp": "2025-09-02T16:20:46.464Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-81d4-bc3c-ecba462d4c14"
+    },
+    {
+      "question": "Sonic 和以太坊在 Gas 费用分配模式上的主要区别是什么？",
+      "options": [
+        "Sonic 不产生 Gas 费用，以太坊产生。",
+        "Sonic 不产生 Gas 费用，以太坊产生。",
+        "Sonic 将大部分 Gas 费用分配给开发者，而以太坊主要分配给验证者。",
+        "Sonic 将大部分 Gas 费用分配给开发者，而以太坊主要分配给验证者。",
+        "Sonic 仅销毁所有 Gas 费用，以太坊全部分配给矿工或验证者。",
+        "Sonic 仅销毁所有 Gas 费用，以太坊全部分配给矿工或验证者。",
+        "Sonic 和以太坊的 Gas 分配完全相同。",
+        "Sonic 和以太坊的 Gas 分配完全相同。"
+      ],
+      "correctAnswers": [
+        "Sonic 将大部分 Gas 费用分配给开发者，而以太坊主要分配给验证者。"
+      ],
+      "timestamp": "2025-09-02T16:21:16.457Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/147e7446-5ed5-81c4-a5c7-d0e62e3d2c2d"
+    },
+    {
+      "question": "Sonic 的 FeeM 机制会削弱链的安全性吗？为什么？",
+      "options": [
+        "会，因为验证者的收入减少。",
+        "会，因为验证者的收入减少。",
+        "不会，因为交易量增加和 Staking 奖励可以补足收入。",
+        "不会，因为交易量增加和 Staking 奖励可以补足收入。",
+        "会，因为开发者的分润比例太高。",
+        "会，因为开发者的分润比例太高。",
+        "不会，因为验证者不需要收入来保障网络安全。",
+        "不会，因为验证者不需要收入来保障网络安全。"
+      ],
+      "correctAnswers": [
+        "不会，因为交易量增加和 Staking 奖励可以补足收入。"
+      ],
+      "timestamp": "2025-09-02T16:21:26.731Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/147e7446-5ed5-81c4-a5c7-d0e62e3d2c2d"
+    },
+    {
+      "question": "如果 Sonic Gateway 在连续 14 天内发生故障，用户可以采取什么措施？",
+      "options": [
+        "联系 Sonic Labs 直接恢复资产",
+        "联系 Sonic Labs 直接恢复资产",
+        "在原链上使用故障安全机制取回资产",
+        "在原链上使用故障安全机制取回资产",
+        "等待 Sonic Gateway 自动修复",
+        "等待 Sonic Gateway 自动修复",
+        "通过第三方工具提取资产",
+        "通过第三方工具提取资产"
+      ],
+      "correctAnswers": [
+        "在原链上使用故障安全机制取回资产"
+      ],
+      "timestamp": "2025-09-02T16:21:42.833Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/14ae7446-5ed5-81f1-9674-f40503fa22b5"
+    },
+    {
+      "question": "aBFT 的核心优势是什么？",
+      "options": [
+        "高度依赖全网同步时钟",
+        "高度依赖全网同步时钟",
+        "需要严格的线性链结构",
+        "需要严格的线性链结构",
+        "支持最多 1/3 节点恶意行为仍可达成共识",
+        "支持最多 1/3 节点恶意行为仍可达成共识",
+        "完全取决于矿工的计算能力",
+        "完全取决于矿工的计算能力"
+      ],
+      "correctAnswers": [
+        "支持最多 1/3 节点恶意行为仍可达成共识"
+      ],
+      "timestamp": "2025-09-02T16:21:53.949Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/14ae7446-5ed5-81c6-ae75-e3502998dfa7"
+    },
+    {
+      "question": "在 Sonic 中，DAG 的并行处理能力如何提高网络的 TPS？",
+      "options": [
+        "通过节点同步交易的执行时间",
+        "通过节点同步交易的执行时间",
+        "同时处理无依赖关系的交易",
+        "同时处理无依赖关系的交易",
+        "限制网络中交易的总数量",
+        "限制网络中交易的总数量",
+        "强制所有交易按时间顺序依次执行",
+        "强制所有交易按时间顺序依次执行"
+      ],
+      "correctAnswers": [
+        "同时处理无依赖关系的交易"
+      ],
+      "timestamp": "2025-09-02T16:22:25.535Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/14ae7446-5ed5-81d4-8953-fedad75099c0"
+    },
+    {
+      "question": "Sonic 共识机制的高效性主要源于以下哪两种技术的结合？",
+      "options": [
+        "PoW 和区块链",
+        "PoW 和区块链",
+        "DAG 和异步拜占庭容错",
+        "DAG 和异步拜占庭容错",
+        "DAG 和权益证明",
+        "DAG 和权益证明",
+        "PoS 和线性区块链",
+        "PoS 和线性区块链"
+      ],
+      "correctAnswers": [
+        "DAG 和异步拜占庭容错"
+      ],
+      "timestamp": "2025-09-02T16:22:37.204Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/14ae7446-5ed5-8161-a6e8-dec9e4a8a90a"
+    },
+    {
+      "question": "下列哪种代币是 Sonic 上的原生代币？",
+      "options": [
+        "S",
+        "S",
+        "Coral",
+        "Coral",
+        "Diamond",
+        "Diamond",
+        "Fluorite",
+        "Fluorite"
+      ],
+      "correctAnswers": [
+        "S"
+      ],
+      "timestamp": "2025-09-02T16:22:47.021Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-81ec-90a8-fd9b291b8a63"
+    },
+    {
+      "question": "以下关于 Sonic 和以太坊上的智能合约开发的描述，哪项是正确的？",
+      "options": [
+        "Sonic 和以太坊都支持 Solidity 语言。",
+        "Sonic 和以太坊都支持 Solidity 语言。",
+        "Sonic 需要选择更高的编译器版本。",
+        "Sonic 需要选择更高的编译器版本。",
+        "Sonic 需要选择更高的 EVM 版本，如 Istanbul、Cancun 等。",
+        "Sonic 需要选择更高的 EVM 版本，如 Istanbul、Cancun 等。",
+        "Sonic 只能选择 London 版本的 EVM，以后也是如此。",
+        "Sonic 只能选择 London 版本的 EVM，以后也是如此。"
+      ],
+      "correctAnswers": [
+        "Sonic 和以太坊都支持 Solidity 语言。"
+      ],
+      "timestamp": "2025-09-02T16:23:23.758Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-8180-9f87-e410c6d883f8"
+    },
+    {
+      "question": "关于 EVM 版本和编译器版本的描述，哪些是正确的？",
+      "options": [
+        "编译器版本负责将 Solidity 源代码编译成字节码",
+        "编译器版本负责将 Solidity 源代码编译成字节码",
+        "EVM 版本决定区块链节点如何解释和执行这些字节码。",
+        "EVM 版本决定区块链节点如何解释和执行这些字节码。",
+        "如果 EVM 版本不支持最新编译器生成的字节码，则可能导致部署失败，即使合约代码本身没有问题。",
+        "如果 EVM 版本不支持最新编译器生成的字节码，则可能导致部署失败，即使合约代码本身没有问题。",
+        "在 Sonic 上部署合约时需要注意因版本差异导致潜在的兼容性问题。",
+        "在 Sonic 上部署合约时需要注意因版本差异导致潜在的兼容性问题。"
+      ],
+      "correctAnswers": [
+        "编译器版本负责将 Solidity 源代码编译成字节码",
+        "EVM 版本决定区块链节点如何解释和执行这些字节码。",
+        "如果 EVM 版本不支持最新编译器生成的字节码，则可能导致部署失败，即使合约代码本身没有问题。",
+        "在 Sonic 上部署合约时需要注意因版本差异导致潜在的兼容性问题。"
+      ],
+      "timestamp": "2025-09-02T16:23:41.223Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/146e7446-5ed5-8122-a9c3-c9cb1bad6031/146e7446-5ed5-816b-8473-ee95220ac535"
+    },
+    {
+      "question": "在 Sui 区块链中，Gas 费用的总公式是什么？",
+      "options": [
+        "总 Gas 费用 = 计算单位 + 存储单位",
+        "总 Gas 费用 = 计算单位 + 存储单位",
+        "总 Gas 费用 = 计算单位 × 参考 Gas 价格 + 存储单位 × 存储价格",
+        "总 Gas 费用 = 计算单位 × 参考 Gas 价格 + 存储单位 × 存储价格",
+        "总 Gas 费用 = 计算单位 - 存储单位",
+        "总 Gas 费用 = 计算单位 - 存储单位",
+        "总 Gas 费用 = 存储单位 / 参考 Gas 价格",
+        "总 Gas 费用 = 存储单位 / 参考 Gas 价格"
+      ],
+      "correctAnswers": [
+        "总 Gas 费用 = 计算单位 × 参考 Gas 价格 + 存储单位 × 存储价格"
+      ],
+      "timestamp": "2025-09-02T14:55:26.251Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d997fbf0-03a6-4e1f-b5ac-e616d83ee0bb?phaseId=14de7446-5ed5-81dd-b934-fa531385d74c"
+    },
+    {
+      "question": "什么是“Gas 高尔夫”？",
+      "options": [
+        "一种新的区块链游戏",
+        "一种新的区块链游戏",
+        "开发者通过极端优化代码以减少 Gas 消耗的行为",
+        "开发者通过极端优化代码以减少 Gas 消耗的行为",
+        "一种节省存储费用的方法",
+        "一种节省存储费用的方法",
+        "用户通过投票来降低 Gas 费用",
+        "用户通过投票来降低 Gas 费用"
+      ],
+      "correctAnswers": [
+        "开发者通过极端优化代码以减少 Gas 消耗的行为"
+      ],
+      "timestamp": "2025-09-02T14:55:42.719Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d997fbf0-03a6-4e1f-b5ac-e616d83ee0bb?phaseId=14de7446-5ed5-81dd-b934-fa531385d74c"
+    },
+    {
+      "question": "在 Sui 区块链中，什么情况会导致 Gas 费用的返还？",
+      "options": [
+        "创建新的数据对象",
+        "创建新的数据对象",
+        "增加交易的计算复杂度",
+        "增加交易的计算复杂度",
+        "减少交易的计算复杂度",
+        "减少交易的计算复杂度",
+        "删除之前存储的数据",
+        "删除之前存储的数据"
+      ],
+      "correctAnswers": [
+        "删除之前存储的数据"
+      ],
+      "timestamp": "2025-09-02T14:56:27.889Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d997fbf0-03a6-4e1f-b5ac-e616d83ee0bb?phaseId=14de7446-5ed5-81dd-b934-fa531385d74c"
+    },
+    {
+      "question": "Move 语言的设计初衷是解决以下哪个问题？",
+      "options": [
+        "可扩展性和速度",
+        "可扩展性和速度",
+        "所有权和稀缺性",
+        "所有权和稀缺性",
+        "安全性保障",
+        "安全性保障",
+        "数据库管理",
+        "数据库管理"
+      ],
+      "correctAnswers": [
+        "所有权和稀缺性",
+        "安全性保障"
+      ],
+      "timestamp": "2025-09-02T14:57:31.911Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/077c0ab3-c07d-4913-a338-32f2c8cb1913"
+    },
+    {
+      "question": "在 Sui 中，每个对象和包都有什么特点？",
+      "options": [
+        "具有唯一标识符",
+        "具有唯一标识符",
+        "可以自由复制",
+        "可以自由复制",
+        "使用实时调度",
+        "使用实时调度",
+        "依赖硬件加速",
+        "依赖硬件加速"
+      ],
+      "correctAnswers": [
+        "具有唯一标识符"
+      ],
+      "timestamp": "2025-09-02T14:57:59.018Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/077c0ab3-c07d-4913-a338-32f2c8cb1913"
+    },
+    {
+      "question": "在 Sui 中，对象的版本（version）主要用于什么目的？",
+      "options": [
+        "防止重放攻击",
+        "防止重放攻击",
+        "管理对象的生命周期",
+        "管理对象的生命周期",
+        "确定对象的所有者权限",
+        "确定对象的所有者权限",
+        "加速对象的数据访问",
+        "加速对象的数据访问"
+      ],
+      "correctAnswers": [
+        "防止重放攻击"
+      ],
+      "timestamp": "2025-09-02T14:58:49.909Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/664e1c6a-32a5-44b2-a887-2e7cc04eede2"
+    },
+    {
+      "question": "在 Sui 中，封装对象的所有权由谁决定？",
+      "options": [
+        "所有者对象",
+        "所有者对象",
+        "共享对象",
+        "共享对象",
+        "不可变对象",
+        "不可变对象",
+        "持有它的对象",
+        "持有它的对象"
+      ],
+      "correctAnswers": [
+        "持有它的对象"
+      ],
+      "timestamp": "2025-09-02T15:00:33.337Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/355f237e-cfb3-4576-bb3b-ff74cebb8184"
+    },
+    {
+      "question": "以下哪项不是 Sui 交易的通用元数据？",
+      "options": [
+        "发送者地址",
+        "发送者地址",
+        "Gas 价格",
+        "Gas 价格",
+        "交易的执行时间",
+        "交易的执行时间",
+        "最大 gas 预算",
+        "最大 gas 预算"
+      ],
+      "correctAnswers": [
+        "交易的执行时间"
+      ],
+      "timestamp": "2025-09-02T15:01:03.690Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8120-a5f3-f59ef1a403b3"
+    },
+    {
+      "question": "在 PTB 交易类型中，如果其中的某个交易失败了，不影响其他交易的执行？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T15:01:17.825Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8120-a5f3-f59ef1a403b3"
+    },
+    {
+      "question": "什么机制决定了交易的顺序并执行涉及共享对象的交易？",
+      "options": [
+        "验证者检查",
+        "验证者检查",
+        "共识机制",
+        "共识机制",
+        "提交交易",
+        "提交交易",
+        "生成效果证书",
+        "生成效果证书"
+      ],
+      "correctAnswers": [
+        "共识机制"
+      ],
+      "timestamp": "2025-09-02T15:02:00.201Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8168-a789-f4f1b7bee337"
+    },
+    {
+      "question": "在 Sui 区块链上，检查点的主要用途是什么？",
+      "options": [
+        "生成效果证书",
+        "生成效果证书",
+        "存储交易数据",
+        "存储交易数据",
+        "记录网络状态的一致性快照",
+        "记录网络状态的一致性快照",
+        "验证交易的有效性",
+        "验证交易的有效性"
+      ],
+      "correctAnswers": [
+        "记录网络状态的一致性快照"
+      ],
+      "timestamp": "2025-09-02T15:03:57.202Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8168-a789-f4f1b7bee337"
+    },
+    {
+      "question": "Sui 的交易快且不贵因为不需要被验证。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T15:04:26.136Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8168-a789-f4f1b7bee337"
+    },
+    {
+      "question": "当前，复杂交易通过 Sui 的 Narwhal 和 Bullshark 协议达成共识。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:04:48.109Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8159-a897-ebc0768b5a6e"
+    },
+    {
+      "question": "在有向无环图 (DAG) 中，表示交易之间依赖关系的是什么？",
+      "options": [
+        "交易节点",
+        "交易节点",
+        "边",
+        "边",
+        "检查点",
+        "检查点",
+        "区块",
+        "区块"
+      ],
+      "correctAnswers": [
+        "边"
+      ],
+      "timestamp": "2025-09-02T15:04:58.999Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8159-a897-ebc0768b5a6e"
+    },
+    {
+      "question": "简单交易与复杂交易的主要区别是什么？",
+      "options": [
+        "简单交易不需要经过共识",
+        "简单交易不需要经过共识",
+        "简单交易需要经过复杂的共识流程",
+        "简单交易需要经过复杂的共识流程",
+        "简单交易涉及共享对象",
+        "简单交易涉及共享对象",
+        "简单交易速度较慢",
+        "简单交易速度较慢"
+      ],
+      "correctAnswers": [
+        "简单交易不需要经过共识"
+      ],
+      "timestamp": "2025-09-02T15:05:27.808Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8182-9751-d629849a48f6"
+    },
+    {
+      "question": "Sui Bridge 的安全性主要依赖于哪种机制？",
+      "options": [
+        "跨链手续费",
+        "跨链手续费",
+        "验证节点的签名和投票权门槛",
+        "验证节点的签名和投票权门槛",
+        "中央管理服务器",
+        "中央管理服务器",
+        "用户密码的复杂性",
+        "用户密码的复杂性"
+      ],
+      "correctAnswers": [
+        "验证节点的签名和投票权门槛"
+      ],
+      "timestamp": "2025-09-02T15:06:41.012Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81c3-8977-d6d7021f2fd8"
+    },
+    {
+      "question": "DeepBook 的主要功能不包括以下哪项？",
+      "options": [
+        "订单管理",
+        "订单管理",
+        "市场撮合",
+        "市场撮合",
+        "资产交易",
+        "资产交易",
+        "中心化交易",
+        "中心化交易"
+      ],
+      "correctAnswers": [
+        "中心化交易"
+      ],
+      "timestamp": "2025-09-02T15:10:44.720Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81c3-8977-d6d7021f2fd8"
+    },
+    {
+      "question": "Sui 钱包的功能不包括以下哪项？",
+      "options": [
+        "资产管理",
+        "资产管理",
+        "dApp 交互",
+        "dApp 交互",
+        "借贷服务",
+        "借贷服务",
+        "安全性保障",
+        "安全性保障"
+      ],
+      "correctAnswers": [
+        "借贷服务"
+      ],
+      "timestamp": "2025-09-02T15:12:45.465Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81d6-840a-cd52fbe4a432"
+    },
+    {
+      "question": "Telos 中哪个网络支持 WASM 智能合约？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Telos Zero"
+      ],
+      "timestamp": "2025-09-02T15:04:52.024Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/078b5725-2a97-46c9-9c74-dfc6992e1d20"
+    },
+    {
+      "question": "Telos Network 的独特之处在于",
+      "options": [
+        "它允许抢先交易。",
+        "它允许抢先交易。",
+        "它每秒可以处理 15,200 笔交易。",
+        "它每秒可以处理 15,200 笔交易。",
+        "它具有快速的确认性。",
+        "它具有快速的确认性。",
+        "它的碳排放足迹很高。",
+        "它的碳排放足迹很高。"
+      ],
+      "correctAnswers": [
+        "它每秒可以处理 15,200 笔交易。",
+        "它具有快速的确认性。"
+      ],
+      "timestamp": "2025-09-02T15:05:19.757Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/abd417a5-67df-489c-9d1c-894e17520b53"
+    },
+    {
+      "question": "Telos 是如何杜绝抢先交易问题的？",
+      "options": [
+        "通过提高交易费用",
+        "通过提高交易费用",
+        "通过没有内存池的架构设计",
+        "通过没有内存池的架构设计",
+        "通过延迟交易确认时间",
+        "通过延迟交易确认时间",
+        "通过限制交易数量",
+        "通过限制交易数量"
+      ],
+      "correctAnswers": [
+        "通过没有内存池的架构设计"
+      ],
+      "timestamp": "2025-09-02T15:05:35.965Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/abd417a5-67df-489c-9d1c-894e17520b53"
+    },
+    {
+      "question": "以下哪些选项是 TLOS 代币在 Telos 网络上的主要用途？（多选）",
+      "options": [
+        "支付 Gas 费",
+        "支付 Gas 费",
+        "参与治理和投票",
+        "参与治理和投票",
+        "资源分配",
+        "资源分配",
+        "转账",
+        "转账"
+      ],
+      "correctAnswers": [
+        "支付 Gas 费",
+        "参与治理和投票",
+        "资源分配",
+        "转账"
+      ],
+      "timestamp": "2025-09-02T15:06:19.583Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/032af257-cad6-4a17-82e5-80cb553e25bd"
+    },
+    {
+      "question": "Snarktor 是 Telos 区块链中的一项概念验证技术，其主要功能是？",
+      "options": [
+        "提供流动性池",
+        "提供流动性池",
+        "实现高效的隐私保护和数据验证",
+        "实现高效的隐私保护和数据验证",
+        "进行去中心化交易",
+        "进行去中心化交易",
+        "管理游戏中的数字资产",
+        "管理游戏中的数字资产"
+      ],
+      "correctAnswers": [
+        "实现高效的隐私保护和数据验证"
+      ],
+      "timestamp": "2025-09-02T15:06:58.139Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/e49709e0-648e-480f-b51a-44e0b6da08b9"
+    },
+    {
+      "question": "Telos 开发智能合约支持哪些语言?",
+      "options": [
+        "C",
+        "C",
+        "C++",
+        "C++",
+        "Rust",
+        "Rust",
+        "Typescript",
+        "Typescript"
+      ],
+      "correctAnswers": [
+        "C",
+        "C++",
+        "Rust",
+        "Typescript"
+      ],
+      "timestamp": "2025-09-02T15:07:24.491Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/f609276f-8504-4f69-bd89-7f5166ccf5b1"
+    },
+    {
+      "question": "Telos 网络的哪一个环境提供了高效、安全的区块链基础设施，并且适用于 EVM 开发人员？",
+      "options": [
+        "Telos Zero",
+        "Telos Zero",
+        "Telos EVM",
+        "Telos EVM",
+        "Hyperion",
+        "Hyperion",
+        "Teloscan API",
+        "Teloscan API"
+      ],
+      "correctAnswers": [
+        "Telos EVM"
+      ],
+      "timestamp": "2025-09-02T15:07:35.925Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/d652f49f-b4a4-40f6-9d1c-7a7f9ee6d517"
+    },
+    {
+      "question": "当新启动的节点要加入 Telos 网络时，它首先会连接到哪种类型的节点来获取连接信息?",
+      "options": [
+        "API 节点",
+        "API 节点",
+        "生产节点",
+        "生产节点",
+        "种子节点",
+        "种子节点",
+        "历史 API 节点",
+        "历史 API 节点"
+      ],
+      "correctAnswers": [
+        "种子节点"
+      ],
+      "timestamp": "2025-09-02T15:08:04.269Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/71c65f06-33a0-4f0d-aec2-9829666d2eac"
+    },
+    {
+      "question": "Telos Bridge 跨链桥建立在什么协议之上？",
+      "options": [
+        "LayerZero",
+        "LayerZero",
+        "Polkadot",
+        "Polkadot",
+        "Cosmos",
+        "Cosmos",
+        "Chainlink",
+        "Chainlink"
+      ],
+      "correctAnswers": [
+        "LayerZero"
+      ],
+      "timestamp": "2025-09-02T15:08:11.320Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/71bda18e-0d1e-45a9-b18b-001953aebf65"
+    },
+    {
+      "question": "可以通过 Telos 区块链浏览器执行以下哪些操作？（多选）",
+      "options": [
+        "查看交易历史",
+        "查看交易历史",
+        "查看账户余额",
+        "查看账户余额",
+        "查看区块详细信息",
+        "查看区块详细信息",
+        "进行转账",
+        "进行转账"
+      ],
+      "correctAnswers": [
+        "查看交易历史",
+        "查看账户余额",
+        "查看区块详细信息"
+      ],
+      "timestamp": "2025-09-02T15:08:27.729Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/bcfbe8bc-2187-4c3e-b5a1-773949e8e048"
+    },
+    {
+      "question": "在 Foundry 部署智能合约时，如何验证合约？",
+      "options": [
+        "通过 --verify 和 --verifier sourcify 参数",
+        "通过 --verify 和 --verifier sourcify 参数",
+        "自动验证，无需额外参数",
+        "自动验证，无需额外参数",
+        "通过 --validate 参数",
+        "通过 --validate 参数",
+        "在智能合约部署后手动验证",
+        "在智能合约部署后手动验证"
+      ],
+      "correctAnswers": [
+        "通过 --verify 和 --verifier sourcify 参数"
+      ],
+      "timestamp": "2025-09-02T15:08:42.410Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/db45f827-fa88-40c9-9adf-6d4da2bd0abd"
+    },
+    {
+      "question": "我们在进行区块链开发时，为什么建议使用测试账户？",
+      "options": [
+        "测试账户比主账户更安全",
+        "测试账户比主账户更安全",
+        "测试账户可以免费获得无限数量的测试币",
+        "测试账户可以免费获得无限数量的测试币",
+        "测试账户在开发过程中可以防止误操作带来的经济损失",
+        "测试账户在开发过程中可以防止误操作带来的经济损失",
+        "测试账户可以绕过区块链的安全机制",
+        "测试账户可以绕过区块链的安全机制"
+      ],
+      "correctAnswers": [
+        "测试账户在开发过程中可以防止误操作带来的经济损失"
+      ],
+      "timestamp": "2025-09-02T15:08:53.265Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1d4296ef-698b-401b-9f1b-ac0539e10b95/2a7bdf5c-d2f5-4179-8e12-1fa4c10b21da"
+    },
+    {
+      "question": "Vara Network 是",
+      "options": [
+        "基于 Gear Protocol 构建的。",
+        "基于 Gear Protocol 构建的。",
+        "兼容 EVM。",
+        "兼容 EVM。",
+        "一个第 2 层解决方案。",
+        "一个第 2 层解决方案。"
+      ],
+      "correctAnswers": [
+        "基于 Gear Protocol 构建的。"
+      ],
+      "timestamp": "2025-09-02T16:19:56.317Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/be883588-b214-4ce0-8f34-56b00ffe5a62"
+    },
+    {
+      "question": "以下哪项不是 Actor 模型的优点？",
+      "options": [
+        "同步进程。",
+        "同步进程。",
+        "可扩展性。",
+        "可扩展性。",
+        "并发性。",
+        "并发性。",
+        "隐私性。",
+        "隐私性。"
+      ],
+      "correctAnswers": [
+        "同步进程。"
+      ],
+      "timestamp": "2025-09-02T16:20:12.992Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/9f15b288-1b40-41f0-87a6-0dfb0ed7353c"
+    },
+    {
+      "question": "Wasm 的哪些特性使其在区块链环境中具备优势？",
+      "options": [
+        "运行速度。",
+        "运行速度。",
+        "允许非传统网络开发语言。",
+        "允许非传统网络开发语言。",
+        "跨平台执行。",
+        "跨平台执行。",
+        "可移植性和互操作性。",
+        "可移植性和互操作性。"
+      ],
+      "correctAnswers": [
+        "运行速度。",
+        "允许非传统网络开发语言。",
+        "跨平台执行。",
+        "可移植性和互操作性。"
+      ],
+      "timestamp": "2025-09-02T16:20:26.226Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/0e28232d-d24c-4239-a800-bf26d4172491"
+    },
+    {
+      "question": "Gear Protocol 使用传统区块链的存储方式。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:20:40.229Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/fdd6ad79-6ca2-440b-98db-30fc9b845698"
+    },
+    {
+      "question": "Vara Network 中的延迟消息传递允许智能合约自主执行？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:20:52.594Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/65960d3e-0c21-4ce0-aa9a-c7cfca674338"
+    },
+    {
+      "question": "消息和程序可以永远保留在 Vara Network 中。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:21:35.796Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/6d25a6e8-1b90-4d28-b911-d5bf5c9efa18"
+    },
+    {
+      "question": "Gas 预留可以帮助优先处理重要的交易。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:21:57.120Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/e2ed29e6-e63d-4c89-a4b7-cebcfae724a9"
+    },
+    {
+      "question": "ZKML 是零知识证明和机器学习技术的结合。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T16:22:04.118Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/a3821b7f-b787-4aea-8bec-b070c255bb13"
+    },
+    {
+      "question": "验证者和提名者共享奖励。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "True"
+      ],
+      "timestamp": "2025-09-02T16:22:29.898Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/c325e172-b835-4c22-a87d-b3845fc28372"
+    },
+    {
+      "question": "Vara 和 VARA 有什么区别？",
+      "options": [
+        "Vara 指的是网络，VARA 指的是代币。",
+        "Vara 指的是网络，VARA 指的是代币。",
+        "Vara 指的是代币，VARA 指的是网络。",
+        "Vara 指的是代币，VARA 指的是网络。",
+        "没有区别。",
+        "没有区别。"
+      ],
+      "correctAnswers": [
+        "Vara 指的是网络，VARA 指的是代币。"
+      ],
+      "timestamp": "2025-09-02T16:22:43.049Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/81d5564b-40b0-4fca-a5b8-e5a048d4a086"
+    },
+    {
+      "question": "SubQuery 只支持 Vara Network，并不支持其他的区块链。",
+      "options": [
+        "正确",
+        "正确",
+        "错误",
+        "错误"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T16:23:46.428Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/4d360761-19c3-42fb-9461-96551970db81/25c90c96-5b70-4e48-b272-f52ed2e5e0f2"
+    },
+    {
+      "question": "Wormhole 的主要用途是什么？",
+      "options": [
+        "提升以太坊交易速度",
+        "提升以太坊交易速度",
+        "连接不同的区块链网络",
+        "连接不同的区块链网络",
+        "挖掘新的加密货币",
+        "挖掘新的加密货币",
+        "替代传统的智能合约",
+        "替代传统的智能合约"
+      ],
+      "correctAnswers": [
+        "连接不同的区块链网络"
+      ],
+      "timestamp": "2025-09-02T15:29:48.057Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-8167-99e2-c0bcbd75f036?phaseId=1c0e7446-5ed5-8196-8b4b-d008dafa7735"
+    },
+    {
+      "question": "Wormhole 支持以下哪些区块链？（可多选）",
+      "options": [
+        "Ethereum",
+        "Ethereum",
+        "Solana",
+        "Solana",
+        "Polygon",
+        "Polygon",
+        "Bitcoin",
+        "Bitcoin"
+      ],
+      "correctAnswers": [
+        "Ethereum",
+        "Solana",
+        "Polygon"
+      ],
+      "timestamp": "2025-09-02T15:34:40.631Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-8157-8e8f-da72151104b0"
+    },
+    {
+      "question": "Wormhole 主要解决的一个核心问题是什么？",
+      "options": [
+        "提高比特币挖矿效率",
+        "提高比特币挖矿效率",
+        "修复以太坊 Gas 费问题",
+        "修复以太坊 Gas 费问题",
+        "实现多链通信",
+        "实现多链通信",
+        "创建新的区块链",
+        "创建新的区块链"
+      ],
+      "correctAnswers": [
+        "实现多链通信"
+      ],
+      "timestamp": "2025-09-02T15:35:32.112Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-8186-bc04-fcc98df48685"
+    },
+    {
+      "question": "Guardians 会生成什么以批准跨链交易？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "VAA"
+      ],
+      "timestamp": "2025-09-02T15:38:19.959Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-814c-9408-c30723f7ab51"
+    },
+    {
+      "question": "Wormhole 的产品包括哪些？（可多选）",
+      "options": [
+        "Wormhole Connect",
+        "Wormhole Connect",
+        "Wormhole Token Bridge",
+        "Wormhole Token Bridge",
+        "Wormhole Core Contract",
+        "Wormhole Core Contract",
+        "Wormhole Native Token Transfers (NTT)",
+        "Wormhole Native Token Transfers (NTT)"
+      ],
+      "correctAnswers": [
+        "Wormhole Connect",
+        "Wormhole Token Bridge",
+        "Wormhole Native Token Transfers (NTT)"
+      ],
+      "timestamp": "2025-09-02T15:40:06.488Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-815c-b718-ec4af9cc2605"
+    },
+    {
+      "question": "使用 Wormhole Token Bridge 时，代币会发生什么？",
+      "options": [
+        "它们被永久销毁。",
+        "它们被永久销毁。",
+        "它们被锁定在源链上，并在目标链上铸造。",
+        "它们被锁定在源链上，并在目标链上铸造。",
+        "它们像普通钱包交易一样被直接转移。",
+        "它们像普通钱包交易一样被直接转移。",
+        "它们被发送到中心化交易所。",
+        "它们被发送到中心化交易所。"
+      ],
+      "correctAnswers": [
+        "它们被锁定在源链上，并在目标链上铸造。"
+      ],
+      "timestamp": "2025-09-02T15:40:19.573Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-81c6-908a-f3dfaac757f6"
+    },
+    {
+      "question": "由 Token Bridge 铸造的封装代币在各方面都与原始资产一致。这一说法是：",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T15:41:13.620Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-81c6-908a-f3dfaac757f6"
+    },
+    {
+      "question": "以下哪些是 CCTP 的优势？（可多选）",
+      "options": [
+        "USDC 在目标链上仍然是原生代币",
+        "USDC 在目标链上仍然是原生代币",
+        "不再需要封装版 USDC",
+        "不再需要封装版 USDC",
+        "使用锁定-铸造机制",
+        "使用锁定-铸造机制",
+        "通过减少桥接风险提升安全性",
+        "通过减少桥接风险提升安全性"
+      ],
+      "correctAnswers": [
+        "USDC 在目标链上仍然是原生代币",
+        "不再需要封装版 USDC",
+        "通过减少桥接风险提升安全性"
+      ],
+      "timestamp": "2025-09-02T15:42:04.561Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-8137-9cd0-d02305768b95"
+    },
+    {
+      "question": "CCTP 可用于转移任意代币，而不仅限于 USDC。该说法是",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-02T15:42:42.741Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-8137-9cd0-d02305768b95"
+    },
+    {
+      "question": "NTT 允许在跨链转移中保留原始代币属性。这句话是",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:45:55.141Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-81f5-aeb2-f61df82d9885"
+    },
+    {
+      "question": "Wormhole 浏览器可以帮助你排查卡住的交易，方法是查看是否已生成并提交了 。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "VAA"
+      ],
+      "timestamp": "2025-09-02T15:46:27.019Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-8131-823e-c0b7a5a8aee9"
+    }
+  ]
+}
