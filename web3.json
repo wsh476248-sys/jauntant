@@ -3052,12 +3052,12 @@
         "预编译的二进制文件仅支持 Linux x86_64。",
         "Docker 可用于 macOS、Windows 和 Linux。",
         "Windows 可直接运行预编译的 injectived CLI。",
-        "源码可在 ARM 架构的 Linux 系统上编译。",
+        "源码可在 ARM 架构的 Linux 系统上编译。"
       ],
       "correctAnswers": [
         "预编译的二进制文件仅支持 Linux x86_64。",
         "Docker 可用于 macOS、Windows 和 Linux。",
-        "源码可在 ARM 架构的 Linux 系统上编译。",
+        "源码可在 ARM 架构的 Linux 系统上编译。"
       ],
       "timestamp": "2025-08-18T11:12:39.525Z",
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e2-add2-d4495284509d"
