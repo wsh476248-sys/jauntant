@@ -3385,7 +3385,7 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-81df-a4ce-c3efaebbd365"
     },
     {
-      "question": "Linea，前身为 ConsenSys zkEVM，是由 ConsenSys 开发的零知识证明（ZK-Rollup）方案。它是一个与以太坊虚拟机（EVM）完全等效的二层网络，旨在实现高吞吐量和低交易成本，同时保持与 EVM 的完全兼容性。Linea 的推出，为以太坊生态系统中的开发者提供了一个强大的平台，以支持去中心化应用（DApps）的构建和扩展，而无需对现有代码进行重大修改。",
+      "question": "Linea 生态系统通过整合多种应用和服务，从 Bridge 到 NFT 市场，再到 Infrastructure 建设、DeFi 应用、数据服务、开发工具，以及娱乐领域的探索，构建了一个多元化、全面且可扩展的区块链解决方案平台。",
       "options": [
         "未找到选项"
       ],
@@ -3408,6 +3408,28 @@
     },
     {
       "question": "Linea 是 Consensys 推出的 ZK-Rollup 解决方案，强调提升 DeFi 体验、开发者友好、庞大工具支持、强安全性和合规背书。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": "在 Linea 去中心化路线图的第二阶段中，包含了 多元化安全委员会 和 启用抗审查退出 这两个重要组成部分。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": "Linea 在第四阶段的路线图中提出了实施多重证明者（Multi-Prover）和限制治理权力来增强生态系统的稳健性和减轻与信任相关的风险。",
       "options": [
         "未找到选项"
       ],
