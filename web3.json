@@ -3462,6 +3462,45 @@
       "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
     },
     {
+      "question": "Wormhole 支持以下哪些区块链？ （可多选）",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "Ethereum",
+        "Solana",
+        "Polygon"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": " 以下哪些是 CCTP 的优势？ （可多选）",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "USDC 在目标链上仍然是原生代币",
+        "不再需要封装版 USDC",
+        "通过减少桥接风险提升安全性"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": "以下哪些是 NTT 的优势？ （多选）",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "代币在目标链上保持原生状态",
+        "无需使用封装代币",
+        "降低桥接风险，提供更高安全性"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
       "question": "Linea 是以太坊等价的 zkEVM rollup 网络。 作为以太坊第 2 层解决方案，它增强了可扩展性，降低了交易成本，并实现了无缝的用户体验。",
       "options": [
         "未找到选项"
