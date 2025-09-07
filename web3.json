@@ -2942,6 +2942,17 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8148-b6f1-ebefddb97ff2"
     },
     {
+      "question": "Injective 网络使用不同格式的 denom（如 inj、peggy 和 ibc）来表示代币的来源和类型。以下说法是  的",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-08-18T11:11:11.122Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8148-b6f1-ebefddb97ff2"
+    },
+    {
       "question": "你想用 MetaMask 将 10 个 USDT 从以太坊桥接到 Injective。你应该从 Injective Bridge 的哪个标签页开始？",
       "options": [
         "法币桥接（Fiat Bridge）",
