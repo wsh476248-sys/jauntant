@@ -6311,6 +6311,386 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1c0e7446-5ed5-8175-93ec-c1baec60c98c/1c0e7446-5ed5-81f5-aeb2-f61df82d9885"
     },
     {
+      "question": "Sui 平台的哪一项特性使其在智能合约开发中具有独特的优势？",
+      "options": [
+        "使用 Solidity 编程语言",
+        "使用 Solidity 编程语言",
+        "交易费用高",
+        "交易费用高",
+        "支持每秒数十万笔交易并可实现横向扩展",
+        "支持每秒数十万笔交易并可实现横向扩展",
+        "采用传统的共识架构",
+        "采用传统的共识架构"
+      ],
+      "correctAnswers": [
+        "支持每秒数十万笔交易并可实现横向扩展"
+      ],
+      "timestamp": "2025-09-07T11:26:33.258Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d837abf5-21d5-47c7-ae90-070822b564d3?phaseId=14de7446-5ed5-81dd-b934-fa531385d74c"
+    },
+    {
+      "question": "Sui 是由 Meta 原先的区块链团队衍生出的独立区块链项目。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-07T11:26:46.217Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/06b1b42a-f7ca-4a30-b91a-1f7efe948a9c"
+    },
+    {
+      "question": "Sui 采用了 Move 编程语言。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-07T11:26:50.381Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/f4023502-f0d2-47c6-b446-ff60e459c206"
+    },
+    {
+      "question": "委托权益证明（DPoS）机制中，用户通过什么方式获得奖励？",
+      "options": [
+        "参与治理",
+        "参与治理",
+        "提供存储服务",
+        "提供存储服务",
+        "质押 SUI 代币给验证者节点",
+        "质押 SUI 代币给验证者节点",
+        "支付交易费用",
+        "支付交易费用"
+      ],
+      "correctAnswers": [
+        "质押 SUI 代币给验证者节点"
+      ],
+      "timestamp": "2025-09-07T11:26:57.560Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/4b48bce4-6052-41e2-bd96-39c78ed01ab5"
+    },
+    {
+      "question": "存储基金的主要作用是什么？",
+      "options": [
+        "提供交易费用补贴",
+        "提供交易费用补贴",
+        "支付验证节点的奖励",
+        "支付验证节点的奖励",
+        "确保长期数据存储的可持续性",
+        "确保长期数据存储的可持续性",
+        "参与网络治理",
+        "参与网络治理"
+      ],
+      "correctAnswers": [
+        "确保长期数据存储的可持续性"
+      ],
+      "timestamp": "2025-09-07T11:26:59.515Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/4b48bce4-6052-41e2-bd96-39c78ed01ab5"
+    },
+    {
+      "question": "在 Sui 区块链中，Gas 费用的总公式是什么？",
+      "options": [
+        "总 Gas 费用 = 计算单位 + 存储单位",
+        "总 Gas 费用 = 计算单位 + 存储单位",
+        "总 Gas 费用 = 计算单位 × 参考 Gas 价格 + 存储单位 × 存储价格",
+        "总 Gas 费用 = 计算单位 × 参考 Gas 价格 + 存储单位 × 存储价格",
+        "总 Gas 费用 = 计算单位 - 存储单位",
+        "总 Gas 费用 = 计算单位 - 存储单位",
+        "总 Gas 费用 = 存储单位 / 参考 Gas 价格",
+        "总 Gas 费用 = 存储单位 / 参考 Gas 价格"
+      ],
+      "correctAnswers": [
+        "总 Gas 费用 = 计算单位 × 参考 Gas 价格 + 存储单位 × 存储价格"
+      ],
+      "timestamp": "2025-09-07T11:27:04.560Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d997fbf0-03a6-4e1f-b5ac-e616d83ee0bb"
+    },
+    {
+      "question": "什么是“Gas 高尔夫”？",
+      "options": [
+        "一种新的区块链游戏",
+        "一种新的区块链游戏",
+        "开发者通过极端优化代码以减少 Gas 消耗的行为",
+        "开发者通过极端优化代码以减少 Gas 消耗的行为",
+        "一种节省存储费用的方法",
+        "一种节省存储费用的方法",
+        "用户通过投票来降低 Gas 费用",
+        "用户通过投票来降低 Gas 费用"
+      ],
+      "correctAnswers": [
+        "开发者通过极端优化代码以减少 Gas 消耗的行为"
+      ],
+      "timestamp": "2025-09-07T11:27:05.844Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d997fbf0-03a6-4e1f-b5ac-e616d83ee0bb"
+    },
+    {
+      "question": "在 Sui 区块链中，什么情况会导致 Gas 费用的返还？",
+      "options": [
+        "创建新的数据对象",
+        "创建新的数据对象",
+        "增加交易的计算复杂度",
+        "增加交易的计算复杂度",
+        "减少交易的计算复杂度",
+        "减少交易的计算复杂度",
+        "删除之前存储的数据",
+        "删除之前存储的数据"
+      ],
+      "correctAnswers": [
+        "删除之前存储的数据"
+      ],
+      "timestamp": "2025-09-07T11:27:09.285Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/d997fbf0-03a6-4e1f-b5ac-e616d83ee0bb"
+    },
+    {
+      "question": "Move 语言的设计初衷是解决以下哪个问题？",
+      "options": [
+        "可扩展性和速度",
+        "可扩展性和速度",
+        "所有权和稀缺性",
+        "所有权和稀缺性",
+        "安全性保障",
+        "安全性保障",
+        "数据库管理",
+        "数据库管理"
+      ],
+      "correctAnswers": [
+        "所有权和稀缺性",
+        "安全性保障"
+      ],
+      "timestamp": "2025-09-07T11:30:27.645Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/077c0ab3-c07d-4913-a338-32f2c8cb1913"
+    },
+    {
+      "question": "在 Sui 中，每个对象和包都有什么特点？",
+      "options": [
+        "具有唯一标识符",
+        "具有唯一标识符",
+        "可以自由复制",
+        "可以自由复制",
+        "使用实时调度",
+        "使用实时调度",
+        "依赖硬件加速",
+        "依赖硬件加速"
+      ],
+      "correctAnswers": [
+        "具有唯一标识符"
+      ],
+      "timestamp": "2025-09-07T11:30:31.755Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/077c0ab3-c07d-4913-a338-32f2c8cb1913"
+    },
+    {
+      "question": "在 Sui 中，对象的版本（version）主要用于什么目的？",
+      "options": [
+        "防止重放攻击",
+        "防止重放攻击",
+        "管理对象的生命周期",
+        "管理对象的生命周期",
+        "确定对象的所有者权限",
+        "确定对象的所有者权限",
+        "加速对象的数据访问",
+        "加速对象的数据访问"
+      ],
+      "correctAnswers": [
+        "防止重放攻击"
+      ],
+      "timestamp": "2025-09-07T11:30:48.825Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/664e1c6a-32a5-44b2-a887-2e7cc04eede2"
+    },
+    {
+      "question": "在 Sui 中，封装对象的所有权由谁决定？",
+      "options": [
+        "所有者对象",
+        "所有者对象",
+        "共享对象",
+        "共享对象",
+        "不可变对象",
+        "不可变对象",
+        "持有它的对象",
+        "持有它的对象"
+      ],
+      "correctAnswers": [
+        "持有它的对象"
+      ],
+      "timestamp": "2025-09-07T11:31:37.245Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/355f237e-cfb3-4576-bb3b-ff74cebb8184"
+    },
+    {
+      "question": "以下哪项不是 Sui 交易的通用元数据？",
+      "options": [
+        "发送者地址",
+        "发送者地址",
+        "Gas 价格",
+        "Gas 价格",
+        "交易的执行时间",
+        "交易的执行时间",
+        "最大 gas 预算",
+        "最大 gas 预算"
+      ],
+      "correctAnswers": [
+        "交易的执行时间"
+      ],
+      "timestamp": "2025-09-07T11:31:49.130Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8120-a5f3-f59ef1a403b3"
+    },
+    {
+      "question": "在 PTB 交易类型中，如果其中的某个交易失败了，不影响其他交易的执行？",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-07T11:32:03.033Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8120-a5f3-f59ef1a403b3"
+    },
+    {
+      "question": "什么机制决定了交易的顺序并执行涉及共享对象的交易？",
+      "options": [
+        "验证者检查",
+        "验证者检查",
+        "共识机制",
+        "共识机制",
+        "提交交易",
+        "提交交易",
+        "生成效果证书",
+        "生成效果证书"
+      ],
+      "correctAnswers": [
+        "共识机制"
+      ],
+      "timestamp": "2025-09-07T11:32:06.187Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8168-a789-f4f1b7bee337"
+    },
+    {
+      "question": "在 Sui 区块链上，检查点的主要用途是什么？",
+      "options": [
+        "生成效果证书",
+        "生成效果证书",
+        "存储交易数据",
+        "存储交易数据",
+        "记录网络状态的一致性快照",
+        "记录网络状态的一致性快照",
+        "验证交易的有效性",
+        "验证交易的有效性"
+      ],
+      "correctAnswers": [
+        "记录网络状态的一致性快照"
+      ],
+      "timestamp": "2025-09-07T11:32:07.970Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8168-a789-f4f1b7bee337"
+    },
+    {
+      "question": "Sui 的交易快且不贵因为不需要被验证。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "错误"
+      ],
+      "timestamp": "2025-09-07T11:32:10.097Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8168-a789-f4f1b7bee337"
+    },
+    {
+      "question": "当前，复杂交易通过 Sui 的 Narwhal 和 Bullshark 协议达成共识。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-07T11:32:15.380Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8159-a897-ebc0768b5a6e"
+    },
+    {
+      "question": "在有向无环图 (DAG) 中，表示交易之间依赖关系的是什么？",
+      "options": [
+        "交易节点",
+        "交易节点",
+        "边",
+        "边",
+        "检查点",
+        "检查点",
+        "区块",
+        "区块"
+      ],
+      "correctAnswers": [
+        "边"
+      ],
+      "timestamp": "2025-09-07T11:32:17.210Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8159-a897-ebc0768b5a6e"
+    },
+    {
+      "question": "简单交易与复杂交易的主要区别是什么？",
+      "options": [
+        "简单交易不需要经过共识",
+        "简单交易不需要经过共识",
+        "简单交易需要经过复杂的共识流程",
+        "简单交易需要经过复杂的共识流程",
+        "简单交易涉及共享对象",
+        "简单交易涉及共享对象",
+        "简单交易速度较慢",
+        "简单交易速度较慢"
+      ],
+      "correctAnswers": [
+        "简单交易不需要经过共识"
+      ],
+      "timestamp": "2025-09-07T11:32:28.655Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-8182-9751-d629849a48f6"
+    },
+    {
+      "question": "Sui Bridge 的安全性主要依赖于哪种机制？",
+      "options": [
+        "跨链手续费",
+        "跨链手续费",
+        "验证节点的签名和投票权门槛",
+        "验证节点的签名和投票权门槛",
+        "中央管理服务器",
+        "中央管理服务器",
+        "用户密码的复杂性",
+        "用户密码的复杂性"
+      ],
+      "correctAnswers": [
+        "验证节点的签名和投票权门槛"
+      ],
+      "timestamp": "2025-09-07T11:32:56.290Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81c3-8977-d6d7021f2fd8"
+    },
+    {
+      "question": "DeepBook 的主要功能不包括以下哪项？",
+      "options": [
+        "订单管理",
+        "订单管理",
+        "市场撮合",
+        "市场撮合",
+        "资产交易",
+        "资产交易",
+        "中心化交易",
+        "中心化交易"
+      ],
+      "correctAnswers": [
+        "中心化交易"
+      ],
+      "timestamp": "2025-09-07T11:32:58.036Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81c3-8977-d6d7021f2fd8"
+    },
+    {
+      "question": "Sui 钱包的功能不包括以下哪项？",
+      "options": [
+        "资产管理",
+        "资产管理",
+        "dApp 交互",
+        "dApp 交互",
+        "借贷服务",
+        "借贷服务",
+        "安全性保障",
+        "安全性保障"
+      ],
+      "correctAnswers": [
+        "借贷服务"
+      ],
+      "timestamp": "2025-09-07T11:33:05.167Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81d6-840a-cd52fbe4a432"
+    },
+    {
       "question": "Wormhole 浏览器可以帮助你排查卡住的交易，方法是查看是否已生成并提交了 。",
       "options": [
         "未找到选项"
