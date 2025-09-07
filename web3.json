@@ -3047,6 +3047,272 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e2-add2-d4495284509d"
     },
     {
+      "question": " 关于安装 injectived ，下列哪几项是 正确的 ？",
+      "options": [
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "Windows 可直接运行预编译的 injectived CLI。",
+        "源码可在 ARM 架构的 Linux 系统上编译。",
+      ],
+      "correctAnswers": [
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "源码可在 ARM 架构的 Linux 系统上编译。",
+      ],
+      "timestamp": "2025-08-18T11:12:39.525Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e2-add2-d4495284509d"
+    },
+    {
+      "question": "关于 Injective，下列哪项说法是正确的？",
+      "options": [
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 无法与传统金融工具或市场集成。",
+        "Injective 无法与传统金融工具或市场集成。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。"
+      ],
+      "correctAnswers": [
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。"
+      ],
+      "timestamp": "2025-09-07T08:01:22.017Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fce7446-5ed5-8117-b7a5-d9ca99b1f8e5?phaseId=1ffe7446-5ed5-81ec-ae76-c0f5879e5c38"
+    },
+    {
+      "question": "关于 Injective 核心架构的描述,哪些是正确的？",
+      "options": [
+        "基于 Cosmos 的模块化框架，内置 DeFi 模块",
+        "基于 Cosmos 的模块化框架，内置 DeFi 模块",
+        "通过工作量证明（PoW）共识实现快速出块",
+        "通过工作量证明（PoW）共识实现快速出块",
+        "通过 IBC 与以太坊桥接实现跨链支持",
+        "通过 IBC 与以太坊桥接实现跨链支持",
+        "通过批量拍卖执行机制抵抗 MEV（最大可提取价值）",
+        "通过批量拍卖执行机制抵抗 MEV（最大可提取价值）"
+      ],
+      "correctAnswers": [
+        "基于 Cosmos 的模块化框架，内置 DeFi 模块",
+        "通过 IBC 与以太坊桥接实现跨链支持",
+        "通过批量拍卖执行机制抵抗 MEV（最大可提取价值）"
+      ],
+      "timestamp": "2025-09-07T08:01:32.810Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fce7446-5ed5-8131-a8d5-e606bbcb760e"
+    },
+    {
+      "question": "你可以同时使用 MetaMask 和 Keplr 钱包连接 Injective 并访问 dApp。以下说法是",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "True"
+      ],
+      "timestamp": "2025-09-07T08:02:52.340Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fde7446-5ed5-81aa-b8ef-f306e27acf06"
+    },
+    {
+      "question": "以下关于 InjScan 的说法中，哪些是正确的？",
+      "options": [
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "InjScan 仅支持测试网数据，主网不可用。",
+        "InjScan 仅支持测试网数据，主网不可用。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "InjScan 为区块链交易提供可读性强的标签。",
+        "InjScan 为区块链交易提供可读性强的标签。"
+      ],
+      "correctAnswers": [
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "InjScan 为区块链交易提供可读性强的标签。"
+      ],
+      "timestamp": "2025-09-07T08:04:32.909Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fde7446-5ed5-8138-896a-ccee4a9d4968"
+    },
+    {
+      "question": "以下关于 Injective Hub 的描述中，哪些是正确的？",
+      "options": [
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "你可以通过图形界面和筛选工具参与治理投票",
+        "你可以通过图形界面和筛选工具参与治理投票",
+        "使用 Injective Hub 需要下载安装桌面应用",
+        "使用 Injective Hub 需要下载安装桌面应用"
+      ],
+      "correctAnswers": [
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "你可以通过图形界面和筛选工具参与治理投票"
+      ],
+      "timestamp": "2025-09-07T08:04:45.836Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-818e-a388-c261bad785ed"
+    },
+    {
+      "question": "Injective 网络使用不同格式的 denom（如 inj、peggy 和 ibc）来表示代币的来源和类型。以下说法是 的",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-07T08:04:54.857Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8148-b6f1-ebefddb97ff2"
+    },
+    {
+      "question": "你想用 MetaMask 将 10 个 USDT 从以太坊桥接到 Injective。你应该从 Injective Bridge 的哪个标签页开始？",
+      "options": [
+        "法币桥接（Fiat Bridge）",
+        "法币桥接（Fiat Bridge）",
+        "简易存取（Easy Deposit/Withdraw）",
+        "简易存取（Easy Deposit/Withdraw）",
+        "Wormhole Connect",
+        "Wormhole Connect",
+        "Solana 专用通道（Solana Portal）",
+        "Solana 专用通道（Solana Portal）"
+      ],
+      "correctAnswers": [
+        "简易存取（Easy Deposit/Withdraw）"
+      ],
+      "timestamp": "2025-09-07T08:05:13.910Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81f7-b754-cb2cc9606411"
+    },
+    {
+      "question": "关于安装 injectived，下列哪几项是正确的？",
+      "options": [
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "Windows 可直接运行预编译的 injectived CLI。",
+        "Windows 可直接运行预编译的 injectived CLI。",
+        "源码可在 ARM 架构的 Linux 系统上编译。",
+        "源码可在 ARM 架构的 Linux 系统上编译。"
+      ],
+      "correctAnswers": [
+        "预编译的二进制文件仅支持 Linux x86_64。",
+        "Docker 可用于 macOS、Windows 和 Linux。",
+        "源码可在 ARM 架构的 Linux 系统上编译。"
+      ],
+      "timestamp": "2025-09-07T08:05:53.159Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e5-af8e-db7a6ce64058"
+    },
+    {
+      "question": "如果你忘记设置 --gas-prices，会发生什么？",
+      "options": [
+        "钱包会被清空",
+        "钱包会被清空",
+        "命令会自动补全 gas",
+        "命令会自动补全 gas",
+        "交易可能会被 RPC 拒绝",
+        "交易可能会被 RPC 拒绝",
+        "交易照常广播",
+        "交易照常广播"
+      ],
+      "correctAnswers": [
+        "交易可能会被 RPC 拒绝"
+      ],
+      "timestamp": "2025-09-07T08:06:12.449Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/209e7446-5ed5-8161-8a28-f13f9e841af9"
+    },
+    {
+      "question": "以下哪项在使用 injectived CLI 发送代币时是不必要的？",
+      "options": [
+        "发送方的密钥必须已存在于本地密钥库中",
+        "发送方的密钥必须已存在于本地密钥库中",
+        "你必须手动签名并广播每一笔交易",
+        "你必须手动签名并广播每一笔交易",
+        "可以配置一个公开的 RPC 节点作为连接端点",
+        "可以配置一个公开的 RPC 节点作为连接端点",
+        "接收方的 Injective 地址必须是有效的",
+        "接收方的 Injective 地址必须是有效的"
+      ],
+      "correctAnswers": [
+        "你必须手动签名并广播每一笔交易"
+      ],
+      "timestamp": "2025-09-07T08:06:48.993Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8193-831b-ca96e1939518"
+    },
+    {
+      "question": "以下关于多签交易的说法，哪些是正确的？",
+      "options": [
+        "每位签名者需要按照特定顺序追加签名",
+        "每位签名者需要按照特定顺序追加签名",
+        "多签交易可以随意顺序签名，只要都签了就行",
+        "多签交易可以随意顺序签名，只要都签了就行",
+        "多签密钥是通过 -multisig 和 -multisig-threshold 参数创建的",
+        "多签密钥是通过 -multisig 和 -multisig-threshold 参数创建的",
+        "tx multi-sign 是基于已签名文件继续构建的，而不是原始的未签名交易",
+        "tx multi-sign 是基于已签名文件继续构建的，而不是原始的未签名交易"
+      ],
+      "correctAnswers": [
+        "每位签名者需要按照特定顺序追加签名",
+        "多签密钥是通过 -multisig 和 -multisig-threshold 参数创建的",
+        "tx multi-sign 是基于已签名文件继续构建的，而不是原始的未签名交易"
+      ],
+      "timestamp": "2025-09-07T08:07:35.481Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-81e2-add2-d4495284509d"
+    },
+    {
+      "question": "Injective 对 EVM 的支持意味着开发者可以：",
+      "options": [
+        "使用 JavaScript 编写智能合约",
+        "使用 JavaScript 编写智能合约",
+        "直接部署 Solidity 合约并用以太坊工具交互",
+        "直接部署 Solidity 合约并用以太坊工具交互",
+        "在 Injective 上部署 Cosmos SDK 模块",
+        "在 Injective 上部署 Cosmos SDK 模块",
+        "用 Python 与 Injective EVM 直接交互",
+        "用 Python 与 Injective EVM 直接交互"
+      ],
+      "correctAnswers": [
+        "直接部署 Solidity 合约并用以太坊工具交互"
+      ],
+      "timestamp": "2025-09-07T08:08:00.120Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-8116-a8ca-c5b2f24a5c6f"
+    },
+    {
+      "question": "Foundry 的 forge build 命令主要用于？",
+      "options": [
+        "部署合约到主网",
+        "部署合约到主网",
+        "编译 Solidity 合约",
+        "编译 Solidity 合约",
+        "验证合约源码",
+        "验证合约源码",
+        "查询区块浏览器",
+        "查询区块浏览器"
+      ],
+      "correctAnswers": [
+        "编译 Solidity 合约"
+      ],
+      "timestamp": "2025-09-07T08:08:45.842Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-816e-bcec-c7978effb1f2"
+    },
+    {
+      "question": "关于 cast send 与 cast call 的区别，以下说法正确的是？",
+      "options": [
+        "cast call 用于发送交易，而 cast send 用于读取状态",
+        "cast call 用于发送交易，而 cast send 用于读取状态",
+        "两者都只能在本地模拟，不会上链",
+        "两者都只能在本地模拟，不会上链",
+        "cast send 会发起链上交易，cast call 仅用于本地读取状态",
+        "cast send 会发起链上交易，cast call 仅用于本地读取状态",
+        "两者功能完全相同，只是名称不同",
+        "两者功能完全相同，只是名称不同"
+      ],
+      "correctAnswers": [
+        "cast send 会发起链上交易，cast call 仅用于本地读取状态"
+      ],
+      "timestamp": "2025-09-07T08:09:13.222Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/243e7446-5ed5-81df-a4ce-c3efaebbd365"
+    },
+    {
       "question": "Injective 对 EVM 的支持意味着开发者可以：",
       "options": [
         "使用 JavaScript 编写智能合约",
