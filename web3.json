@@ -6706,6 +6706,22 @@
       "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81d6-840a-cd52fbe4a432"
     },
     {
+      "question": "以下哪些是 NTT 的优势？（多选）",
+      "options": [
+        "代币在目标链上保持原生状态",
+        "使用锁定-铸造机制",
+        "无需使用封装代币",
+        "降低桥接风险，提供更高安全性"
+      ],
+      "correctAnswers": [
+        "代币在目标链上保持原生状态",
+        "无需使用封装代币",
+        "降低桥接风险，提供更高安全性"
+      ],
+      "timestamp": "2025-09-07T11:33:05.167Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/b7ac8a16-c482-449b-8f06-86fadefc569b/149e7446-5ed5-81d6-840a-cd52fbe4a432"
+    },
+    {
       "question": "Wormhole 浏览器可以帮助你排查卡住的交易，方法是查看是否已生成并提交了 。",
       "options": [
         "未找到选项"
