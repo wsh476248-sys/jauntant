@@ -3440,6 +3440,39 @@
       "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
     },
     {
+      "question": "Linea 的证明生成器在生成零知识证明过程中分为 生成内部证明 、 生成外部证明 两个阶段。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": "Consensys 是领先的区块链和 web3 软件公司，Linea 是 Consensys 开发的以太坊等效 zkEVM rollup 网络。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
+      "question": "Linea 是以太坊等价的 zkEVM rollup 网络。 作为以太坊第 2 层解决方案，它增强了可扩展性，降低了交易成本，并实现了无缝的用户体验。",
+      "options": [
+        "未找到选项"
+      ],
+      "correctAnswers": [
+        "正确"
+      ],
+      "timestamp": "2025-09-02T15:59:34.787Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/e5f2d64d-f841-4a5d-992a-f6aae48b640b/fa1ca90a-6a79-442e-855e-20536a7bacf5"
+    },
+    {
       "question": "Linea 在第四阶段的路线图中提出了实施多重证明者（Multi-Prover）和限制治理权力来增强生态系统的稳健性和减轻与信任相关的风险。",
       "options": [
         "未找到选项"
