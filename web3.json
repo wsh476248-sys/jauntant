@@ -3083,6 +3083,24 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fce7446-5ed5-8117-b7a5-d9ca99b1f8e5?phaseId=1ffe7446-5ed5-81ec-ae76-c0f5879e5c38"
     },
     {
+      "question": "如果你忘记设置 --gas-prices ，会发生什么？",
+      "options": [
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 是专为金融应用程序设计的第 1 层区块链。",
+        "Injective 无法与传统金融工具或市场集成。",
+        "Injective 无法与传统金融工具或市场集成。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 提供模块化组件，如 Exchange 和 Oracle 模块。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。",
+        "Injective 使开发人员能够使用 WASM、EVM 和 SVM 环境进行构建。"
+      ],
+      "correctAnswers": [
+        "交易可能会被 RPC 拒绝"
+      ],
+      "timestamp": "2025-09-07T08:01:22.017Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1fce7446-5ed5-8117-b7a5-d9ca99b1f8e5?phaseId=1ffe7446-5ed5-81ec-ae76-c0f5879e5c38"
+    },
+    {
       "question": "关于 Injective 核心架构的描述,哪些是正确的？",
       "options": [
         "基于 Cosmos 的模块化框架，内置 DeFi 模块",
@@ -3221,7 +3239,7 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/209e7446-5ed5-8161-8a28-f13f9e841af9"
     },
     {
-      "question": "以下哪项在使用 injectived CLI 发送代币时是不必要的？",
+      "question": "以下哪项在使用 injectived CLI 发送代币时是 不必要 的？",
       "options": [
         "发送方的密钥必须已存在于本地密钥库中",
         "发送方的密钥必须已存在于本地密钥库中",
