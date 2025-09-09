@@ -2942,7 +2942,7 @@
       "url": "https://www.hackquest.io/zh-cn/learn/1fce7446-5ed5-8145-9f12-e2b51e75d329/1ffe7446-5ed5-8148-b6f1-ebefddb97ff2"
     },
     {
-      "question": "Injective 网络使用不同格式的 denom（如 inj、peggy 和 ibc）来表示代币的来源和类型。以下说法是  的",
+      "question": "Injective 网络使用不同格式的 denom（如 inj、peggy 和 ibc）来表示代币的来源和类型。以下说法是 的",
       "options": [
         "未找到选项"
       ],
@@ -4597,6 +4597,36 @@
         "重新定义 AI 模型的所有权、执行权和验证权",
         "确保模型参数和推理结果的透明性",
         "通过智能合约触发和审计 AI 服务"
+      ],
+      "timestamp": "2025-09-02T15:16:26.807Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-812c-bbbb-c62fffeb5873"
+    },
+    {
+      "question": "以下关于 InjScan 的说法中，哪些是 正确的 ？",
+      "options": [
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "InjScan 为区块链交易提供可读性强的标签。"
+      ],
+      "correctAnswers": [
+        "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
+        "用户可以通过 InjScan 查看代币持有者和交易类型。",
+        "InjScan 为区块链交易提供可读性强的标签。"
+      ],
+      "timestamp": "2025-09-02T15:16:26.807Z",
+      "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-812c-bbbb-c62fffeb5873"
+    },
+    {
+      "question": "以下关于 Injective Hub 的描述中，哪些是 正确的 ？",
+      "options": [
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "你可以通过图形界面和筛选工具参与治理投票"
+      ],
+      "correctAnswers": [
+        "你可以在 Hub 中质押 INJ 并管理奖励",
+        "Burn Auction 功能可直接在 Hub 中使用",
+        "你可以通过图形界面和筛选工具参与治理投票"
       ],
       "timestamp": "2025-09-02T15:16:26.807Z",
       "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-812c-bbbb-c62fffeb5873"
