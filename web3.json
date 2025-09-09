@@ -4602,7 +4602,7 @@
       "url": "https://www.hackquest.io/zh-cn/learn/232e7446-5ed5-8148-97d7-dcf110b83b95/232e7446-5ed5-812c-bbbb-c62fffeb5873"
     },
     {
-      "question": "以下关于 InjScan 的说法中，哪些是 正确的 ？",
+      "question": "以下关于 InjScan 的说法中，哪些是 正确的？",
       "options": [
         "InjScan 允许用户直接在区块浏览器中与智能合约交互。",
         "用户可以通过 InjScan 查看代币持有者和交易类型。",
